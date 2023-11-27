@@ -1,4 +1,5 @@
 
+
 # The Structure of this Repository
 
 
@@ -47,8 +48,8 @@ This folder contains different versions of the gold standard (annotated by diffe
 - **random-training-data-other-taggers**
 This folder is intended for the tree database data. The **all_training_data.ipynb** script was used to create the different training splits for fine-tuning. The **compare_tagger_test.ipynb** script was used to compare the files tagged by the trained taggers with the reference test sets. This folder also contains all tagged versions of the test sets and the training splits for fine-tuning. 
 
--  **cltk** and **cltk_env**
-These folders contain the code that is used to perform POS tagging with CLTK. I have used the virtual environment to be able to use Python version 3.9.7. To activate the virtual environment, navigate to the parent directory and then enter the following command in your command line: 
+-  **cltk**
+This folder contains the code that is used to perform POS tagging with CLTK. I have used a virtual environment to be able to use Python version 3.9.7. To create this, use the command ```python3.9 -m venv cltk_env``` in the command line while being in the parent director. To activate the virtual environment, navigate to the parent directory and then enter the following command in your command line: 
 ```python source cltk_env/bin/activate``` and to deactivate it again, enter ```deactivate```. 
 
 - **latincy**
