@@ -1,0 +1,4210 @@
+non
+	ADJ
+autem
+	CCONJ
+a
+	DET
+seipso
+	PRON
+:
+	PUNCT
+quia
+	SCONJ
+sic
+	ADV
+idem
+	PRON
+esset
+	VERB
+agens
+	NOUN
+et
+	CCONJ
+patiens
+	NOUN
+;
+	PUNCT
+esset
+	VERB
+que
+	SCONJ
+aliquod
+	PRON
+agens
+	NOUN
+quod
+	PRON
+non
+	NOUN
+suam
+	PRON
+sed
+	VERB
+alterius
+	PRON
+similitudinem
+	NOUN
+induceret
+	VERB
+patienti
+	ADJ
+,
+	PUNCT
+et
+	CCONJ
+sic
+	ADV
+non
+	ADJ
+omne
+	NOUN
+agens
+	NOUN
+sibi
+	PRON
+simile
+	NOUN
+ageret
+	VERB
+.
+	PUNCT
+nec
+	CCONJ
+ab
+	X
+alio
+	NOUN
+:
+	PUNCT
+esset
+	VERB
+enim
+	SCONJ
+aliquod
+	DET
+agens
+	NOUN
+prius
+	ADV
+eo
+	ADV
+.
+	PUNCT
+ergo
+	SCONJ
+impossibile
+	ADJ
+est
+	VERB
+quod
+	PRON
+in
+	ADP
+ipso
+	ADP
+sit
+	VERB
+aliqua
+	PRON
+species
+	NOUN
+intelligibilis
+	ADJ
+praeter
+	ADP
+ipsius
+	PRON
+essentiam
+	NOUN
+.
+	PUNCT
+praeterea
+	SCONJ
+.
+	PUNCT
+intelligere
+	VERB
+dei
+	PROPN
+est
+	AUX
+eius
+	PRON
+esse
+	AUX
+,
+	PUNCT
+ut
+	PRON
+ostensum
+	NOUN
+est
+	VERB
+.
+	PUNCT
+si
+	SCONJ
+igitur
+	SCONJ
+intelligeret
+	VERB
+per
+	ADP
+aliquam
+	NOUN
+speciem
+	NOUN
+quae
+	PRON
+non
+	NOUN
+sit
+	VERB
+sua
+	PRON
+essentia
+	NOUN
+,
+	PUNCT
+esset
+	VERB
+per
+	ADP
+aliquod
+	PRON
+aliud
+	NOUN
+a
+	DET
+sua
+	PRON
+essentia
+	NOUN
+.
+	PUNCT
+quod
+	PRON
+est
+	VERB
+impossibile
+	ADJ
+.
+	PUNCT
+non
+	ADJ
+igitur
+	CCONJ
+intelligit
+	VERB
+per
+	ADP
+aliquam
+	NOUN
+speciem
+	NOUN
+quae
+	PRON
+non
+	ADJ
+sit
+	VERB
+sua
+	PRON
+essentia
+	NOUN
+.
+	PUNCT
+quod
+	PRON
+deus
+	NOUN
+intelligit
+	VERB
+perfecte
+	ADJ
+seipsum
+	PRON
+.
+	PUNCT
+ex
+	PUNCT
+hoc
+	PRON
+autem
+	CCONJ
+ulterius
+	ADV
+patet
+	VERB
+quod
+	PRON
+ipse
+	PRON
+seipsum
+	PRON
+perfecte
+	ADJ
+intelligit
+	VERB
+.
+	PUNCT
+cum
+	ADP
+enim
+	CCONJ
+per
+	ADP
+speciem
+	NOUN
+intelligibilem
+	ADJ
+intellectus
+	NOUN
+in
+	ADP
+rem
+	VERB
+intellectam
+	NOUN
+feratur
+	VERB
+,
+	PUNCT
+ex
+	PUNCT
+duobus
+	NUM
+perfectio
+	NOUN
+intellectualis
+	NOUN
+operationis
+	NOUN
+dependet
+	NOUN
+.
+	PUNCT
+unum
+	NUM
+est
+	VERB
+ut
+	NOUN
+species
+	NOUN
+intelligibilis
+	ADJ
+perfecte
+	VERB
+rei
+	NOUN
+intellectae
+	NOUN
+conformetur
+	VERB
+.
+	PUNCT
+aliud
+	NOUN
+est
+	AUX
+ut
+	X
+perfecte
+	ADJ
+intellectui
+	NOUN
+coniungatur
+	VERB
+:
+	PUNCT
+quod
+	PRON
+quidem
+	ADV
+tanto
+	ADJ
+fit
+	VERB
+amplius
+	ADV
+quanto
+	ADV
+intellectus
+	NOUN
+in
+	ADP
+intelligendo
+	VERB
+maiorem
+	ADJ
+efficaciam
+	NOUN
+habet
+	VERB
+.
+	PUNCT
+ipsa
+	PRON
+autem
+	CCONJ
+diuina
+	PROPN
+essentia
+	NOUN
+quae
+	PRON
+est
+	VERB
+species
+	NOUN
+intelligibilis
+	ADJ
+qua
+	ADP
+intellectus
+	NOUN
+diuinus
+	ADJ
+intelligit
+	VERB
+,
+	PUNCT
+est
+	VERB
+ipsi
+	PRON
+deo
+	NOUN
+penitus
+	ADV
+idem
+	PRON
+;
+	PUNCT
+est
+	VERB
+que
+	SCONJ
+intellectui
+	NOUN
+idem
+	PRON
+omnino
+	ADV
+.
+	PUNCT
+seipsum
+	PRON
+igitur
+	CCONJ
+deus
+	NOUN
+perfectissime
+	ADJ
+cognoscit
+	VERB
+.
+	PUNCT
+adhuc
+	ADV
+.
+	PUNCT
+res
+	PUNCT
+materialis
+	ADJ
+intelligibilis
+	ADJ
+efficitur
+	VERB
+per
+	ADP
+hoc
+	PRON
+quod
+	PRON
+a
+	DET
+materia
+	NOUN
+et
+	CCONJ
+materialibus
+	NOUN
+conditionibus
+	NOUN
+separatur
+	VERB
+.
+	PUNCT
+quod
+	SCONJ
+ergo
+	ADP
+est
+	VERB
+per
+	ADP
+sui
+	PRON
+naturam
+	NOUN
+ab
+	X
+omni
+	NOUN
+materia
+	NOUN
+et
+	CCONJ
+materialibus
+	NOUN
+conditionibus
+	NOUN
+separatum
+	NOUN
+,
+	PUNCT
+hoc
+	PRON
+est
+	VERB
+intelligibile
+	ADJ
+secundum
+	ADP
+suam
+	PRON
+naturam
+	NOUN
+.
+	PUNCT
+sed
+	SCONJ
+omne
+	NOUN
+intelligibile
+	ADJ
+intelligitur
+	VERB
+secundum
+	ADP
+quod
+	PRON
+est
+	VERB
+unum
+	NUM
+actu
+	NOUN
+cum
+	ADP
+intelligente
+	ADJ
+.
+	PUNCT
+ipse
+	PRON
+autem
+	CCONJ
+deus
+	NOUN
+intelligens
+	ADJ
+est
+	VERB
+,
+	PUNCT
+ut
+	X
+probatum
+	VERB
+est
+	AUX
+.
+	PUNCT
+igitur
+	CCONJ
+,
+	PUNCT
+cum
+	ADP
+sit
+	VERB
+immaterialis
+	ADJ
+omnino
+	ADV
+,
+	PUNCT
+et
+	CCONJ
+sibi
+	PRON
+ipsi
+	PRON
+maxime
+	ADV
+sit
+	VERB
+unum
+	NUM
+,
+	PUNCT
+maxime
+	ADV
+seipsum
+	PRON
+intelligit
+	VERB
+.
+	PUNCT
+item
+	NOUN
+.
+	PUNCT
+ex
+	PUNCT
+hoc
+	PRON
+aliquid
+	PRON
+actu
+	VERB
+intelligitur
+	VERB
+quod
+	PRON
+intellectus
+	NOUN
+in
+	ADP
+actu
+	ADV
+et
+	CCONJ
+intellectum
+	NOUN
+in
+	ADP
+actu
+	NOUN
+unum
+	NUM
+sunt
+	VERB
+.
+	PUNCT
+diuinus
+	ADJ
+autem
+	CCONJ
+intellectus
+	NOUN
+est
+	VERB
+semper
+	ADV
+intellectus
+	NOUN
+in
+	ADP
+actu
+	NOUN
+:
+	PUNCT
+nihil
+	NOUN
+enim
+	ADP
+est
+	VERB
+in
+	ADP
+potentia
+	NOUN
+et
+	CCONJ
+imperfectum
+	VERB
+in
+	ADP
+deo
+	PROPN
+.
+	PUNCT
+essentia
+	NOUN
+autem
+	CCONJ
+dei
+	NOUN
+secundum
+	ADP
+seipsam
+	PRON
+perfecte
+	NOUN
+intelligibilis
+	ADJ
+est
+	VERB
+,
+	PUNCT
+ut
+	X
+ex
+	PUNCT
+dictis
+	VERB
+patet
+	VERB
+.
+	PUNCT
+cum
+	ADP
+igitur
+	PART
+intellectus
+	NOUN
+diuinus
+	ADJ
+et
+	CCONJ
+essentia
+	NOUN
+diuina
+	ADJ
+sint
+	NOUN
+unum
+	NUM
+,
+	PUNCT
+ex
+	PUNCT
+dictis
+	VERB
+,
+	PUNCT
+manifestum
+	NOUN
+est
+	VERB
+quod
+	PRON
+deus
+	NOUN
+perfecte
+	ADJ
+seipsum
+	PRON
+intelligat
+	VERB
+:
+	PUNCT
+deus
+	NOUN
+enim
+	SCONJ
+est
+	VERB
+et
+	CCONJ
+suus
+	PRON
+intellectus
+	NOUN
+et
+	CCONJ
+sua
+	PRON
+essentia
+	NOUN
+.
+	PUNCT
+adhuc
+	ADV
+.
+	PUNCT
+omne
+	NOUN
+quod
+	PRON
+est
+	VERB
+in
+	ADP
+aliquo
+	NOUN
+per
+	ADP
+modum
+	NOUN
+intelligibilem
+	ADJ
+,
+	PUNCT
+intelligitur
+	VERB
+ab
+	X
+eo
+	PROPN
+.
+	PUNCT
+essentia
+	NOUN
+autem
+	CCONJ
+diuina
+	NOUN
+est
+	AUX
+in
+	ADP
+deo
+	PROPN
+per
+	ADP
+modum
+	NOUN
+intelligibilem
+	ADJ
+:
+	PUNCT
+nam
+	NOUN
+esse
+	AUX
+naturale
+	ADJ
+dei
+	NOUN
+et
+	CCONJ
+esse
+	VERB
+intelligibile
+	ADJ
+unum
+	NUM
+et
+	CCONJ
+idem
+	PRON
+est
+	VERB
+,
+	PUNCT
+cum
+	ADP
+esse
+	VERB
+suum
+	PRON
+sit
+	VERB
+suum
+	PRON
+intelligere
+	VERB
+.
+	PUNCT
+deus
+	NOUN
+igitur
+	ADV
+intelligit
+	VERB
+essentiam
+	NOUN
+suam
+	PRON
+.
+	PUNCT
+ergo
+	SCONJ
+seipsum
+	PRON
+:
+	PUNCT
+cum
+	ADP
+ipse
+	PRON
+sit
+	VERB
+sua
+	PRON
+essentia
+	NOUN
+.
+	PUNCT
+amplius
+	ADV
+.
+	PUNCT
+actus
+	NOUN
+intellectus
+	NOUN
+,
+	PUNCT
+sicut
+	ADV
+et
+	CCONJ
+aliarum
+	NOUN
+animae
+	NOUN
+potentiarum
+	NOUN
+,
+	PUNCT
+secundum
+	ADP
+obiecta
+	NOUN
+distinguuntur
+	VERB
+.
+	PUNCT
+tanto
+	ADV
+igitur
+	ADV
+erit
+	VERB
+perfectior
+	ADJ
+intellectus
+	NOUN
+operatio
+	NOUN
+quanto
+	PRON
+erit
+	VERB
+perfectius
+	ADJ
+intelligibile
+	ADJ
+.
+	PUNCT
+sed
+	VERB
+perfectissimum
+	ADJ
+intelligibile
+	ADJ
+est
+	VERB
+essentia
+	NOUN
+diuina
+	ADJ
+:
+	PUNCT
+cum
+	ADP
+sit
+	VERB
+perfectissimus
+	ADJ
+actus
+	NOUN
+et
+	CCONJ
+prima
+	ADJ
+ueritas
+	NOUN
+.
+	PUNCT
+operatio
+	NOUN
+autem
+	CCONJ
+intellectus
+	NOUN
+diuini
+	ADJ
+est
+	VERB
+etiam
+	ADV
+nobilissima
+	ADJ
+:
+	PUNCT
+cum
+	ADP
+sit
+	VERB
+ipsum
+	NOUN
+esse
+	VERB
+diuinum
+	NOUN
+,
+	PUNCT
+ut
+	PRON
+ostensum
+	NOUN
+est
+	VERB
+.
+	PUNCT
+deus
+	NOUN
+igitur
+	CCONJ
+seipsum
+	PRON
+intelligit
+	VERB
+.
+	PUNCT
+adhuc
+	ADV
+.
+	PUNCT
+rerum
+	NOUN
+omnium
+	NOUN
+perfectiones
+	NOUN
+in
+	ADP
+deo
+	NOUN
+maxime
+	ADV
+inueniuntur
+	VERB
+.
+	PUNCT
+inter
+	X
+alias
+	NOUN
+autem
+	CCONJ
+perfectiones
+	NOUN
+in
+	ADP
+rebus
+	NOUN
+creatis
+	NOUN
+inuentas
+	NOUN
+maxima
+	NOUN
+est
+	VERB
+intelligere
+	VERB
+deum
+	NOUN
+:
+	PUNCT
+cum
+	ADP
+natura
+	NOUN
+intellectualis
+	NOUN
+aliis
+	PRON
+praemineat
+	VERB
+,
+	PUNCT
+cuius
+	PRON
+perfectio
+	NOUN
+est
+	VERB
+intelligere
+	VERB
+;
+	PUNCT
+nobilissimum
+	ADJ
+autem
+	CCONJ
+intelligibile
+	ADJ
+deus
+	NOUN
+est
+	VERB
+.
+	PUNCT
+deus
+	NOUN
+igitur
+	SCONJ
+maxime
+	ADV
+seipsum
+	PRON
+intelligit
+	VERB
+.
+	PUNCT
+hoc
+	PRON
+autem
+	CCONJ
+auctoritate
+	NOUN
+diuina
+	NOUN
+confirmatur
+	VERB
+.
+	PUNCT
+ait
+	VERB
+namque
+	CCONJ
+apostolus
+	NOUN
+,
+	PUNCT
+i
+	PRON
+cor.
+	NOUN
+2-10
+	PUNCT
+,
+	PUNCT
+quod
+	PRON
+spiritus
+	NOUN
+dei
+	NOUN
+scrutatur
+	VERB
+etiam
+	ADV
+profunda
+	NOUN
+dei
+	PROPN
+.
+	PUNCT
+quod
+	PRON
+deus
+	NOUN
+primo
+	NOUN
+et
+	CCONJ
+per
+	ADP
+se
+	PRON
+solum
+	NOUN
+seipsum
+	PRON
+cognoscit
+	VERB
+.
+	PUNCT
+ex
+	PUNCT
+praemissis
+	NOUN
+autem
+	SCONJ
+apparet
+	VERB
+quod
+	PRON
+deus
+	NOUN
+primo
+	ADJ
+et
+	CCONJ
+per
+	ADP
+se
+	PRON
+solum
+	NOUN
+seipsum
+	PRON
+cognoscit
+	VERB
+.
+	PUNCT
+illa
+	PRON
+enim
+	SCONJ
+solum
+	NOUN
+res
+	PUNCT
+est
+	VERB
+primo
+	ADJ
+et
+	CCONJ
+per
+	ADP
+se
+	PRON
+ab
+	X
+intellectu
+	NOUN
+cognita
+	NOUN
+cuius
+	PRON
+specie
+	NOUN
+intelligit
+	VERB
+:
+	PUNCT
+operatio
+	NOUN
+enim
+	SCONJ
+formae
+	NOUN
+quae
+	PRON
+est
+	VERB
+operationis
+	NOUN
+principium
+	NOUN
+proportionatur
+	NOUN
+.
+	PUNCT
+sed
+	PRON
+id
+	NOUN
+quod
+	PRON
+deus
+	NOUN
+intelligit
+	VERB
+nihil
+	NOUN
+est
+	VERB
+aliud
+	NOUN
+quam
+	ADV
+sua
+	PRON
+essentia
+	NOUN
+,
+	PUNCT
+ut
+	X
+probatum
+	NOUN
+est
+	VERB
+.
+	PUNCT
+igitur
+	CCONJ
+intellectum
+	NOUN
+ab
+	X
+ipso
+	ADP
+primo
+	NOUN
+et
+	CCONJ
+per
+	ADP
+se
+	PRON
+nihil
+	NOUN
+est
+	VERB
+aliud
+	NOUN
+quam
+	ADV
+ipsemet
+	ADJ
+.
+	PUNCT
+adhuc
+	ADV
+.
+	PUNCT
+impossibile
+	ADJ
+est
+	VERB
+simul
+	VERB
+multa
+	NOUN
+primo
+	NOUN
+et
+	CCONJ
+per
+	ADP
+se
+	PRON
+intelligere
+	VERB
+:
+	PUNCT
+una
+	DET
+enim
+	SCONJ
+operatio
+	NOUN
+non
+	X
+potest
+	VERB
+simul
+	VERB
+multis
+	NOUN
+terminari
+	VERB
+.
+	PUNCT
+deus
+	NOUN
+autem
+	CCONJ
+seipsum
+	PRON
+quandoque
+	ADV
+intelligit
+	VERB
+,
+	PUNCT
+ut
+	X
+probatum
+	NOUN
+est
+	VERB
+.
+	PUNCT
+si
+	SCONJ
+igitur
+	CCONJ
+intelligat
+	VERB
+aliquid
+	PRON
+aliud
+	NOUN
+quasi
+	ADP
+primo
+	ADJ
+et
+	CCONJ
+per
+	ADP
+se
+	PRON
+intellectum
+	NOUN
+,
+	PUNCT
+oportet
+	VERB
+quod
+	PRON
+intellectus
+	NOUN
+eius
+	PRON
+mutetur
+	VERB
+de
+	ADP
+consideratione
+	NOUN
+sui
+	PRON
+in
+	ADP
+considerationem
+	NOUN
+illius
+	PRON
+.
+	PUNCT
+illud
+	PRON
+autem
+	CCONJ
+est
+	VERB
+eo
+	PROPN
+ignobilius
+	ADJ
+.
+	PUNCT
+sic
+	ADV
+igitur
+	CCONJ
+intellectus
+	NOUN
+diuinus
+	ADJ
+mutatur
+	VERB
+in
+	ADP
+peius
+	ADV
+.
+	PUNCT
+quod
+	PRON
+est
+	VERB
+impossibile
+	ADJ
+.
+	PUNCT
+amplius
+	ADV
+.
+	PUNCT
+operationes
+	NOUN
+intellectus
+	NOUN
+distinguuntur
+	VERB
+penes
+	ADP
+obiecta
+	NOUN
+.
+	PUNCT
+si
+	SCONJ
+igitur
+	SCONJ
+deus
+	NOUN
+intelligit
+	VERB
+se
+	PRON
+et
+	CCONJ
+aliud
+	NOUN
+a
+	DET
+se
+	PRON
+quasi
+	ADV
+principale
+	NOUN
+obiectum
+	NOUN
+,
+	PUNCT
+habebit
+	VERB
+plures
+	NOUN
+operationes
+	NOUN
+intellectuales
+	NOUN
+.
+	PUNCT
+ergo
+	ADV
+uel
+	CCONJ
+sua
+	PRON
+essentia
+	NOUN
+erit
+	VERB
+in
+	ADP
+plura
+	NOUN
+diuisa
+	NOUN
+:
+	PUNCT
+uel
+	SCONJ
+aliquam
+	NOUN
+operationem
+	NOUN
+intellectualem
+	ADJ
+habebit
+	VERB
+quae
+	PRON
+non
+	NOUN
+est
+	VERB
+sua
+	PRON
+substantia
+	NOUN
+.
+	PUNCT
+quorum
+	PRON
+utrumque
+	PRON
+impossibile
+	ADJ
+esse
+	AUX
+monstratum
+	NOUN
+est
+	VERB
+.
+	PUNCT
+restat
+	VERB
+igitur
+	SCONJ
+nihil
+	NOUN
+a
+	DET
+deo
+	PROPN
+esse
+	AUX
+cognitum
+	NOUN
+quasi
+	ADV
+primo
+	ADJ
+et
+	CONJ
+per
+	ADP
+se
+	PRON
+intellectum
+	NOUN
+,
+	PUNCT
+nisi
+	SCONJ
+suam
+	PRON
+essentiam
+	NOUN
+.
+	PUNCT
+item
+	NOUN
+.
+	PUNCT
+intellectus
+	NOUN
+,
+	PUNCT
+secundum
+	ADP
+quod
+	PRON
+est
+	VERB
+differens
+	NOUN
+a
+	DET
+suo
+	PRON
+intellecto
+	NOUN
+,
+	PUNCT
+est
+	VERB
+in
+	ADP
+potentia
+	NOUN
+respectu
+	NOUN
+illius
+	PRON
+.
+	PUNCT
+si
+	SCONJ
+igitur
+	CCONJ
+aliquid
+	PRON
+aliud
+	NOUN
+sit
+	VERB
+intellectum
+	NOUN
+a
+	DET
+deo
+	NOUN
+primo
+	NOUN
+et
+	CCONJ
+per
+	ADP
+se
+	PRON
+,
+	PUNCT
+sequetur
+	VERB
+quod
+	PRON
+ipse
+	PRON
+sit
+	VERB
+in
+	ADP
+potentia
+	NOUN
+respectu
+	NOUN
+alicuius
+	PRON
+alterius
+	NOUN
+.
+	PUNCT
+quod
+	PRON
+est
+	VERB
+impossibile
+	ADJ
+,
+	PUNCT
+ut
+	X
+ex
+	PUNCT
+dictis
+	NOUN
+patet
+	VERB
+.
+	PUNCT
+praeterea
+	ADVERB
+.
+	PUNCT
+intellectum
+	NOUN
+est
+	VERB
+perfectio
+	NOUN
+intelligentis
+	ADJ
+:
+	PUNCT
+secundum
+	ADP
+enim
+	SCONJ
+hoc
+	PRON
+intellectus
+	NOUN
+perfectus
+	ADJ
+est
+	VERB
+quod
+	PRON
+actu
+	NOUN
+intelligit
+	VERB
+;
+	PUNCT
+quod
+	PRON
+quidem
+	ADV
+est
+	VERB
+per
+	ADP
+hoc
+	PRON
+quod
+	PRON
+est
+	X
+unum
+	NUM
+cum
+	ADP
+eo
+	PROPN
+quod
+	PRON
+intelligitur
+	VERB
+.
+	PUNCT
+si
+	SCONJ
+igitur
+	CCONJ
+aliquid
+	PRON
+aliud
+	NOUN
+a
+	DET
+deo
+	PROPN
+sit
+	VERB
+primo
+	ADJ
+intellectum
+	NOUN
+ab
+	X
+ipso
+	PRON
+,
+	PUNCT
+erit
+	VERB
+aliquid
+	PRON
+aliud
+	NOUN
+perfectio
+	NOUN
+ipsius
+	PRON
+,
+	PUNCT
+et
+	CCONJ
+eo
+	PROPN
+nobilius
+	NOUN
+.
+	PUNCT
+quod
+	PRON
+est
+	VERB
+impossibile
+	ADJ
+.
+	PUNCT
+amplius
+	ADV
+.
+	PUNCT
+ex
+	PUNCT
+multis
+	NOUN
+intellectis
+	NOUN
+intelligentis
+	ADJ
+scientia
+	NOUN
+integratur
+	VERB
+.
+	PUNCT
+si
+	SCONJ
+igitur
+	SCONJ
+sunt
+	VERB
+multa
+	NOUN
+scita
+	NOUN
+a
+	DET
+deo
+	PROPN
+quasi
+	ADV
+principaliter
+	ADV
+cognita
+	NOUN
+et
+	CCONJ
+per
+	ADP
+se
+	PRON
+,
+	PUNCT
+sequitur
+	VERB
+quod
+	PRON
+scientia
+	NOUN
+dei
+	NOUN
+sit
+	VERB
+ex
+	PUNCT
+multis
+	NOUN
+composita
+	NOUN
+.
+	PUNCT
+et
+	CCONJ
+sic
+	ADV
+uel
+	PRON
+erit
+	VERB
+diuina
+	NOUN
+essentia
+	NOUN
+composita
+	NOUN
+:
+	PUNCT
+uel
+	CCONJ
+scientia
+	NOUN
+erit
+	VERB
+accidens
+	NOUN
+deo
+	PROPN
+.
+	PUNCT
+quorum
+	PRON
+utrumque
+	PRON
+impossibile
+	ADJ
+esse
+	VERB
+ex
+	PUNCT
+dictis
+	VERB
+manifestum
+	NOUN
+est
+	VERB
+.
+	PUNCT
+relinquitur
+	VERB
+igitur
+	CCONJ
+quod
+	PRON
+id
+	NOUN
+quod
+	PRON
+est
+	VERB
+primo
+	NOUN
+et
+	CCONJ
+per
+	ADP
+se
+	PRON
+intellectum
+	NOUN
+a
+	DET
+deo
+	NOUN
+,
+	PUNCT
+nihil
+	NOUN
+est
+	VERB
+aliud
+	NOUN
+quam
+	ADV
+sua
+	PRON
+substantia
+	NOUN
+.
+	PUNCT
+adhuc
+	ADV
+.
+	PUNCT
+operatio
+	NOUN
+intellectualis
+	ADJ
+speciem
+	NOUN
+et
+	CCONJ
+nobilitatem
+	NOUN
+habet
+	VERB
+secundum
+	ADP
+id
+	PROPN
+quod
+	PRON
+est
+	VERB
+per
+	ADP
+se
+	PRON
+et
+	CCONJ
+primo
+	ADJ
+intellectum
+	NOUN
+:
+	PUNCT
+cum
+	ADP
+hoc
+	PRON
+sit
+	VERB
+eius
+	PRON
+obiectum
+	NOUN
+.
+	PUNCT
+si
+	SCONJ
+igitur
+	CCONJ
+deus
+	NOUN
+aliud
+	NOUN
+a
+	DET
+se
+	PRON
+intelligeret
+	VERB
+quasi
+	ADV
+per
+	ADP
+se
+	PRON
+et
+	CCONJ
+primo
+	ADJ
+intellectum
+	NOUN
+,
+	PUNCT
+eius
+	PRON
+operatio
+	NOUN
+intellectualis
+	ADJ
+speciem
+	NOUN
+et
+	CCONJ
+nobilitatem
+	NOUN
+haberet
+	VERB
+secundum
+	ADP
+id
+	X
+quod
+	PRON
+est
+	VERB
+aliud
+	NOUN
+ab
+	PROPN
+ipso
+	ADP
+.
+	PUNCT
+hoc
+	PRON
+autem
+	CCONJ
+est
+	VERB
+impossibile
+	ADJ
+:
+	PUNCT
+cum
+	ADP
+sua
+	PRON
+operatio
+	NOUN
+sit
+	VERB
+eius
+	PRON
+essentia
+	NOUN
+,
+	PUNCT
+ut
+	X
+ostensum
+	NOUN
+est
+	AUX
+.
+	PUNCT
+sic
+	ADV
+igitur
+	CCONJ
+impossibile
+	ADJ
+est
+	AUX
+quod
+	PRON
+intellectum
+	NOUN
+a
+	DET
+deo
+	NOUN
+primo
+	ADJ
+et
+	CCONJ
+per
+	ADP
+se
+	PRON
+sit
+	VERB
+aliud
+	PRON
+ab
+	X
+ipso
+	ADV
+.
+	PUNCT
+quod
+	PRON
+deus
+	NOUN
+cognoscit
+	VERB
+alia
+	PRON
+a
+	DET
+se
+	PRON
+.
+	PUNCT
+ex
+	PUNCT
+hoc
+	PRON
+autem
+	CCONJ
+quod
+	SCONJ
+seipsum
+	PRON
+cognoscit
+	VERB
+primo
+	NOUN
+et
+	CCONJ
+per
+	ADP
+se
+	PRON
+,
+	PUNCT
+quod
+	PRON
+alia
+	ADJ
+a
+	DET
+se
+	PRON
+in
+	ADP
+seipso
+	PRON
+cognoscat
+	VERB
+ponere
+	VERB
+oportet
+	VERB
+.
+	PUNCT
+effectus
+	NOUN
+enim
+	SCONJ
+cognitio
+	NOUN
+sufficienter
+	ADV
+habetur
+	VERB
+per
+	ADP
+cognitionem
+	NOUN
+suae
+	PRON
+causae
+	NOUN
+:
+	PUNCT
+unde
+	ADV
+et
+	CCONJ
+scire
+	VERB
+dicimur
+	VERB
+unumquodque
+	NOUN
+cum
+	ADP
+causam
+	NOUN
+cognoscimus
+	VERB
+.
+	PUNCT
+ipse
+	PRON
+autem
+	CCONJ
+deus
+	NOUN
+est
+	VERB
+per
+	ADP
+suam
+	PRON
+essentiam
+	NOUN
+causa
+	NOUN
+essendi
+	VERB
+aliis
+	PRON
+.
+	PUNCT
+cum
+	ADP
+igitur
+	SCONJ
+suam
+	PRON
+essentiam
+	NOUN
+plenissime
+	ADV
+cognoscat
+	VERB
+,
+	PUNCT
+oportet
+	VERB
+ponere
+	VERB
+quod
+	PRON
+etiam
+	ADV
+alia
+	NOUN
+cognoscat
+	VERB
+.
+	PUNCT
+adhuc
+	ADV
+.
+	PUNCT
+omnis
+	NOUN
+effectus
+	NOUN
+in
+	ADP
+sua
+	DET
+causa
+	NOUN
+aliqualiter
+	ADV
+praeexistit
+	VERB
+similitudo
+	NOUN
+:
+	PUNCT
+cum
+	ADP
+omne
+	NOUN
+agens
+	NOUN
+agat
+	NOUN
+sibi
+	PRON
+simile
+	NOUN
+.
+	PUNCT
+omne
+	NOUN
+autem
+	CCONJ
+quod
+	PRON
+est
+	VERB
+in
+	ADP
+aliquo
+	PRON
+,
+	PUNCT
+est
+	VERB
+in
+	ADP
+eo
+	PROPN
+per
+	ADP
+modum
+	NOUN
+eius
+	PRON
+in
+	ADP
+quo
+	PRON
+est
+	VERB
+.
+	PUNCT
+si
+	SCONJ
+igitur
+	CCONJ
+deus
+	NOUN
+aliquarum
+	DET
+rerum
+	NOUN
+est
+	VERB
+causa
+	NOUN
+,
+	PUNCT
+cum
+	ADP
+ipse
+	PRON
+sit
+	VERB
+secundum
+	ADP
+suam
+	PRON
+naturam
+	NOUN
+intellectualis
+	ADJ
+,
+	PUNCT
+similitudo
+	NOUN
+causati
+	VERB
+sui
+	PRON
+in
+	ADP
+eo
+	ADP
+erit
+	VERB
+intelligibiliter
+	ADV
+.
+	PUNCT
+quod
+	PRON
+autem
+	SCONJ
+est
+	VERB
+in
+	ADP
+aliquo
+	NOUN
+per
+	ADP
+modum
+	NOUN
+intelligibilem
+	ADJ
+,
+	PUNCT
+ab
+	NOUN
+eo
+	PROPN
+intelligitur
+	VERB
+.
+	PUNCT
+deus
+	NOUN
+igitur
+	SCONJ
+res
+	PUNCT
+alias
+	NOUN
+a
+	DET
+se
+	PRON
+in
+	ADP
+seipso
+	PRON
+intelligit
+	VERB
+.
+	PUNCT
+amplius
+	ADV
+.
+	PUNCT
+quicumque
+	PRON
+cognoscit
+	VERB
+perfecte
+	ADJ
+rem
+	VERB
+aliquam
+	NOUN
+,
+	PUNCT
+cognoscit
+	VERB
+omnia
+	NOUN
+quae
+	PRON
+de
+	ADP
+re
+	PRON
+illa
+	PRON
+uere
+	X
+possunt
+	VERB
+dici
+	VERB
+et
+	CCONJ
+quae
+	PRON
+ei
+	X
+conueniunt
+	VERB
+secundum
+	ADP
+suam
+	PRON
+naturam
+	NOUN
+.
+	PUNCT
+deo
+	PROPN
+autem
+	CCONJ
+secundum
+	ADP
+suam
+	PRON
+naturam
+	NOUN
+conuenit
+	VERB
+quod
+	PRON
+sit
+	VERB
+aliorum
+	NOUN
+causa
+	NOUN
+.
+	PUNCT
+cum
+	ADP
+igitur
+	ADV
+perfecte
+	ADJ
+seipsum
+	PRON
+cognoscat
+	VERB
+,
+	PUNCT
+cognoscit
+	VERB
+se
+	PRON
+esse
+	AUX
+causam
+	NOUN
+.
+	PUNCT
+quod
+	PRON
+esse
+	VERB
+non
+	NOUN
+potest
+	VERB
+nisi
+	SCONJ
+cognoscat
+	VERB
+aliqualiter
+	ADV
+causatum
+	NOUN
+.
+	PUNCT
+quod
+	PRON
+est
+	VERB
+aliud
+	NOUN
+ab
+	NOUN
+ipso
+	PRON
+:
+	PUNCT
+nihil
+	NOUN
+enim
+	CCONJ
+sui
+	PRON
+ipsius
+	PRON
+causa
+	NOUN
+est
+	AUX
+.
+	PUNCT
+ergo
+	ADV
+deus
+	NOUN
+cognoscit
+	VERB
+alia
+	PRON
+a
+	DET
+se
+	PRON
+.
+	PUNCT
+colligentes
+	NOUN
+igitur
+	SCONJ
+has
+	AUX
+duas
+	NUM
+conclusiones
+	NOUN
+,
+	PUNCT
+apparet
+	VERB
+deum
+	NOUN
+cognoscere
+	VERB
+seipsum
+	PRON
+quasi
+	ADP
+primo
+	ADJ
+et
+	CCONJ
+per
+	ADP
+se
+	PRON
+notum
+	ADJ
+,
+	PUNCT
+alia
+	PROPN
+uero
+	ADV
+sicut
+	ADP
+in
+	ADP
+essentia
+	NOUN
+sua
+	PRON
+uisa
+	NOUN
+.
+	PUNCT
+quam
+	ADV
+quidem
+	PART
+ueritatem
+	NOUN
+expresse
+	VERB
+dionysius
+	PROPN
+tradit
+	NOUN
+,
+	PUNCT
+in
+	ADP
+uii
+	PROPN
+cap.
+	NOUN
+de
+	ADP
+diu.
+	ADV
+nom.
+	NOUN
+,
+	PUNCT
+dicens
+	VERB
+:
+	PUNCT
+non
+	NOUN
+secundum
+	ADP
+uisionem
+	NOUN
+singulis
+	NOUN
+se
+	PRON
+immittit
+	VERB
+,
+	PUNCT
+sed
+	VERB
+secundum
+	ADP
+unam
+	PROPN
+causae
+	NOUN
+continentiam
+	NOUN
+scit
+	VERB
+omnia
+	NOUN
+.
+	PUNCT
+et
+	CCONJ
+infra
+	ADV
+:
+	PUNCT
+diuina
+	NOUN
+sapientia
+	NOUN
+seipsam
+	PRON
+cognoscens
+	VERB
+scit
+	VERB
+alia
+	NOUN
+.
+	PUNCT
+cui
+	PRON
+etiam
+	ADV
+sententiae
+	NOUN
+attestari
+	VERB
+uidetur
+	VERB
+scripturae
+	NOUN
+sacrae
+	NOUN
+auctoritas
+	NOUN
+.
+	PUNCT
+nam
+	NOUN
+in
+	ADP
+psalmo
+	NOUN
+de
+	ADP
+deo
+	PROPN
+dicitur
+	VERB
+:
+	PUNCT
+prospexit
+	VERB
+de
+	ADP
+excelso
+	ADJ
+sancto
+	NOUN
+suo
+	DET
+,
+	PUNCT
+quasi
+	ADV
+de
+	ADP
+seipso
+	PRON
+excelso
+	ADJ
+alia
+	NOUN
+uidens
+	NOUN
+.
+	PUNCT
+quod
+	PRON
+deus
+	NOUN
+habet
+	VERB
+propriam
+	NOUN
+cognitionem
+	NOUN
+de
+	ADP
+omnibus
+	NOUN
+rebus
+	NOUN
+.
+	PUNCT
+quia
+	SCONJ
+uero
+	ADV
+quidam
+	PRON
+dixerunt
+	VERB
+quod
+	PRON
+deus
+	NOUN
+de
+	ADP
+aliis
+	PRON
+rebus
+	NOUN
+non
+	NOUN
+habet
+	VERB
+cognitionem
+	NOUN
+nisi
+	SCONJ
+uniuersalem
+	PROPN
+,
+	PUNCT
+utpote
+	SCONJ
+cognoscens
+	VERB
+ea
+	PRON
+inquantum
+	ADP
+sunt
+	VERB
+entia
+	NOUN
+,
+	PUNCT
+ex
+	PUNCT
+hoc
+	PRON
+quod
+	PRON
+naturam
+	NOUN
+essendi
+	VERB
+cognoscit
+	VERB
+per
+	ADP
+cognitionem
+	NOUN
+sui
+	PRON
+ipsius
+	PRON
+;
+	PUNCT
+restat
+	VERB
+ostendendum
+	NOUN
+quod
+	PRON
+deus
+	NOUN
+cognoscit
+	VERB
+omnes
+	NOUN
+alias
+	NOUN
+res
+	PUNCT
+prout
+	X
+ab
+	X
+inuicem
+	X
+sunt
+	VERB
+distinctae
+	ADJ
+et
+	CCONJ
+a
+	DET
+deo
+	PROPN
+.
+	PUNCT
+quod
+	PRON
+est
+	VERB
+cognoscere
+	VERB
+res
+	PUNCT
+secundum
+	ADP
+proprias
+	PROPN
+rationes
+	NOUN
+earum
+	PRON
+.
+	PUNCT
+ad
+	NOUN
+huius
+	PRON
+autem
+	CCONJ
+ostensionem
+	NOUN
+,
+	PUNCT
+deum
+	NOUN
+esse
+	AUX
+causam
+	NOUN
+omnis
+	NOUN
+entis
+	NOUN
+supponatur
+	VERB
+:
+	PUNCT
+quod
+	PRON
+et
+	CCONJ
+ex
+	PUNCT
+supra
+	PROPN
+dictis
+	VERB
+aliquatenus
+	ADV
+patet
+	VERB
+,
+	PUNCT
+et
+	CCONJ
+infra
+	ADP
+plenius
+	ADV
+ostendetur
+	VERB
+.
+	PUNCT
+sic
+	SYM
+igitur
+	PART
+nihil
+	NOUN
+in
+	ADP
+aliqua
+	DET
+re
+	PRON
+esse
+	AUX
+potest
+	VERB
+quod
+	PRON
+non
+	NOUN
+sit
+	VERB
+ab
+	X
+eo
+	PRON
+causatum
+	NOUN
+uel
+	X
+mediate
+	VERB
+uel
+	X
+immediate
+	ADJ
+.
+	PUNCT
+cognita
+	NOUN
+autem
+	CCONJ
+causa
+	NOUN
+,
+	PUNCT
+cognoscitur
+	VERB
+eius
+	PRON
+effectus
+	NOUN
+.
+	PUNCT
+quicquid
+	X
+igitur
+	SCONJ
+est
+	VERB
+in
+	ADP
+quacumque
+	SCONJ
+re
+	VERB
+potest
+	VERB
+cognosci
+	VERB
+cognito
+	NOUN
+deo
+	NOUN
+et
+	CCONJ
+omnibus
+	NOUN
+causis
+	NOUN
+mediis
+	NOUN
+quae
+	PRON
+sunt
+	VERB
+inter
+	ADJ
+deum
+	NOUN
+et
+	CCONJ
+res
+	PUNCT
+.
+	PUNCT
+sed
+	VERB
+deus
+	NOUN
+seipsum
+	PRON
+cognoscit
+	VERB
+et
+	CCONJ
+omnes
+	NOUN
+causas
+	NOUN
+medias
+	NOUN
+quae
+	PRON
+sunt
+	VERB
+inter
+	X
+ipsum
+	NOUN
+et
+	CONJ
+rem
+	VERB
+quamlibet
+	ADV
+.
+	PUNCT
+quod
+	PRON
+enim
+	SCONJ
+seipsum
+	PRON
+perfecte
+	ADJ
+cognoscat
+	VERB
+,
+	PUNCT
+iam
+	ADV
+ostensum
+	NOUN
+est
+	VERB
+.
+	PUNCT
+seipso
+	PRON
+autem
+	CCONJ
+cognito
+	NOUN
+,
+	PUNCT
+cognoscit
+	VERB
+quod
+	PRON
+ab
+	X
+ipso
+	PROPN
+immediate
+	ADJ
+est
+	VERB
+.
+	PUNCT
+quo
+	PRON
+cognito
+	NOUN
+,
+	PUNCT
+cognoscit
+	VERB
+iterum
+	ADV
+quod
+	PRON
+ab
+	X
+illo
+	PRON
+immediate
+	ADJ
+est
+	VERB
+:
+	PUNCT
+et
+	CCONJ
+sic
+	ADV
+de
+	ADP
+omnibus
+	NOUN
+causis
+	NOUN
+mediis
+	NOUN
+usque
+	ADP
+ad
+	ADJ
+ultimum
+	NOUN
+effectum
+	NOUN
+.
+	PUNCT
+ergo
+	SCONJ
+deus
+	NOUN
+cognoscit
+	VERB
+quicquid
+	PRON
+est
+	VERB
+in
+	ADP
+re
+	VERB
+.
+	PUNCT
+hoc
+	PRON
+autem
+	CCONJ
+est
+	VERB
+habere
+	VERB
+propriam
+	PROPN
+et
+	CCONJ
+completam
+	ADJ
+cognitionem
+	NOUN
+de
+	ADP
+re
+	PRON
+,
+	PUNCT
+cognoscere
+	VERB
+scilicet
+	SCONJ
+omnia
+	NOUN
+quae
+	PRON
+in
+	ADP
+re
+	VERB
+sunt
+	VERB
+,
+	PUNCT
+communia
+	NOUN
+et
+	CCONJ
+propria
+	PROPN
+.
+	PUNCT
+deus
+	NOUN
+ergo
+	SCONJ
+propriam
+	PROPN
+de
+	ADP
+rebus
+	NOUN
+cognitionem
+	NOUN
+habet
+	VERB
+,
+	PUNCT
+secundum
+	ADP
+quod
+	PRON
+sunt
+	VERB
+ab
+	X
+inuicem
+	X
+distinctae
+	ADJ
+.
+	PUNCT
+adhuc
+	ADV
+.
+	PUNCT
+omne
+	NOUN
+quod
+	PRON
+agit
+	VERB
+per
+	ADP
+intellectum
+	NOUN
+,
+	PUNCT
+habet
+	VERB
+cognitionem
+	NOUN
+de
+	ADP
+re
+	PRON
+quam
+	ADV
+agit
+	VERB
+secundum
+	ADP
+propriam
+	PROPN
+facti
+	NOUN
+rationem
+	NOUN
+:
+	PUNCT
+quia
+	SCONJ
+cognitio
+	NOUN
+facientis
+	VERB
+determinat
+	DET
+formam
+	NOUN
+facto
+	NOUN
+.
+	PUNCT
+deus
+	NOUN
+autem
+	CCONJ
+causa
+	NOUN
+est
+	AUX
+rerum
+	NOUN
+per
+	ADP
+intellectum
+	NOUN
+:
+	PUNCT
+cum
+	ADP
+suum
+	PRON
+esse
+	VERB
+sit
+	VERB
+suum
+	PRON
+intelligere
+	VERB
+,
+	PUNCT
+unumquodque
+	NOUN
+autem
+	CCONJ
+agit
+	VERB
+inquantum
+	ADP
+est
+	VERB
+actu
+	VERB
+.
+	PUNCT
+cognoscit
+	VERB
+igitur
+	SCONJ
+causatum
+	NOUN
+suum
+	PRON
+proprie
+	PROPN
+,
+	PUNCT
+secundum
+	ADP
+quod
+	PRON
+est
+	VERB
+distinctum
+	NOUN
+ab
+	NOUN
+aliis
+	PRON
+.
+	PUNCT
+amplius
+	ADV
+.
+	PUNCT
+rerum
+	NOUN
+distinctio
+	NOUN
+non
+	ADJ
+potest
+	VERB
+esse
+	AUX
+a
+	DET
+casu
+	NOUN
+:
+	PUNCT
+habet
+	VERB
+enim
+	CCONJ
+ordinem
+	NOUN
+certum
+	NOUN
+.
+	PUNCT
+oportet
+	VERB
+ergo
+	CONJ
+ex
+	PUNCT
+alicuius
+	PRON
+causae
+	NOUN
+intentione
+	NOUN
+distinctionem
+	NOUN
+in
+	ADP
+rebus
+	NOUN
+esse
+	VERB
+.
+	PUNCT
+non
+	NOUN
+autem
+	CCONJ
+ex
+	PUNCT
+intentione
+	NOUN
+alicuius
+	DET
+causae
+	NOUN
+per
+	ADP
+necessitatem
+	NOUN
+naturae
+	NOUN
+agentis
+	NOUN
+:
+	PUNCT
+quia
+	SCONJ
+natura
+	NOUN
+determinatur
+	VERB
+ad
+	ADJ
+unum
+	NUM
+,
+	PUNCT
+et
+	CCONJ
+sic
+	X
+nullius
+	PRON
+rei
+	NOUN
+per
+	ADP
+naturae
+	NOUN
+necessitatem
+	NOUN
+agentis
+	NOUN
+intentio
+	NOUN
+potest
+	VERB
+esse
+	AUX
+ad
+	ADJ
+multa
+	NOUN
+inquantum
+	ADP
+distincta
+	ADJ
+sunt
+	VERB
+.
+	PUNCT
+restat
+	VERB
+ergo
+	ADV
+quod
+	PRON
+distinctio
+	NOUN
+in
+	ADP
+rebus
+	NOUN
+prouenit
+	VERB
+ex
+	PUNCT
+intentione
+	NOUN
+alicuius
+	PRON
+causae
+	NOUN
+cognoscentis
+	NOUN
+.
+	PUNCT
+uidetur
+	VERB
+autem
+	CCONJ
+intellectus
+	NOUN
+proprium
+	PROPN
+esse
+	VERB
+rerum
+	NOUN
+distinctionem
+	NOUN
+considerare
+	VERB
+:
+	PUNCT
+unde
+	ADV
+et
+	CCONJ
+anaxagoras
+	PROPN
+distinctionis
+	NOUN
+principium
+	NOUN
+intellectum
+	NOUN
+dixit
+	VERB
+.
+	PUNCT
+uniuersalis
+	X
+autem
+	SCONJ
+rerum
+	NOUN
+distinctio
+	NOUN
+non
+	NOUN
+potest
+	VERB
+esse
+	AUX
+ex
+	PUNCT
+intentione
+	NOUN
+alicuius
+	PRON
+causarum
+	NOUN
+secundarum
+	NOUN
+:
+	PUNCT
+quia
+	SCONJ
+omnes
+	NOUN
+huiusmodi
+	NOUN
+causae
+	NOUN
+sunt
+	VERB
+de
+	ADP
+uniuersitate
+	NOUN
+causatorum
+	NOUN
+distinctorum
+	NOUN
+.
+	PUNCT
+est
+	VERB
+igitur
+	CCONJ
+hoc
+	PRON
+primae
+	ADJ
+causae
+	NOUN
+,
+	PUNCT
+quae
+	PRON
+per
+	ADP
+seipsam
+	PRON
+ab
+	NOUN
+omnibus
+	NOUN
+aliis
+	PRON
+distinguitur
+	VERB
+,
+	PUNCT
+intendere
+	VERB
+distinctionem
+	NOUN
+omnium
+	NOUN
+rerum
+	NOUN
+.
+	PUNCT
+deus
+	NOUN
+igitur
+	ADV
+cognoscit
+	VERB
+res
+	PUNCT
+ut
+	NOUN
+distinctas
+	ADJ
+.
+	PUNCT
+item
+	NOUN
+.
+	PUNCT
+quicquid
+	PRON
+deus
+	NOUN
+cognoscit
+	VERB
+,
+	PUNCT
+perfectissime
+	ADJ
+cognoscit
+	VERB
+:
+	PUNCT
+est
+	VERB
+enim
+	SCONJ
+in
+	ADP
+eo
+	VERB
+omnis
+	NOUN
+perfectio
+	NOUN
+sicut
+	ADP
+in
+	ADP
+simpliciter
+	ADV
+perfecto
+	ADJ
+,
+	PUNCT
+ut
+	X
+supra
+	ADP
+ostensum
+	NOUN
+est
+	VERB
+.
+	PUNCT
+quod
+	PRON
+autem
+	CCONJ
+cognoscitur
+	VERB
+in
+	ADP
+communi
+	ADJ
+tantum
+	NOUN
+,
+	PUNCT
+non
+	NOUN
+perfecte
+	ADJ
+cognoscitur
+	VERB
+:
+	PUNCT
+ignorantur
+	VERB
+enim
+	SCONJ
+ea
+	PRON
+quae
+	PRON
+sunt
+	VERB
+praecipua
+	NOUN
+illius
+	PRON
+rei
+	NOUN
+,
+	PUNCT
+scilicet
+	SCONJ
+ultimae
+	NOUN
+perfectiones
+	NOUN
+,
+	PUNCT
+quibus
+	PRON
+perficitur
+	VERB
+proprium
+	PROPN
+esse
+	VERB
+eius
+	PRON
+;
+	PUNCT
+unde
+	ADV
+tali
+	ADJ
+cognitione
+	NOUN
+magis
+	ADV
+cognoscitur
+	VERB
+res
+	PUNCT
+in
+	ADP
+potentia
+	NOUN
+quam
+	ADV
+in
+	ADP
+actu
+	NOUN
+.
+	PUNCT
+si
+	SCONJ
+igitur
+	ADV
+deus
+	NOUN
+cognoscendo
+	VERB
+essentiam
+	NOUN
+suam
+	PRON
+cognoscit
+	VERB
+omnia
+	NOUN
+in
+	ADP
+uniuersali
+	NOUN
+,
+	PUNCT
+oportet
+	VERB
+quod
+	PRON
+etiam
+	ADV
+propriam
+	PROPN
+habeat
+	VERB
+cognitionem
+	NOUN
+de
+	ADP
+rebus
+	NOUN
+.
+	PUNCT
+adhuc
+	ADV
+.
+	PUNCT
+quicumque
+	PRON
+cognoscit
+	VERB
+naturam
+	NOUN
+aliquam
+	NOUN
+,
+	PUNCT
+cognoscit
+	VERB
+per
+	ADP
+se
+	PRON
+accidentia
+	NOUN
+illius
+	PRON
+naturae
+	NOUN
+.
+	PUNCT
+per
+	ADP
+se
+	PRON
+autem
+	CCONJ
+accidentia
+	NOUN
+entis
+	NOUN
+,
+	PUNCT
+inquantum
+	ADP
+est
+	VERB
+ens
+	NOUN
+,
+	PUNCT
+sunt
+	VERB
+unum
+	NUM
+et
+	CONJ
+multa
+	NOUN
+,
+	PUNCT
+ut
+	X
+probatur
+	VERB
+in
+	ADP
+iu
+	PROPN
+metaph.
+	NOUN
+.
+	PUNCT
+deus
+	NOUN
+igitur
+	ADV
+,
+	PUNCT
+si
+	SCONJ
+cognoscendo
+	VERB
+essentiam
+	NOUN
+suam
+	PRON
+cognoscit
+	VERB
+in
+	ADP
+uniuersali
+	NOUN
+naturam
+	NOUN
+entis
+	NOUN
+,
+	PUNCT
+sequitur
+	VERB
+quod
+	PRON
+cognoscat
+	VERB
+multitudinem
+	NOUN
+.
+	PUNCT
+multitudo
+	NOUN
+autem
+	CCONJ
+sine
+	ADP
+distinctione
+	NOUN
+intelligi
+	VERB
+non
+	ADJ
+potest
+	VERB
+.
+	PUNCT
+intelligit
+	VERB
+igitur
+	CCONJ
+res
+	PUNCT
+prout
+	NOUN
+sunt
+	VERB
+ab
+	NOUN
+inuicem
+	PROPN
+distinctae
+	ADJ
+.
+	PUNCT
+amplius
+	ADV
+.
+	PUNCT
+quicumque
+	PRON
+cognoscit
+	VERB
+perfecte
+	ADJ
+aliquam
+	X
+naturam
+	NOUN
+uniuersalem
+	PROPN
+,
+	PUNCT
+cognoscit
+	VERB
+modum
+	NOUN
+quo
+	SCONJ
+natura
+	NOUN
+illa
+	PRON
+haberi
+	VERB
+potest
+	VERB
+:
+	PUNCT
+sicut
+	ADP
+qui
+	PRON
+cognoscit
+	VERB
+albedinem
+	X
+,
+	PUNCT
+scit
+	VERB
+quod
+	PRON
+recipit
+	VERB
+magis
+	ADV
+et
+	CCONJ
+minus
+	ADP
+.
+	PUNCT
+sed
+	VERB
+ex
+	PUNCT
+diuerso
+	ADJ
+modo
+	ADV
+essendi
+	VERB
+constituuntur
+	VERB
+diuersi
+	ADJ
+gradus
+	NOUN
+entium
+	NOUN
+.
+	PUNCT
+si
+	SCONJ
+igitur
+	CCONJ
+deus
+	NOUN
+cognoscendo
+	VERB
+se
+	PRON
+cognoscit
+	VERB
+naturam
+	NOUN
+uniuersalem
+	X
+entis
+	NOUN
+;
+	PUNCT
+non
+	NOUN
+autem
+	CCONJ
+imperfecte
+	VERB
+,
+	PUNCT
+quia
+	SCONJ
+ab
+	X
+eo
+	PROPN
+omnis
+	NOUN
+imperfectio
+	NOUN
+longe
+	ADV
+est
+	AUX
+,
+	PUNCT
+ut
+	X
+supra
+	PROPN
+probatum
+	NOUN
+est
+	VERB
+:
+	PUNCT
+oportet
+	VERB
+quod
+	PRON
+cognoscat
+	VERB
+omnes
+	NOUN
+gradus
+	NOUN
+entium
+	NOUN
+.
+	PUNCT
+et
+	CCONJ
+sic
+	ADV
+de
+	ADP
+rebus
+	NOUN
+aliis
+	PRON
+a
+	DET
+se
+	PRON
+habebit
+	VERB
+propriam
+	PROPN
+cognitionem
+	NOUN
+.
+	PUNCT
+praeterea
+	ADVERB
+.
+	PUNCT
+quicumque
+	PRON
+cognoscit
+	VERB
+perfecte
+	ADV
+aliquid
+	PRON
+,
+	PUNCT
+cognoscit
+	VERB
+omnia
+	NOUN
+quae
+	PRON
+sunt
+	VERB
+in
+	ADP
+illo
+	PRON
+.
+	PUNCT
+sed
+	VERB
+deus
+	NOUN
+cognoscit
+	VERB
+seipsum
+	PRON
+perfecte
+	ADJ
+.
+	PUNCT
+ergo
+	ADV
+cognoscit
+	VERB
+omnia
+	NOUN
+quae
+	PRON
+sunt
+	VERB
+in
+	ADP
+ipso
+	PROPN
+secundum
+	ADP
+potentiam
+	NOUN
+actiuam
+	VERB
+.
+	PUNCT
+sed
+	VERB
+omnia
+	NOUN
+secundum
+	ADP
+proprias
+	PROPN
+formas
+	NOUN
+sunt
+	VERB
+in
+	ADP
+ipso
+	ADV
+secundum
+	ADP
+potentiam
+	NOUN
+actiuam
+	NOUN
+:
+	PUNCT
+cum
+	SCONJ
+ipse
+	PRON
+sit
+	VERB
+omnis
+	NOUN
+entis
+	NOUN

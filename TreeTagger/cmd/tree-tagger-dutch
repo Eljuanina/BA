@@ -1,0 +1,17 @@
+#!/bin/sh
+
+# Set these paths appropriately
+
+BIN="/Users/elina/Desktop/BA_code/TreeTagger/bin"
+CMD="/Users/elina/Desktop/BA_code/TreeTagger/cmd"
+LIB="/Users/elina/Desktop/BA_code/TreeTagger/lib"
+
+OPTIONS="-token -lemma -sgml"
+
+TAGGER=${BIN}/tree-tagger
+TOKENIZER=${CMD}/utf8-tokenize.perl
+ABBR_LIST=${LIB}/dutch-abbreviations
+PARFILE=${LIB}/dutch.par
+
+$TOKENIZER -a $ABBR_LIST $* |
+$TAGGER $OPTIONS $PARFILE

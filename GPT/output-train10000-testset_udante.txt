@@ -1,0 +1,1145 @@
+Hanc\tDET\n quidem\tPART\n secundariam\tADJ\n Greci\tNOUN\n habent\tVERB\n et\tCCONJ\n alii\tDET\n ,\tPUNCT\n sed\tCCONJ\n non\tPART\n omnes\tDET\n :\tPUNCT\n ad\tADP\n habitum\tNOUN\n vero\tADV\n huius\tDET\n pauci\tADJ\n perveniunt\tVERB\n ,\tPUNCT\n quia\tSCONJ\n non\tPART\n nisi\tSCONJ\n per\tADP\n spatium\tNOUN\n temporis\tNOUN\n et\tCCONJ\n studii\tNOUN\n assiduitatem\tNOUN\n regulamur\tVERB\n et\tCCONJ\n doctrinamur\tVERB\n in\tADP\n illa\tDET\n .\tPUNCT\n Harum\tDET\n quoque\tPART\n duarum\tADJ\n nobilior\tADJ\n est\tAUX\n vulgaris\tADJ\n :\tPUNCT\n tum\tADV\n quia\tSCONJ\n prima\tNUM\n fuit\tAUX\n humano\tADJ\n generi\tNOUN\n usitata\tVERB\n ;\tPUNCT\n tum\tADV\n quia\tSCONJ\n totus\tDET\n orbis\tNOUN\n ipsa\tDET\n perfruitur\tVERB\n ,\tPUNCT\n licet\tSCONJ\n in\tADP\n diversas\tADJ\n prolationes\tNOUN\n et\tCCONJ\n vocabula\tNOUN\n sit\tAUX\n divisa\tVERB\n ;\tPUNCT\n tum\tADV\n
+quia SCONJ\n naturalis ADJ\n est AUX\n nobis PRON\n , PUNCT\n cum SCONJ\n illa DET\n potius ADV\n artificialis ADJ\n existat VERB\n . PUNCT\n Non ADV\n angelis NOUN\n , PUNCT\n non ADV\n inferioribus ADJ\n animalibus NOUN\n necessarium ADJ\n fuit AUX\n loqui VERB\n , PUNCT\n sed CCONJ\n nequicquam ADV\n datum VERB\n fuisset AUX\n eis PRON\n : PUNCT\n quod PRON\n nempe ADV\n facere VERB\n natura NOUN\n aborret VERB\n . PUNCT\n Si SCONJ\n etenim SCONJ\n perspicaciter ADV\n consideramus VERB\n quid PRON\n cum SCONJ\n loquimur VERB\n intendamus VERB\n , PUNCT\n patet VERB\n quod PRON\n nichil PRON\n aliud DET\n quam SCONJ\n nostre DET\n mentis NOUN\n enucleare VERB\n aliis DET\n conceptum NOUN\n . PUNCT\n Cum SCONJ\n igitur ADV\n angeli NOUN\n ad ADP\n pandendas VERB\n gloriosas ADJ\n eorum PRON\n conceptiones NOUN\n habeant VERB\n promptissimam ADJ\n atque CCONJ\n ineffabilem ADJ\n sufficientiam NOUN\n
+$intellectus$\tNOUN\n
+$,$\tPUNCT\n
+$qua$\tPRON\n
+$vel$\tCCONJ\n
+$alter$\tDET\n
+$alteri$\tDET\n
+$totaliter$\tADV\n
+$innotescit$\tVERB\n
+$per$\tADP\n
+$se$\tPRON\n
+$,$\tPUNCT\n
+$vel$\tCCONJ\n
+$saltim$\tADV\n
+$per$\tADP\n
+$illud$\tDET\n
+$fulgentissimum$\tADJ\n
+$Speculum$\tPROPN\n
+$in$\tADP\n
+$quo$\tPRON\n
+$cuncti$\tDET\n
+$representantur$\tVERB\n
+$pulcerrimi$\tADJ\n
+$atque$\tCCONJ\n
+$avidissimi$\tADJ\n
+$speculantur$\tVERB\n
+$,$\tPUNCT\n
+$nullo$\tDET\n
+$signo$\tNOUN\n
+$locutionis$\tNOUN\n
+$indiguisse$\tVERB\n
+$videntur$\tVERB\n
+$.$\tPUNCT\n
+$Et$\tCCONJ\n
+$si$\tSCONJ\n
+$obiciatur$\tVERB\n
+$de$\tADP\n
+$hiis$\tDET\n
+$qui$\tPRON\n
+$corruerunt$\tVERB\n
+$spiritibus$\tNOUN\n
+$,$\tPUNCT\n
+$dupl
+$perversi$\tADJ\n $expectare$\tVERB\n $noluerunt$\tVERB\n $;$\tPUNCT\n $secundo$\tADV\n $et$\tCCONJ\n $melius$\tADJ\n $quod$\tPRON\n $ipsi$\tDET\n $demones$\tNOUN\n $ad$\tADP\n $manifestandam$\tVERB\n $inter$\tADP\n $se$\tPRON\n $perfidiam$\tNOUN\n $suam$\tDET\n $non$\tPART\n $indigent$\tVERB\n $nisi$\tSCONJ\n $ut$\tSCONJ\n $sciat$\tVERB\n $quilibet$\tDET\n $de$\tADP\n $quolibet$\tDET\n $quia$\tSCONJ\n $est$\tAUX\n $et$\tCCONJ\n $quantus$\tADJ\n $est$\tAUX\n $;$\tPUNCT\n $quod$\tPRON\n $quidem$\tADV\n $sciunt$\tVERB\n $:$\tPUNCT\n $cognoverunt$\tVERB\n $enim$\tPART\n $se$\tPRON\n $invicem$\tADV\n $ante$\tADP\n $ruinam$\tNOUN\n $suum$\tDET\n $.$\tPUNCT\n $Et$\tCCONJ\n $si$\tSCONJ\n $obiciatur$\tVERB\n $de$\tADP\n $serpente$\tNOUN\n $loquente$\tVERB\n $ad$\tADP\n $primam$\tADJ\n $mulierem$\tNOUN\n $,$\tPUNCT\n $vel$\tCCONJ\n $de$\tADP\n $asina$\tNOUN\n $Balaam$\tPROPN\n $,$\tPUNCT\n $quod$\tSCONJ\n $locuti$\tVERB\n $sint$\tAUX\n $,$\tPUNCT\n $ad$\tADP\n $hoc$\tDET\n $respondemus$\tVERB\n $quod$\tSCONJ\n $angelus$\tNOUN\n $$\tX\n
+$in\tADP\n illa\tPRON\n et\tCCONJ\n dyabolus\tPROPN\n in\tADP\n illo\tPRON\n taliter\tADV\n operati\tVERB\n sunt\tAUX\n quod\tSCONJ\n ipsa\tDET\n animalia\tNOUN\n moverunt\tVERB\n organa\tNOUN\n sua\tDET\n ,\tPUNCT\n sic\tADV\n ut\tSCONJ\n vox\tNOUN\n inde\tADV\n resultavit\tVERB\n distincta\tVERB\n tanquam\tSCONJ\n vera\tADJ\n locutio\tNOUN\n ;\tPUNCT\n non\tPART\n quod\tSCONJ\n aliud\tDET\n esset\tAUX\n asine\tNOUN\n illud\tDET\n quam\tSCONJ\n rudere\tVERB\n ,\tPUNCT\n neque\tCCONJ\n quam\tSCONJ\n sibilare\tVERB\n serpenti\tNOUN\n .\tPUNCT\n Sed\tCCONJ\n quare\tADV\n necessarium\tADJ\n sibi\tPRON\n foret\tAUX\n ,\tPUNCT\n breviter\tADV\n pertractare\tVERB\n conemur\tVERB\n .\tPUNCT\n Cum\tSCONJ\n igitur\tADV\n homo\tNOUN\n non\tPART\n nature\tNOUN\n instinctu\tNOUN\n ,\tPUNCT\n sed\tCCONJ\n ratione\tNOUN\n moveatur\tVERB\n ,\tPUNCT\n et\tCCONJ\n ipsa\tDET\n ratio\tNOUN\n vel\tCCONJ\n circa\tADP\n
+$discretionem$ PRON\n $vel$ CCONJ\n $circa$ ADP\n $iudicium$ NOUN\n $vel$ CCONJ\n $circa$ ADP\n $electionem$ NOUN\n $diversificetur$ VERB\n $in$ ADP\n $singulis$ ADJ\n $,$ PUNCT\n $adeo$ ADV\n $ut$ SCONJ\n $fere$ ADV\n $quilibet$ DET\n $sua$ DET\n $propria$ ADJ\n $specie$ NOUN\n $videatur$ VERB\n $gaudere$ VERB\n $,$ PUNCT\n $per$ ADP\n $propios$ ADJ\n $actus$ NOUN\n $vel$ CCONJ\n $passiones$ NOUN\n $,$ PUNCT\n $ut$ SCONJ\n $brutum$ ADJ\n $animal$ NOUN\n $,$ PUNCT\n $neminem$ PRON\n $alium$ DET\n $intelligere$ VERB\n $opinamur$ VERB\n $.$ PUNCT\n $Nec$ CCONJ\n $per$ ADP\n $spiritualem$ ADJ\n $speculationem$ NOUN\n $,$ PUNCT\n $ut$ SCONJ\n $angelum$ NOUN\n $,$ PUNCT\n $alterum$ DET\n $alterum$ DET\n $introire$ VERB\n $contingit$ VERB\n $,$ PUNCT\n $cum$ ADP\n $grossitie$ NOUN\n $atque$ CCONJ\n $opacitate$ NOUN\n $mortalis$ ADJ\n $corporis$ NOUN\n $humanus$ ADJ\n $spiritus$ NOUN\n $sit$ AUX\n $obtectus$ VERB\n $.$ PUNCT\n $Oportuit$ VERB\n $ergo$ ADV\n $genus$ NOUN\n $humanum$ ADJ\n $ad$ ADP\n $comunicandas$ VERB\n
+$inter\tADP\n se\tPRON\n conceptiones\tNOUN\n suas\tDET\n aliquod\tDET\n rationale\tADJ\n signum\tNOUN\n et\tCCONJ\n sensuale\tADJ\n habere\tVERB\n :\tPUNCT\n quia\tSCONJ\n ,\tPUNCT\n cum\tSCONJ\n de\tADP\n ratione\tNOUN\n accipere\tVERB\n habeat\tVERB\n et\tCCONJ\n in\tADP\n rationem\tNOUN\n portare\tVERB\n ,\tPUNCT\n rationale\tADJ\n esse\tAUX\n oportuit\tVERB\n ;\tPUNCT\n cumque\tCCONJ\n cum\tADP\n que\tPRON\n de\tADP\n una\tDET\n ratione\tNOUN\n in\tADP\n aliam\tDET\n nichil\tPRON\n deferri\tVERB\n possit\tVERB\n nisi\tSCONJ\n per\tADP\n medium\tADJ\n sensuale\tADJ\n ,\tPUNCT\n sensuale\tADJ\n esse\tAUX\n oportuit\tVERB\n .\tPUNCT\n Quare\tADV\n ,\tPUNCT\n si\tSCONJ\n tantum\tADV\n rationale\tADJ\n esset\tAUX\n ,\tPUNCT\n pertransire\tVERB\n non\tPART\n posset\tVERB\n ;\tPUNCT\n si\tSCONJ\n tantum\tADV\n sensuale\tADJ\n ,\tPUNCT\n nec\tCCONJ\n a\tADP\n ratione\tNOUN\n accipere\tVERB\n$
+nec CCONJ\n in ADP\n rationem NOUN\n deponere VERB\n potuisset VERB\n . PUNCT\n Hoc DET\n equidem PART\n signum NOUN\n est AUX\n ipsum DET\n subiectum NOUN\n nobile ADJ\n de ADP\n quo PRON\n loquimur VERB\n : PUNCT\n nam PART\n sensuale ADJ\n quid PRON\n est AUX\n in ADP\n quantum ADV\n sonus NOUN\n est AUX\n ; PUNCT\n rationale ADJ\n vero ADV\n in ADP\n quantum ADV\n aliquid PRON\n significare VERB\n videtur VERB\n ad ADP\n placitum NOUN\n . PUNCT\n Rationabiliter ADV\n ergo ADV\n credimus VERB\n ipsi DET\n Ade PROPN\n prius ADV\n datum VERB\n fuisse AUX\n loqui VERB\n ab ADP\n Eo PRON\n qui PRON\n statim ADV\n ipsum DET\n plasmaverat VERB\n . PUNCT\n Quid PRON\n autem PART\n prius ADV\n vox NOUN\n primi ADJ\n loquentis VERB\n sonaverit VERB\n , PUNCT\n viro NOUN\n sane ADV\n mentis NOUN\n in ADP\n promptu NOUN\n esse AUX\n$
+non\tPART\n titubo\tVERB\n ipsum\tDET\n fuisse\tAUX\n quod\tPRON\n “\tPUNCT\n Deus\tPROPN\n ”\tPUNCT\n est\tAUX\n ,\tPUNCT\n scilicet\tCCONJ\n El\tPROPN\n ,\tPUNCT\n vel\tCCONJ\n per\tADP\n modum\tNOUN\n interrogationis\tNOUN\n vel\tCCONJ\n per\tADP\n modum\tNOUN\n responsionis\tNOUN\n .\tPUNCT\n Absurdum\tADJ\n atque\tCCONJ\n rationi\tNOUN\n videtur\tVERB\n orrificum\tNOUN\n ante\tADP\n Deum\tNOUN\n ab\tADP\n homine\tNOUN\n quicquam\tPRON\n nominatum\tVERB\n fuisse\tAUX\n ,\tPUNCT\n cum\tSCONJ\n ab\tADP\n ipso\tDET\n et\tCCONJ\n in\tADP\n ipsum\tDET\n factus\tVERB\n fuisset\tAUX\n homo\tNOUN\n .\tPUNCT\n Nam\tPART\n sicut\tSCONJ\n post\tADP\n prevaricationem\tNOUN\n humani\tADJ\n generis\tNOUN\n quilibet\tDET\n exordium\tNOUN\n sue\tDET\n locutionis\tNOUN\n incipit\tVERB\n ab\tADP\n “\tPUNCT\n heu\tINTJ\n ”\tPUNCT\n ,\tPUNCT\n rationabile\tADJ\n est\tAUX\n quod\tSCONJ\n ante\tADP\n qui\tPRON\n $\tPUNCT\n
+$fuit VERB\n inciperet VERB\n a ADP\n gaudio NOUN\n ; PUNCT\n et CCONJ\n cum SCONJ\n nullum DET\n gaudium NOUN\n sit AUX\n extra ADP\n Deum PROPN\n , PUNCT\n sed CCONJ\n totum DET\n in ADP\n Deo PROPN\n , PUNCT\n et CCONJ\n ipse DET\n Deus PROPN\n totus DET\n sit AUX\n gaudium NOUN\n , PUNCT\n consequens VERB\n est AUX\n quod SCONJ\n primus ADJ\n loquens VERB\n primo ADV\n et CCONJ\n ante ADP\n omnia PRON\n dixisset VERB\n “ PUNCT\n Deus PROPN\n ” PUNCT\n . PUNCT\n Ad ADP\n quod PRON\n quidem PART\n dicimus VERB\n quod SCONJ\n bene ADV\n potuit VERB\n respondisse VERB\n Deo PROPN\n interrogante VERB\n , PUNCT\n nec CCONJ\n propter ADP\n hoc DET\n Deus PROPN\n locutus VERB\n est AUX\n ipsa DET\n quam PRON\n dicimus VERB\n locutionem NOUN\n . PUNCT\n Igitur ADV\n cum SCONJ\n ad ADP\n tantas DET\n alterationes NOUN\n$
+$moveatur$ VERB\n
+$aer$ NOUN\n
+$imperio$ NOUN\n
+$nature$ NOUN\n
+$inferioris$ ADJ\n
+$,$ PUNCT\n
+$que$ CCONJ\n
+$ministra$ ADJ\n
+$et$ CCONJ\n
+$factura$ NOUN\n
+$Dei$ NOUN\n
+$est$ AUX\n
+$,$ PUNCT\n
+$ut$ SCONJ\n
+$tonitrua$ NOUN\n
+$personet$ VERB\n
+$,$ PUNCT\n
+$ignem$ NOUN\n
+$fulgoret$ VERB\n
+$,$ PUNCT\n
+$aquam$ NOUN\n
+$gemat$ VERB\n
+$,$ PUNCT\n
+$spargat$ VERB\n
+$nivem$ NOUN\n
+$,$ PUNCT\n
+$grandines$ NOUN\n
+$lancinet$ VERB\n
+$,$ PUNCT\n
+$nonne$ ADV\n
+$non$ ADV\n
+$ne$ PART\n
+$imperio$ NOUN\n
+$Dei$ NOUN\n
+$movebitur$ VERB\n
+$ad$ ADP\n
+$quedam$ DET\n
+$sonare$ VERB\n
+$verba$ NOUN\n
+$,$ PUNCT\n
+$Ipso$ DET\n
+$distinguente$ VERB\n
+$qui$ PRON\n
+$maiora$ ADJ\n
+$distinxit$ VERB\n
+$?$ PUNCT\n
+$Opinantes$ NOUN\n
+$autem$ PART\n
+$non$ PART\n
+$sine$ ADP\n
+$ratione$ NOUN\n
+$,$ PUNCT\n
+$tam$ ADV\n
+$ex$ ADP\n
+$superioribus$ ADJ\n
+$quam$ SCONJ\n
+$inferioribus$ ADJ\n
+$sumpta$ VERB\n
+$,$ PUNCT\n
+$ad$ ADP\n
+$ipsum$ DET\n
+$Deum$ PROPN\n
+$primitus$ ADV\n
+$primum$ ADJ\n
+$hominem$ NOUN\n
+$direxisse$ VERB\n
+locutionem NOUN\n , PUNCT\n rationabiliter ADJ\n dicimus VERB\n ipsum PRON\n loquentem VERB\n primum ADJ\n , PUNCT\n mox ADV\n postquam SCONJ\n afflatus NOUN\n est AUX\n ab ADP\n Animante PROPN\n Virtute NOUN\n , PUNCT\n incunctanter ADV\n fuisse AUX\n locutum VERB\n . PUNCT\n Si SCONJ\n ergo ADV\n Faber PROPN\n ille DET\n atque CCONJ\n Perfectionis PROPN\n Principium NOUN\n et CCONJ\n Amator PROPN\n afflando NOUN\n primum ADJ\n nostrum DET\n omni DET\n perfectione NOUN\n complevit VERB\n , PUNCT\n rationabile ADJ\n nobis PRON\n apparet VERB\n nobilissimum ADJ\n animal NOUN\n non PART\n ante ADV\n sentire VERB\n quam SCONJ\n sentiri VERB\n cepisse VERB\n . PUNCT\n Si SCONJ\n quis PRON\n vero ADV\n fatetur VERB\n contra ADP\n obiciens NOUN\n quod SCONJ\n non PART\n oportebat VERB\n illum DET\n loqui VERB\n , PUNCT\n cum SCONJ\n solus DET\n adhuc ADV\n homo NOUN\n existeret VERB\n , PUNCT\n
+$et CONJ\n
+Deus NOUN\n
+omnia PRON\n
+sine ADP\n
+verbis NOUN\n
+archana ADJ\n
+nostra DET\n
+discernat VERB\n
+etiam ADV\n
+ante ADP\n
+quam SCONJ\n
+nos PRON\n
+, PUNCT\n
+cum SCONJ\n
+illa DET\n
+reverentia NOUN\n
+dicimus VERB\n
+qua PRON\n
+uti VERB\n
+oportet VERB\n
+cum SCONJ\n
+de ADP\n
+Eterna PROPN\n
+Voluntate NOUN\n
+aliquid PRON\n
+iudicamus VERB\n
+, PUNCT\n
+quod PRON\n
+licet SCONJ\n
+Deus PROPN\n
+sciret VERB\n
+, PUNCT\n
+immo ADV\n
+presciret VERB\n
+( PUNCT\n
+quod PRON\n
+idem DET\n
+est AUX\n
+quantum ADV\n
+ad ADP\n
+Deum PROPN\n
+) PUNCT\n
+absque ADP\n
+locutione NOUN\n
+conceptum NOUN\n
+primi ADJ\n
+loquentis VERB\n
+, PUNCT\n
+voluit VERB\n
+tamen ADV\n
+et CONJ\n
+ipsum PRON\n
+loqui VERB\n
+, PUNCT\n
+ut SCONJ\n
+in ADP\n
+explicatione NOUN\n
+tante DET\n
+dotis NOUN\n
+gloriaretur VERB\n
+ipse DET\n
+qui PRON\n
+gratis ADV\n
+dotaverat VERB\n
+. PUNCT\n
+Et CCONJ\n
+hinc ADV\n penitus ADV\n elicere VERB\n possumus VERB\n locum NOUN\n illum DET\n ubi ADV\n effutita VERB\n est AUX\n prima ADJ\n locutio NOUN\n : PUNCT\n quoniam SCONJ\n , PUNCT\n si SCONJ\n extra ADP\n paradisum NOUN\n afflatus NOUN\n est AUX\n homo NOUN\n , PUNCT\n extra ADP\n , PUNCT\n si SCONJ\n vero ADV\n intra ADP\n , PUNCT\n intra ADP\n fuisse AUX\n locum NOUN\n prime ADJ\n locutionis NOUN\n convicimus VERB\n . PUNCT\n Quoniam SCONJ\n permultis ADJ\n ac CCONJ\n diversis ADJ\n ydiomatibus NOUN\n negotium NOUN\n exercitatur VERB\n humanum ADJ\n , PUNCT\n ita ADV\n quod SCONJ\n multi DET\n multis DET\n non PART\n aliter ADV\n intelligantur VERB\n verbis NOUN\n quam SCONJ\n sine ADP\n verbis NOUN\n , PUNCT\n de ADP\n ydiomate NOUN\n illo DET\n venari VERB\n nos PRON\n decet VERB\n quo PRON\n vir NOUN\n sine ADP\n matre X\n , PUNCT\n $
+$vir NOUN$\n
+sine ADP$\n
+lacte NOUN$\n
+, PUNCT$\n
+qui PRON$\n
+nec CCONJ$\n
+pupillarem ADJ$\n
+etatem NOUN$\n
+nec CCONJ$\n
+vidit VERB$\n
+adultam ADJ$\n
+, PUNCT$\n
+creditur VERB$\n
+usus NOUN$\n
+. PUNCT$\n
+In ADP$\n
+hoc PRON$\n
+, PUNCT$\n
+sicut ADV$\n
+etiam ADV$\n
+in ADP$\n
+multis ADJ$\n
+aliis ADJ$\n
+, PUNCT$\n
+Petramala PROPN$\n
+civitas NOUN$\n
+amplissima ADJ$\n
+est VERB$\n
+, PUNCT$\n
+et CCONJ$\n
+patria NOUN$\n
+maior ADJ$\n
+parti NOUN$\n
+filiorum NOUN$\n
+Adam PROPN$\n
+. PUNCT$\n
+Nos PRON$\n
+autem CONJ$\n
+, PUNCT$\n
+cui PRON$\n
+mundus NOUN$\n
+est VERB$\n
+patria NOUN$\n
+velut ADV$\n
+piscibus NOUN$\n
+equor NOUN$\n
+, PUNCT$\n
+quanquam SCONJ$\n
+Sarnum PROPN$\n
+biberimus VERB$\n
+ante ADV$\n
+dentibus NOUN$\n
+et CCONJ$\n
+Florentiam PROPN$\n
+adeo ADV$\n
+diligamus VERB$\n
+ut ADV$\n
+, PUNCT$\n
+quod SCONJ$\n
+dileximus VERB$\n
+, PUNCT$\n
+exilium NOUN$\n
+patiamur VERB$\n
+iniuste ADV$\n
+, PUNCT$\n
+rationi NOUN$\n
+$
+$magis\tADV$\n quam\tSCONJ$\n sensui\tNOUN$\n spatulas\tNOUN$\n nostri\tDET$\n iudicii\tNOUN$\n podiamus\tVERB$\n .\tPUNCT$\n Et\tCCONJ$\n quamvis\tSCONJ$\n ad\tADP$\n voluptatem\tNOUN$\n nostram\tDET$\n sive\tCCONJ$\n nostre\tDET$\n sensualitatis\tNOUN$\n quietem\tNOUN$\n in\tADP$\n terris\tNOUN$\n amenior\tADJ$\n locus\tNOUN$\n quam\tSCONJ$\n Florentia\tPROPN$\n non\tPART$\n existat\tVERB$\n ,\tPUNCT$\n revolventes\tVERB$\n et\tCCONJ$\n poetarum\tNOUN$\n et\tCCONJ$\n aliorum\tDET$\n scriptorum\tNOUN$\n volumina\tNOUN$\n quibus\tPRON$\n mundus\tNOUN$\n universaliter\tADV$\n et\tCCONJ$\n membratim\tADV$\n describitur\tVERB$\n ,\tPUNCT$\n ratiocinantesque\tCCONJ$\n ratiocinantes\tCCONJ$\n que\tCCONJ$\n in\tADP$\n nobis\tPRON$\n situationes\tNOUN$\n varias\tADJ$\n mundi\tNOUN$\n locorum\tNOUN$\n et\tCCONJ$\n eorum\tPRON$\n habitudinem\tNOUN$\n ad\tADP$\n utrunque\tADV$\n polum\tNOUN$\n et\tCCONJ$\n circulum\tNOUN$\n equatorem\tNOUN$\n ,\tPUNCT$\n multas\tDET$\n esse\tAUX$\n perpendimus\tVERB$\n firmiterque\tADV$\n firmiter\tADV$\n que\tCCONJ$\n censemus\tVERB$\n$
+$et CONJ\n
+magis ADV\n
+nobiles ADJ\n
+et CCONJ\n
+magis ADV\n
+delitiosas ADJ\n
+et CCONJ\n
+regiones NOUN\n
+et CCONJ\n
+urbes NOUN\n
+quam SCONJ\n
+Tusciam PROPN\n
+et CCONJ\n
+Florentiam PROPN\n
+, PUNCT\n
+unde ADV\n
+sumus AUX\n
+oriundus VERB\n
+et CCONJ\n
+civis NOUN\n
+, PUNCT\n
+et CCONJ\n
+plerasque ADJ\n
+nationes NOUN\n
+et CCONJ\n
+gentes NOUN\n
+delectabiliori ADJ\n
+atque CCONJ\n
+utiliori ADJ\n
+sermone NOUN\n
+uti VERB\n
+quam SCONJ\n
+Latinos ADJ\n
+. PUNCT\n
+Dico VERB\n
+autem PART\n
+“ PUNCT\n
+formam NOUN\n
+” PUNCT\n
+et CCONJ\n
+quantum ADV\n
+ad ADP\n
+rerum NOUN\n
+vocabula NOUN\n
+et CCONJ\n
+quantum ADV\n
+ad ADP\n
+vocabulorum NOUN\n
+constructionem NOUN\n
+et CCONJ\n
+quantum ADV\n
+ad ADP\n
+constructionis NOUN\n
+prolationem NOUN\n
+: PUNCT\n
+qua DET\n
+quidem PART\n
+forma NOUN\n
+omnis DET\n
+lingua NOUN\n
+loquentium VERB\n
+uteretur VERB\n
+, PUNCT\n
+nisi SCONJ\n
+culpa NOUN\n
+presumptionis NOUN\n
+$humane\tADJ\n dissipata\tVERB\n fuisset\tAUX\n ,\tPUNCT\n ut\tSCONJ\n inferius\tADV\n ostendetur\tVERB\n .\tPUNCT\n Hac\tDET\n forma\tNOUN\n locutionis\tNOUN\n locutus\tVERB\n est\tAUX\n Adam\tPROPN\n ;\tPUNCT\n hac\tDET\n forma\tNOUN\n locutionis\tNOUN\n locuti\tVERB\n sunt\tAUX\n omnes\tDET\n posteri\tNOUN\n eius\tPRON\n usque\tADP\n ad\tADP\n edificationem\tNOUN\n turris\tNOUN\n Babel\tPROPN\n ,\tPUNCT\n que\tPRON\n “\tPUNCT\n turris\tNOUN\n confusionis\tNOUN\n ”\tPUNCT\n interpretatur\tVERB\n ;\tPUNCT\n hanc\tDET\n formam\tNOUN\n locutionis\tNOUN\n hereditati\tNOUN\n sunt\tAUX\n filii\tNOUN\n Heber\tPROPN\n ,\tPUNCT\n qui\tPRON\n ab\tADP\n eo\tPRON\n dicti\tVERB\n sunt\tAUX\n Hebrei\tNOUN\n .\tPUNCT\n Hiis\tDET\n solis\tDET\n post\tADP\n confusionem\tNOUN\n remansit\tVERB\n ,\tPUNCT\n ut\tSCONJ\n Redemptor\tNOUN\n noster\tDET\n ,\tPUNCT\n qui\tPRON\n ex\tADP\n illis\tDET\n oriturus\tVERB\n erat\tAUX\n$
+Split the sentence only at every whitespace. Do not split the idividual tokens further. Return the UPOS tag for the tokens of the sentence in between the two dollar signs $secundum humanitatem , non lingua confusionis , sed gratie frueretur . Fuit ergo hebraicum ydioma illud quod primi loquentis labia fabricarunt . Dispudet , heu , nunc humani generis ignominiam renovare ! Sed quia preterire non possumus quin transeamus per illam , quanquam rubor ad ora consurgat animusque animus que refugiat , percurremus . O ab initio et nunquam desinens nequitatrix ! Num fuerat satis ad$ secundum ADP NOUN PUNCT ADV NOUN PUNCT ADV NOUN VERB PUNCT CCONJ NOUN NOUN NOUN NOUN PUNCT NOUN PUNCT VERB PUNCT VERB VERB AUX ADV PUNCT NOUN PUNCT NOUN NOUN ADP NOUN ADJ PUNCT CCONJ VERB PUNCT NOUN PUNCT VERB VERB PUNCT NOUN NOUN ADJ PUNCT VERB PUNCT NOUN PUNCT ADV NOUN NOUN PUNCT NOUN PUNCT NOUN VERB AUX ADJ PUNCT INTJ ADP NOUN NOUN VERB VERB AUX ADJ NOUN PUNCT NOUN PUNCT ADV ADJ NOUN CCONJ ADV VERB NOUN PUNCT NOUN PART ADV XX PUNCT NOUN PUNCT NOUN AUX PUNCT NUM VERB PUNCT SCONJ INTJ NOUN NOUN ADJ NOUN PUNCT VERB PUNCT VERB VERB AUX ADJ PUNCT ADJ PUNCT X ADP NOUN NOUN PUNCT NOUN AUX ADV NOUN ADJ PUNCT NOUN NOUN PUNCT NOUN VERB PUNCT VERB PUNCT NOUN PUNCT ADP NOUN ADJ CCONJ ADV AUX PUNCT NOUN PUNCT PUNCT VERB VERB PUNCT PUNCT ADJ NOUN AUX ADV ADJ PUNCT NOUN ADJ PUNCT X PUNCT ADP NOUN ADJ ADJ CCONJ ADV VERB NOUN NOUN PUNCT NOUN VERB PUNCT ADJ PUNCT ADV ADJ NOUN VERB NOUN PUNCT CCONJ NOUN PUNCT NOUN VERB PUNCT NOUN NOUN EMOT XX AUX PUNCT NOUN PUNCT NOUN AUX PUNCT NOUN AUX PUNCT VERB ADJ ADJ PUNCT AUX AUX ADJ PUNCT NOUN PUNCT NOUN NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN ADJ PUNCT NOUN PUNCT VERB PUNCT ADP AUX VERB ADJ NOUN ADJ PUNCT PUNCT NOUN NOUN NUM VERB ADJ PUNCT NOUN PUNCT X NOUN VERB ADJ PUNCT X PUNCT AUX ADJ NOUN PUNCT NUM VERB ADJ PUNCT ADV PART ADJ ADJ PUNCT VERB NOUN PUNCT NOUN VERB PUNCT AUX NOUN PUNCT NOUN PUNCT VERB PUNCT VERB PUNCT ADJ PUNCT ADV PUNCT NOUN VERB PUNCT AUX VERB NUM PUNCT VERB PUNCT VERB PUNCT ADJ PUNCT ADJ NOUN NOUN NOUN PUNCT NOUN PUNCT NOUN PUNCT ADJ VERB NOUN PUNCT ADJ PUNCT ADV CCONJ ADV VERB PUNCT NOUN PUNCT PUNCT ADV PUNCT ADV PUNCT ADJ NOUN AUX VERB PUNCT VERB PUNCT NOUN NOUN PUNCT NOUN PUNCT ADJ PUNCT NOUN VERB ADJ ADJ PUNCT VERB NOUN PUNCT PUNCT PUNCT ADJ PUNCT NOUN VERB PUNCT AUX VERB PUNCT NOUN PUNCT NOUN AUX PUNCT VERB PUNCT ADJ NOUN NOUN AUX NOUN NOUN PUNCT ADJ PUNCT NOUN PUNCT VERB PUNCT NUM AUX PUNCT VERB AUX VERB PUNCT NOUN PUNCT PUNCT PUNCT NOUN NOUN PUNCT X VERB NOUN NOUN PUNCT PART NOUN VERB PUNCT NOUN VERB AUX PUNCT NOUN NOUN PUNCT NOUN PUNCT NOUN VERB NOUN PUNCT VERB PUNCT VERB PUNCT NOUN PUNCT PUNCT PUNCT NOUN ADJ X PUNCT AUX PUNCT NOUN ADJ PUNCT NOUN PUNCT NOUN ADJ NOUN PUNCT NOUN AUX VERB ADJ PUNCT PRON PUNCT NUM VERB ADJ PUNCT ADJ PUNCT NOUN PUNCT NOUN PUNCT NUM ADJ PUNCT ADJ PART ADJ NOUN PUNCT NOUN AUX PUNCT VERB PUNCT NOUN PUNCT NOUN PUNCT NOUN PART NOUN NOUN NOUN PUNCT NOUN AUX PUNCT AUX PUNCT ADJ NOUN PUNCT ADJ PUNCT NOUN PUNCT ADJ PUNCT ADV ADV PUNCT NOUN PUNCT NOUN AUX PUNCT VERB AUX ADJ PUNCT NOUN PUNCT NOUN AUX ADV NOUN ADJ PUNCT NOUN PUNCT NOUN PUNCT NOUN VERB ADJ ADJ PUNCT ADJ PUNCT ADV NOUN AUX VERB PUNCT NOUN VERB AUX VERB PUNCT NOUN PUNCT NOUN AUX PUNCT VERB PUNCT NOUN ADJ NOUN ADJ CCONJ ADV AUX PUNCT NOUN PUNCT PUNCT VERB PUNCT PUNCT NOUN NOUN PUNCT NOUN VERB PUNCT AUX NOUN VERB AUX PUNCT AUX PUNCT VERB PUNCT ADJ ADJ PUNCT NOUN AUX ADV VERB NOUN NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN AUX VERB PUNCT VERB PUNCT NOUN NOUN PUNCT NOUN VERB NOUN PUNCT NOUN PUNCT AUX NOUN PUNCT NOUN PUNCT NOUN VERB VERB NOUN PUNCT ADJ ADJ PUNCT NOUN PUNCT NOUN VERB AUX ADJ PUNCT NOUN PUNCT NOUN PUNCT NOUN ADV PUNCT NUM AUX PUNCT VERB PUNCT ADJ PUNCT AUX NOUN PUNCT NOUN PUNCT NOUN PUNCT VERB PUNCT PUNCT PUNCT ADJ PUNCT CCONJ NOUN AUX PUNCT VERB PUNCT VERB PUNCT PUNCT PUNCT PUNCT NOUN PUNCT PROPN NOUN PART VERB AUX VERB PUNCT NOUN PUNCT PUNCT PROPN PUNCT NOUN PUNCT NOUN AUX NOUN PROPN PUNCT PROPN PUNCT PROPN ADJ PUNCT ADV ADJ ADJ PUNCT AUX NOUN PUNCT PUNCT AUX NOUN VERB ADJ PUNCT NOUN PUNCT NUM ADJ PUNCT VERB AUX PUNCT PROPN VERB AUX ADV VERB PUNCT PUNCT PUNCT AUX PUNCT PRON ADV NOUN ADJ PUNCT ADJ PUNCT AUX AUX ADJ PUNCT ADJ NUM NOUN NOUN PUNCT NOUN PUNCT NOUN PUNCT ADJ VERB PUNCT NOUN PUNCT ADJ PUNCT ADJ PUNCT NUM NOUN ADJ PUNCT NOUN PUNCT VERB VERB AUX PUNCT ADV PUNCT NOUN PUNCT ADJ NOUN VERB AUX PUNCT NUM ADV AUX PUNCT VERB PUNCT ADJ PUNCT ADJ PUNCT NOUN VERB AUX ADP PUNCT NOUN NOUN PUNCT DET AUX PUNCT CCONJ NOUN AUX ADP DET NOUN NOUN PUNCT PART NOUN PUNCT PROPN PUNCT NOUN PUNCT AUX NOUN ADJ PUNCT NOUN PUNCT VERB PUNCT NOUN PUNCT PUNCT NOUN PUNCT ADJ PUNCT ADJ AUX PUNCT ADV ADJ PUNCT ADJ PUNCT PUNCT NOUN AUX ADV NOUN ADJ PUNCT NOUN PUNCT NOUN PUNCT VERB AUX ADJ PUNCT VERB PUNCT NOUN VERB PUNCT VERB PUNCT AUX ADJ NOUN PUNCT ADV PUNCT NOUN PUNCT NOUN VERB AUX NOUN PUNCT ADV NOUN NOUN PUNCT ADJ NOUN ADJ PUNCT NOUN NOUN PUNCT PRON VERB ADP VERB PUNCT NOUN PUNCT AUX NOUN PUNCT NOUN PUNCT ADJ VERB NOUN PUNCT PROPN ADJ PUNCT NOUN PUNCT ADJ VERB AUX NOUN PUNCT NOUN PUNCT ADJ PUNCT NOUN VERB PUNCT PUNCT NOUN PUNCT NOUN PUNCT PUNCT PUNCT NOUN NOUN PUNCT NOUN ADJ ADV VERB NOUN NOUN PUNCT NOUN PART VERB PUNCT PUNCT PUNCT NOUN VERB AUX ADJ PUNCT ADV NOUN ADJ PUNCT ADJ PUNCT VERB PUNCT NOUN PUNCT ADJ PUNCT ADJ PUNCT ADJ PUNCT ADJ NOUN VERB ADJ ADJ PUNCT VERB NOUN PUNCT ADJ ADJ PUNCT ADJ VERB NOUN PUNCT NOUN PUNCT PUNCT PUNCT ADJ PUNCT NOUN PUNCT NOUN AUX PUNCT NOUN NOUN PUNCT VERB PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN AUX NOUN ADJ PUNCT VERB PUNCT NOUN PUNCT NOUN AUX ADV ADJ PUNCT NOUN PUNCT VERB AUX PUNCT CCONJ ADJ PUNCT NOUN PUNCT NOUN AUX VERB PUNCT NOUN ADJ PUNCT ADJ PART PUNCT NOUN ADJ PUNCT NOUN AUX PUNCT NOUN AUX PUNCT NOUN VERB PUNCT ADJ NOUN AUX PUNCT ADJ NOUN PART NOUN NOUN PUNCT NOUN NOUN PUNCT VERB VERB AUX NOUN PUNCT ADJ NOUN PUNCT NOUN AUX PUNCT NOUN PUNCT ADJ PART ADJ VERB NOUN ADJ NOUN PUNCT NOUN PUNCT PUNCT PUNCT NOUN AUX ADV ADJ PUNCT NOUN NOUN NUM NOUN PUNCT NOUN PUNCT ADJ PUNCT NOUN PUNCT NOUN PART VERB PUNCT PRON VERB AUX NOUN PUNCT PROPN PUNCT PUNCT PUNCT PART PUNCT NOUN PUNCT VERB NOUN PUNCT NOUN VERB AUX PUNCT NOUN NOUN PUNCT NOUN NOUN PUNCT VERB PART NOUN AUX VERB PUNCT NOUN PUNCT NOUN AUX VERB AUX VERB PUNCT NOUN PUNCT ADJ NOUN VERB PART NOUN PART NOUN PUNCT NOUN DET NOUN PUNCT PUNCT ADV NOUN NOUN PUNCT PRON PUNCT NUM NOUN VERB AUX PUNCT NOUN AUX PART AUX PUNCT NOUN NOUN ADJ PUNCT PUNCT NOUN NOUN NUM VERB ADJ PUNCT NOUN PUNCT X ADP NOUN PUNCT NOUN NOUN ADP NUM VERB AUX PUNCT NOUN PUNCT NOUN NOUN PUNCT NOUN PUNCT ADP NOUN ADJ CCONJ VERB NOUN PUNCT NOUN PART VERB PUNCT NUM NOUN VERB PUNCT ADJ PUNCT ADJ PUNCT NOUN VERB PUNCT VERB PUNCT ADJ NOUN ADV X PUNCT NOUN PUNCT VERB VERB AUX PUNCT NOUN PUNCT NOUN NUM PUNCT NOUN PUNCT ADJ NOUN NOUN PUNCT PUNCT NOUN AUX PUNCT NOUN PUNCT PRON ADP NOUN NOUN VERB VERB AUX ADJ NOUN PUNCT NOUN PUNCT NOUN AUX ADJ ADJ VERB PUNCT VERB PUNCT NOUN PUNCT ADP NOUN ADJ CCONJ VERB PUNCT NOUN PUNCT VERB ADJ PUNCT ADJ PUNCT X ADP NOUN ADJ ADJ CCONJ ADV VERB NOUN NOUN PUNCT NOUN PART ADV XX PUNCT NOUN PUNCT NOUN AUX PUNCT VERB AUX ADJ PUNCT NOUN PUNCT NOUN AUX ADV NOUN ADJ PUNCT NOUN PUNCT NOUN PUNCT NOUN VERB AUX ADJ PUNCT NOUN PUNCT NUM ADJ PUNCT VERB AUX PUNCT NOUN PUNCT NOUN PUNCT NOUN PART NOUN NOUN NOUN PUNCT NOUN AUX PUNCT AUX PUNCT ADJ PUNCT NOUN AUX ADV VERB NOUN NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN AUX VERB PUNCT VERB PUNCT NOUN NOUN PUNCT NOUN VERB NOUN PUNCT NOUN PUNCT AUX NOUN PUNCT NOUN PUNCT NOUN VERB AUX ADJ PUNCT NOUN PUNCT NOUN PUNCT NOUN ADV PUNCT NUM AUX PUNCT VERB PUNCT ADJ PUNCT AUX NOUN PUNCT NOUN PUNCT NOUN PUNCT VERB PUNCT PUNCT PUNCT ADJ PUNCT CCONJ NOUN AUX PUNCT VERB PUNCT VERB PUNCT PUNCT PUNCT PUNCT NOUN PUNCT PROPN NOUN PART VERB AUX VERB PUNCT NOUN PUNCT AUX NOUN ADJ PUNCT NOUN PUNCT VERB PUNCT NOUN PUNCT PUNCT NOUN.PUNCT NOUN.AUX NOUN.PUNCT AUX.NOUN NOUN.PUNCT NOUN.PUNCT VERB.PUNCT PUNCT.PUNCT PUNCT.PUNCT NOUN.ADJ NOUN.PUNCT NOUN.PUNCT AUX.NOUN PUNCT NOUN.PUNCT NOUN.PUNCT NOUN.VERB NOUN.PUNCT ADJ.PUNCT VERB.PUNCT PUNCT.PUNCT PUNCT.PUNCT PUNCT.PUNCT ADJ.PUNCT NOUN.ADJ PUNCT NOUN.PUNCT NOUN.INTJ X.ADP NOUN.NOUN VERB.X VERB.PUNCT NOUN.PUNCT AUX.NOUN PUNCT NOUN.NOUN PUNCT NOUN.PUNCT VERB.PUNCT NOUN.PUNCT NOUN.ADJ NOUN.PUNCT NOUN.PUNCT NOUN.VERB AUX.ADJ PUNCT NOUN.PUNCT NOUN.ADJ X.ADP NOUN.NOUN VERB.X VERB.AUX NOUN.NOUN.NOUN PUNCT NOUN.DET AUX.PUNCT CCONJ.NOUN AUX.ADP DET.NOUN.NOUN ADJ.NOUN.PUNCT INTJ.PUNCT NOUN.PUNCT NOUN.PUNCT NOUN.PUNCT AUX.NOUN.ADJ PUNCT NOUN.PUNCT ADV.ADJ NOUN.CCONJ ADV.AUX NOUN.PUNCT NOUN.CCONJ NOUN.AUX NOUN.PUNCT NOUN.PUNCT AUX.ADP NOUN.ADJ PUNCT NOUN.NOUN.ADV X.PUNCT NOUN.ADJ ADJ.CCONJ ADV.VERB NOUN.NOUN.PUNCT NOUN.PUNCT AUX.NOUN.ADJ NOUN.PUNCT NOUN.VERB NOUN.PUNCT PUNCT.NOUN.NOUN NUM.VERB.ADJ PUNCT NOUN.PUNCT X.NOUN.VERB PUNCT NOUN.NOUN.PUNCT NOUN.PUNCT ADJ.PUNCT NOUN.PUNCT NOUN.AUX NOUN.PUNCT PROPN.NOUN.PART VERB.AUX.VERB.PUNCT NOUN.PUNCT AUX.ADV.NOUN.ADJ PUNCT ADJ.NOUN.ADJ PUNCT AUX.AUX.ADJ PUNCT ADJ.NUM.NOUN.NOUN PUNCT NOUN.PUNCT NOUN.PUNCT NOUN.PUNCT NOUN.PUNCT NOUN.PUNCT NOUN.PUNCT NOUN.ADJ.PUNCT NOUN.PUNCT NOUN.PUNCT NOUN.VERB.ADJ.PUNCT ADJ.PUNCT X.ADP NOUN.ADJ.ADJ.CCONJ ADV.VERB.NOUN.NOUN.PUNCT NOUN.VERB.AUX.PUNCT ADJ.PUNCT NOUN.PUNCT NUM.ADV.AUX.PUNCT VERB.PUNCT ADJ.PUNCT AUX.NOUN.PUNCT NOUN.PUNCT NOUN.AUX.PUNCT NOUN.AUX.PUNCT VERB.AUX.PUNCT NOUN.PUNCT ADJ.ADJ.PUNCT NOUN.PUNCT NOUN.NOUN.PUNCT PRON.VERB.ADP.VERB.PUNCT NOUN.PUNCT AUX.NOUN.PUNCT NOUN.PUNCT ADJ.NOUN.PUNCT ADJ.NUM.NOUN.NOUN.PUNCT NOUN.AUX.PUNCT NUM.ADJ.PUNCT VERB.AUX.PUNCT ADV.PART.ADJ.ADJ.PUNCT VERB.NOUN.PUNCT NOUN.NOUN.PUNCT NOUN.PUNCT NUM.PUNCT NOUN.PUNCT X.NOUN.VERB ADJ.PUNCT AUX.NOUN.PUNCT NOUN.PUNCT NOUN.PUNCT ADJ.VERB.NOUN.PUNCT NOUN.PUNCT ADJ.ADJ.PUNCT ADJ.PUNCT ADV.NOUN.AUX.NOUN.PUNCT NOUN.PUNCT NOUN.NOUN.PUNCT NOUN.PUNCT NOUN.ADJ.PUNCT NOUN.PUNCT NOUN.VERB.PUNCT NOUN.PUNCT NUM.AUX.PUNCT VERB.AUX.PUNCT NOUN.PUNCT NOUN.NONE ADJ.PUNCT ADJ.PUNCT NOUN.PUNCT NOUN.ADJ.PUNCT NOUN.PUNCT X.NOUN.ADV.AUX.PUNCT NOUN.PUNCT NOUN.AUX.PUNCT NOUN.PUNCT NOUN.ADJ.PUNCT NOUN.PUNCT NOUN.PUNCT NOUN.PUNCT NUM.AUX.ADP.PUNCT VERB.PUNCT NOUN.NOUN.PUNCT NOUN.PUNCT NOUN.PUNCT ADJ.VERB.AUX.NOUN.PUNCT ADJ.NOUN.PUNCT NUM.ADV.AUX.PUNCT VERB.PUNCT NOUN.PUNCT ADJ.PUNCT ADJ.PUNCT X.NOUN.ADP.ADJ.ADJ.CCONJ.ADV.VERB.NOUN.NOUN.PUNCT NOUN.PUNCT NOUN.PUNCT ADJ.PUNCT NOUN.PUNCT NUM.ADJ.PUNCT
+tui PRON\n correptionem NOUN\n quod SCONJ\n , PUNCT\n per ADP\n primam ADJ\n prevaricationem NOUN\n eluminata NOUN\n , PUNCT\n delitiarum NOUN\n exulabas NOUN\n a ADP\n patria NOUN\n ? PUNCT\n Sed CCONJ\n , PUNCT\n sicut SCONJ\n proverbialiter ADV\n dici VERB\n solet VERB\n « PUNCT\n Non ADV\n ante ADP\n tertium ADJ\n equitabis VERB\n » PUNCT\n , PUNCT\n misera ADJ\n miserum ADJ\n venire VERB\n maluisti VERB\n ad ADP\n equum NOUN\n . PUNCT\n Ecce INTJ\n , PUNCT\n lector NOUN\n , PUNCT\n quod SCONJ\n vel CCONJ\n oblitus VERB\n homo NOUN\n vel CCONJ\n vilipendens VERB\n disciplinas NOUN\n priores ADJ\n , PUNCT\n et CCONJ\n a ADP\n vertens VERB\n oculos NOUN\n a ADP\n vibicibus NOUN\n que CCONJ\n remanserant VERB\n , PUNCT\n tertio ADV\n insurrexit VERB\n ad ADP\n verbera NOUN\n , PUNCT\n per ADP\n superbam ADJ\n stultitiam NOUN\n presumendo VERB\n . PUNCT\n Presumpsit VERB\n
+$ergo\tADV\n in\tADP\n corde\tNOUN\n suo\tDET\n incurabilis\tADJ\n homo\tNOUN\n ,\tPUNCT\n sub\tADP\n persuasione\tNOUN\n gigantis\tNOUN\n Nembroth\tNOUN\n ,\tPUNCT\n arte\tNOUN\n sua\tDET\n non\tPART\n solum\tADV\n superare\tVERB\n naturam\tNOUN\n ,\tPUNCT\n sed\tCCONJ\n etiam\tADV\n ipsum\tDET\n naturantem\tVERB\n ,\tPUNCT\n qui\tPRON\n Deus\tNOUN\n est\tAUX\n ,\tPUNCT\n et\tCCONJ\n cepit\tVERB\n edificare\tVERB\n turrim\tNOUN\n in\tADP\n Sennaar\tPROPN\n ,\tPUNCT\n que\tPRON\n postea\tADV\n dicta\tVERB\n est\tAUX\n Babel\tPROPN\n ,\tPUNCT\n hoc\tDET\n est\tAUX\n “\tPUNCT\n confusio\tNOUN\n ”\tPUNCT\n ,\tPUNCT\n per\tADP\n quam\tPRON\n celum\tNOUN\n sperabat\tVERB\n ascendere\tVERB\n ,\tPUNCT\n intendens\tVERB\n inscius\tADJ\n non\tPART\n equare\tVERB\n ,\tPUNCT\n sed\tCCONJ\n suum\tDET\n superare\tVERB\n Factorem\tNOUN\n .\tPUNCT\n O\tX\n sine\tADP\n mensura\tNOUN\n $\tPUNCT\n
+$clementia\tNOUN\n celestis\tADJ\n imperii\tNOUN\n !\tPUNCT\n Quis\tPRON\n patrum\tNOUN\n tot\tADV\n sustineret\tVERB\n insultus\tVERB\n a\tADP\n filio\tNOUN\n ?\tPUNCT\n Siquidem\tADV\n pene\tADV\n totum\tDET\n humanum\tADJ\n genus\tNOUN\n ad\tADP\n opus\tNOUN\n iniquitatis\tNOUN\n coierat\tVERB\n :\tPUNCT\n pars\tNOUN\n imperabant\tVERB\n ,\tPUNCT\n pars\tNOUN\n architectabantur\tVERB\n ,\tPUNCT\n pars\tNOUN\n muros\tNOUN\n moliebantur\tVERB\n ,\tPUNCT\n pars\tNOUN\n amussibus\tNOUN\n regulabant\tVERB\n ,\tPUNCT\n pars\tNOUN\n trullis\tNOUN\n linebant\tVERB\n ,\tPUNCT\n pars\tNOUN\n scindere\tVERB\n rupes\tNOUN\n ,\tPUNCT\n pars\tNOUN\n mari\tNOUN\n ,\tPUNCT\n pars\tNOUN\n terra\tNOUN\n vehere\tVERB\n intendebant\tVERB\n ,\tPUNCT\n partesque\tNOUN\n partesque\tNOUN\n diverse\tADJ\n diversis\tADJ\n aliis\tDET\n operibus\tNOUN\n indulgebant\tVERB\n ;\tPUNCT\n cum\tSCONJ\n celitus\tADV\n tanta\tDET\n confusione\tNOUN\n percussi\tVERB\n$\n
+$sunt\tVERB$\n$ut\tSCONJ$\n$,\tPUNCT$\n$qui\tPRON$\n$omnes\tDET$\n$una\tDET$\n$eademque\tADV$\n$eadem\tDET$\n$que\tPART$\n$loquela\tNOUN$\n$deserviebant\tVERB$\n$ad\tADP$\n$opus\tNOUN$\n$,\tPUNCT$\n$ab\tADP$\n$opere\tNOUN$\n$multis\tDET$\n$diversificati\tVERB$\n$loquelis\tNOUN$\n$desinerent\tVERB$\n$et\tCCONJ$\n$nunquam\tADV$\n$ad\tADP$\n$idem\tDET$\n$commertium\tNOUN$\n$convenirent\tVERB$\n$.\tPUNCT$\n$Solis\tDET$\n$etenim\tADV$\n$in\tADP$\n$uno\tDET$\n$convenientibus\tVERB$\n$actu\tNOUN$\n$eadem\tDET$\n$loquela\tNOUN$\n$remansit\tVERB$\n$:\tPUNCT$\n$puta\tADV$\n$cunctis\tDET$\n$architectoribus\tNOUN$\n$una\tDET$\n$,\tPUNCT$\n$cunctis\tDET$\n$saxa\tNOUN$\n$volventibus\tVERB$\n$una\tDET$\n$,\tPUNCT$\n$cunctis\tDET$\n$ea\tPRON$\n$parantibus\tVERB$\n$una\tDET$\n$;\tPUNCT$\n$et\tCCONJ$\n$sic\tADV$\n$de\tADP$\n$singulis\tADJ$\n$operantibus\tVERB$\n$accidit\tVERB$\n$.\tPUNCT$\n$Quibus\tPRON$\n$autem\tPART$\n$sacratum\tADJ$\n$ydioma\tNOUN$\n$remansit\tVERB$\n$nec\tCCONJ$\n$aderant\tVERB$
+nec\tCCONJ\n exercitium\tNOUN\n commendabant\tVERB\n ,\tPUNCT\n sed\tCCONJ\n graviter\tADV\n detestantes\tVERB\n stoliditatem\tNOUN\n operantium\tVERB\n deridebant\tVERB\n .\tPUNCT\n Et\tCCONJ\n cum\tSCONJ\n radix\tNOUN\n humane\tADJ\n propaginis\tNOUN\n principalis\tADJ\n in\tADP\n oris\tNOUN\n orientalibus\tADJ\n sit\tAUX\n plantata\tVERB\n ,\tPUNCT\n nec\tCCONJ\n non\tPART\n ab\tADP\n inde\tADV\n ad\tADP\n utrunque\tDET\n latus\tNOUN\n per\tADP\n diffusos\tVERB\n multipliciter\tADV\n palmites\tNOUN\n nostra\tDET\n sit\tAUX\n extensa\tVERB\n propago\tNOUN\n ,\tPUNCT\n demumque\tADV\n demum\tADV\n que\tCCONJ\n ad\tADP\n fines\tNOUN\n occidentales\tADJ\n protracta\tVERB\n ,\tPUNCT\n forte\tADV\n primitus\tADV\n tunc\tADV\n vel\tCCONJ\n totius\tDET\n Europe\tPROPN\n flumina\tNOUN\n ,\tPUNCT\n vel\tCCONJ\n saltim\tADV\n quedam\tDET\n ,\tPUNCT\n rationalia\tADJ\n guctura\tNOUN\n potaverunt\tVERB\n .\tPUNCT\n Sed\tCCONJ\n sive\tCCONJ\n si\tSCONJ\n$
+$Ve ADV\n advene ADJ\n tunc ADV\n primitus ADV\n advenissent VERB\n , PUNCT\n sive CCONJ\n si SCONJ\n ve CCONJ\n ad ADP\n Europam PROPN\n indigene NOUN\n repedassent VERB\n , PUNCT\n ydioma NOUN\n secum PRON\n se PRON\n cum ADP\n tripharium ADJ\n homines NOUN\n actulerunt VERB\n ; PUNCT\n et CCONJ\n afferentium VERB\n hoc DET\n alii DET\n meridionalem ADJ\n , PUNCT\n alii DET\n septentrionalem ADJ\n regionem NOUN\n in ADP\n Europa PROPN\n sibi PRON\n sortiti VERB\n sunt AUX\n ; PUNCT\n et CCONJ\n tertii ADJ\n , PUNCT\n quos PRON\n nunc ADV\n Grecos ADJ\n vocamus VERB\n , PUNCT\n partim ADV\n Europe PROPN\n , PUNCT\n partim ADV\n Asye PROPN\n occuparunt VERB\n . PUNCT\n Ab ADP\n uno DET\n postea ADV\n eodemque ADV\n eodem DET\n que CCONJ\n ydiomate NOUN\n in ADP\n vindice ADJ\n confusione NOUN\n recepto VERB\n diversa ADJ\n vulgaria ADJ\n traxerunt VERB\n$ X X\n
+Splitting the sentence at every whitespace and returning the UPOS tags:
+
+$originem\tNOUN\n ,\tPUNCT\n sicut\tSCONJ\n inferius\tADV\n ostendemus\tVERB\n .\tPUNCT\n Ab\tADP\n isto\tDET\n incipiens\tVERB\n ydiomate\tNOUN\n ,\tPUNCT\n videlicet\tADV\n a\tADP\n finibus\tNOUN\n Ungarorum\tPROPN\n versus\tADP\n orientem\tNOUN\n ,\tPUNCT\n aliud\tDET\n occupavit\tVERB\n totum\tDET\n quod\tPRON\n ab\tADP\n inde\tADV\n vocatur\tVERB\n Europa\tPROPN\n ,\tPUNCT\n nec\tCCONJ\n non\tPART\n ulterius\tADV\n est\tAUX\n protractum\tVERB\n .\tPUNCT\n Totum\tDET\n vero\tADV\n quod\tPRON\n in\tADP\n Europa\tPROPN\n restat\tVERB\n ab\tADP\n istis\tDET\n ,\tPUNCT\n tertium\tADJ\n tenuit\tVERB\n ydioma\tNOUN\n ,\tPUNCT\n licet\tCCONJ\n nunc\tADV\n tripharium\tNOUN\n videatur\tVERB\n :\tPUNCT\n nam\tPART\n alii\tDET\n oc\tADV\n alii\tDET\n oïl\tX\n ,\tPUNCT\n alii\tDET\n sì\tADV\n affirmando\tVERB\n locuntur\tVERB\n ,\tPUNCT\n ut\tSCONJ\n puta\tADV\n Yspani\tNOUN\n ,\tPUNCT\n$\tPUNCT\n
+$Franci$\t$ADJ\n$
+$et$\t$CCONJ\n$
+$Latini$\t$ADJ\n$
+$.$\t$PUNCT\n$
+$Signum$\t$NOUN\n$
+$autem$\t$PART\n$
+$quod$\t$PRON\n$
+$ab$\t$ADP\n$
+$uno$\t$DET\n$
+$eodemque$\t$DET\n$
+$eodem$\t$DET\n$
+$que$\t$CCONJ\n$
+$ydiomate$\t$NOUN\n$
+$istarum$\t$DET\n$
+$trium$\t$NUM\n$
+$gentium$\t$NOUN\n$
+$progrediantur$\t$VERB\n$
+$vulgaria$\t$NOUN\n$
+$,$\t$PUNCT\n$
+$in$\t$ADP\n$
+$promptu$\t$ADJ\n$
+$est$\t$AUX\n$
+$,$\t$PUNCT\n$
+$quia$\t$SCONJ\n$
+$multa$\t$DET\n$
+$per$\t$ADP\n$
+$eadem$\t$DET\n$
+$vocabula$\t$NOUN\n$
+$nominare$\t$VERB\n$
+$videntur$\t$VERB\n$
+$,$\t$PUNCT\n$
+$ut$\t$SCONJ\n$
+$“$\t$PUNCT\n$
+$Deum$\t$PROPN\n$
+$”$\t$PUNCT\n$
+$,$\t$PUNCT\n$
+$“$\t$PUNCT\n$
+$celum$\t$NOUN\n$
+$”$\t$PUNCT\n$
+$,$\t$PUNCT\n$
+$“$\t$PUNCT\n$
+$amorem$\t$NOUN\n$
+$”$\t$PUNCT\n$
+$,$\t$PUNCT\n$
+$“$\t$PUNCT\n$
+$mare$\t$NOUN\n$
+$”$\t$PUNCT\n$
+$,$\t$PUNCT\n$
+$“$\t$PUNCT\n$
+$terram$\t$NOUN\n$
+$”$\t$PUNCT\n$
+$,$\t$PUNCT\n$
+$“$\t$PUNCT\n$
+$est$\t$AUX\n$
+$”$\t$PUNCT\n$
+$,$\t$PUNCT\n$
+$“$\t$PUNCT\n$
+$vivit$\t$VERB\n$
+$”$\t$PUNCT\n$
+$,$\t$PUNCT\n$
+$“$\t$PUNCT\n$
+$moritur$\t$VERB\n$
+$”$\t$PUNCT\n$
+$,$\t$PUNCT\n$
+$“$\t$PUNCT\n$
+$amat$\t$VERB\n$
+$”$\t$PUNCT\n$
+$,$\t$PUNCT\n$
+$.$\t$PUNCT\n$
+
+” PUNCT\n , PUNCT\n alia DET\n fere ADV\n omnia DET\n . PUNCT\n Istorum DET\n vero ADV\n proferentes VERB\n oc CCONJ\n meridionalis ADJ\n Europe PROPN\n tenent VERB\n partem NOUN\n occidentalem ADJ\n , PUNCT\n a ADP\n Ianuensium PROPN\n finibus NOUN\n incipientes VERB\n . PUNCT\n Qui PRON\n autem PART\n sì ADV\n dicunt VERB\n a ADP\n predictis ADJ\n finibus NOUN\n orientalem ADJ\n tenent VERB\n , PUNCT\n videlicet CCONJ\n usque ADP\n ad ADP\n promuntorium NOUN\n illud DET\n Ytalie PROPN\n qua PRON\n sinus NOUN\n Adriatici ADJ\n maris NOUN\n incipit VERB\n , PUNCT\n et CCONJ\n Siciliam PROPN\n . PUNCT\n Sed CCONJ\n loquentes VERB\n oïl NOUN\n quodam DET\n modo NOUN\n septentrionales ADJ\n sunt AUX\n respectu NOUN\n istorum DET\n : PUNCT\n nam PART\n ab ADP\n oriente NOUN\n Alamannos PROPN\n habent VERB\n et CCONJ\n ab ADP\n occidente NOUN\n et CCONJ\n septentrione NOUN\n$ PUNCT\n
+$anglico$ DET
+$mari$ NOUN
+$vallati$ VERB
+$sunt$ AUX
+$et$ CCONJ
+$montibus$ NOUN
+$Aragonie$ PROPN
+$terminati$ VERB
+$;$ PUNCT
+$a$ ADP
+$meridie$ NOUN
+$quoque$ ADV
+$Provincialibus$ NOUN
+$et$ CCONJ
+$Apenini$ NOUN
+$devexione$ NOUN
+$clauduntur$ VERB
+$.$ PUNCT
+$Nos$ PRON
+$autem$ PART
+$nunc$ ADV
+$oportet$ VERB
+$quam$ ADV
+$habemus$ VERB
+$rationem$ NOUN
+$periclitari$ VERB
+$,$ PUNCT
+$cum$ SCONJ
+$inquirere$ VERB
+$intendamus$ VERB
+$de$ ADP
+$hiis$ DET
+$in$ ADP
+$quibus$ PRON
+$nullius$ DET
+$autoritate$ NOUN
+$fulcimur$ VERB
+$,$ PUNCT
+$hoc$ DET
+$est$ AUX
+$de$ ADP
+$unius$ DET
+$eiusdemque$ PRON
+$eiusdem$ DET
+$que$ CCONJ
+$a$ ADP
+$principio$ NOUN
+$ydiomatis$ NOUN
+$variatione$ NOUN
+$secuta$ VERB
+$.$ PUNCT
+$Est$ AUX
+$igitur$ ADV
+$super$ ADP
+$quod$ PRON
+$gradimur$ VERB
+$ydioma$ NOUN
+$tractando$ VERB
+$tripharium$ NOUN
+$,$ PUNCT
+$ut$ SCONJ
+$superius$ ADV
+$dictum$ VERB
+$est$ AUX
+$:$ PUNCT
+$nam$ PART
+$alii\tPRON\n oc\tCCONJ\n ,\tPUNCT\n alii\tDET\n sì\tADV\n ,\tPUNCT\n alii\tDET\n vero\tADV\n dicunt\tVERB\n oïl\tADV\n .\tPUNCT\n Trilingues\tADJ\n ergo\tADV\n doctores\tNOUN\n in\tADP\n multis\tDET\n conveniunt\tVERB\n ,\tPUNCT\n et\tCCONJ\n maxime\tADV\n in\tADP\n hoc\tDET\n vocabulo\tNOUN\n quod\tPRON\n est\tAUX\n “\tPUNCT\n amor\tNOUN\n ”\tPUNCT\n .\tPUNCT\n Quare\tADV\n autem\tPART\n tripharie\tADJ\n principalius\tADV\n variatum\tVERB\n sit\tAUX\n ,\tPUNCT\n investigemus\tVERB\n ;\tPUNCT\n et\tCCONJ\n quare\tADV\n quelibet\tDET\n istarum\tDET\n variationum\tNOUN\n in\tADP\n se\tPRON\n ipsa\tDET\n variatur\tVERB\n ,\tPUNCT\n puta\tCCONJ\n dextre\tADJ\n Ytalie\tPROPN\n locutio\tNOUN\n ab\tADP\n ea\tPRON\n que\tPRON\n est\tAUX\n sinistre\tADJ\n (\tPUNCT\n nam\tPART\n aliter\tADV\n Paduani\tADJ\n et\tCCONJ\n aliter\tADV\n Pisani\tNOUN\n locuntur\tVERB\n ;\tPUNCT\n
+et CCONJ\n quare ADV\n vicinius ADV\n habitantes VERB\n adhuc ADV\n discrepant VERB\n in ADP\n loquendo VERB\n , PUNCT\n ut SCONJ\n Mediolanenses ADJ\n et CCONJ\n Veronenses ADJ\n , PUNCT\n Romani ADJ\n et CCONJ\n Florentini ADJ\n , PUNCT\n nec ADV\n non PART\n convenientes VERB\n in ADP\n eodem ADJ\n genere NOUN\n gentis NOUN\n , PUNCT\n ut SCONJ\n Neapoletani NOUN\n et CCONJ\n Caetani NOUN\n , PUNCT\n Ravennates ADJ\n et CCONJ\n Faventini NOUN\n , PUNCT\n et CCONJ\n , PUNCT\n quod PRON\n mirabilius ADJ\n est VERB\n , PUNCT\n sub ADP\n eadem ADJ\n civilitate NOUN\n morantes VERB\n , PUNCT\n ut SCONJ\n Bononienses ADJ\n Burgi NOUN\n Sancti ADJ\n Felicis PROPN\n et CCONJ\n Bononienses ADJ\n Strate NOUN\n Maioris ADJ\n . PUNCT\n Hee PRON\n omnes DET\n differentie NOUN\n atque CCONJ\n sermonum NOUN\n varietates NOUN\n quid PRON\n accidant VERB\n , PUNCT\n $ PUNCT\n
+$una\tADV\n eademque\tADV\n eadem\tADV\n que\tCONJ\n ratione\tNOUN\n patebit\tVERB\n .\tPUNCT\n Nec\tCCONJ\n dubitandum\tVERB\n reor\tVERB\n modo\tADV\n in\tADP\n eo\tPRON\n quod\tPRON\n diximus\tVERB\n “\tPUNCT\n temporum\tNOUN\n ”\tPUNCT\n ,\tPUNCT\n sed\tCCONJ\n potius\tNOUN\n opinamur\tVERB\n tenendum\tVERB\n :\tPUNCT\n nam\tPART\n si\tSCONJ\n alia\tDET\n nostra\tDET\n opera\tNOUN\n perscrutemur\tVERB\n ,\tPUNCT\n multo\tADV\n magis\tADV\n discrepare\tVERB\n videmur\tVERB\n a\tADP\n vetustissimis\tADJ\n concivibus\tNOUN\n nostris\tDET\n quam\tSCONJ\n a\tADP\n coetaneis\tADJ\n perlonginquis\tADJ\n .\tPUNCT\n Si\tSCONJ\n ergo\tADV\n per\tADP\n eandem\tPRON\n gentem\tNOUN\n sermo\tNOUN\n variatur\tVERB\n ,\tPUNCT\n ut\tSCONJ\n dictum\tVERB\n est\tAUX\n ,\tPUNCT\n successive\tADJ\n per\tADP\n tempora\tNOUN\n ,\tPUNCT\n nec\tCCONJ\n stare\tVERB\n ullo\tDET\n modo\tNOUN\n potest\tVERB\n ,\tPUNCT\n $\tPUNCT\n
+$necesse\tADJ\n est\tAUX\n ut\tSCONJ\n disiunctim\tADV\n abmotimque\tVERB\n abmotim\tADJ\n que\tCCONJ\n morantibus\tVERB\n varie\tADV\n varietur\tVERB\n ,\tPUNCT\n ceu\tCCONJ\n varie\tADV\n variantur\tVERB\n mores\tNOUN\n et\tCCONJ\n habitus\tNOUN\n qui\tPRON\n nec\tCCONJ\n natura\tNOUN\n nec\tCCONJ\n consortio\tNOUN\n confirmantur\tVERB\n ,\tPUNCT\n sed\tCCONJ\n humanis\tADJ\n beneplacitis\tNOUN\n localique\tNOUN\n locali\tADJ\n que\tCCONJ\n congruitate\tNOUN\n nascuntur\tVERB\n .\tPUNCT\n Hinc\tADV\n moti\tVERB\n sunt\tAUX\n inventores\tNOUN\n gramatice\tNOUN\n facultatis\tNOUN\n :\tPUNCT\n que\tPRON\n quidem\tPART\n gramatica\tNOUN\n nichil\tPRON\n aliud\tDET\n est\tAUX\n quam\tSCONJ\n quedam\tDET\n inalterabilis\tADJ\n locutionis\tNOUN\n ydemptitas\tNOUN\n diversibus\tADJ\n temporibus\tNOUN\n atque\tCCONJ\n locis\tNOUN\n .\tPUNCT\n Hec\tDET\n cum\tSCONJ\n de\tADP\n comuni\tADJ\n consensu\tNOUN\n multarum\tDET\n gentium\tNOUN\n fuerit\tAUX\n regulata\tVERB\n ,\tPUNCT\n $\tPUNCT\n
+$nulli$\tDET\n $singulari$\tADJ\n $arbitrio$\tNOUN\n $videtur$\tVERB\n $obnoxia$\tADJ\n $,$\tPUNCT\n $et$\tCCONJ\n $per$\tADP\n $consequens$\tADJ\n $nec$\tCCONJ\n $variabilis$\tADJ\n $esse$\tAUX\n $potest$\tVERB\n $.$\tPUNCT\n $Adinvenerunt$\tVERB\n $ergo$\tADV\n $illam$\tDET\n $ne$\tPART\n $,$\tPUNCT\n $propter$\tADP\n $variationem$\tNOUN\n $sermonis$\tNOUN\n $arbitrio$\tNOUN\n $singularium$\tADJ\n $fluitantis$\tVERB\n $,$\tPUNCT\n $vel$\tCCONJ\n $nullo$\tDET\n $modo$\tNOUN\n $vel$\tCCONJ\n $saltim$\tADV\n $imperfecte$\tADV\n $antiquorum$\tADJ\n $actingeremus$\tVERB\n $autoritates$\tNOUN\n $et$\tCCONJ\n $gesta$\tNOUN\n $,$\tPUNCT\n $sive$\tCCONJ\n $illorum$\tDET\n $quos$\tPRON\n $a$\tADP\n $nobis$\tPRON\n $locorum$\tNOUN\n $diversitas$\tNOUN\n $facit$\tVERB\n $esse$\tAUX\n $diversos$\tADJ\n $.$\tPUNCT\n $Triphario$\tPROPN\n $nunc$\tADV\n $existente$\tVERB\n $nostro$\tDET\n $ydiomate$\tNOUN\n $,$\tPUNCT\n $ut$\tADV\n $superius$\tADV\n $dictum$\tVERB\n $est$\tAUX\n $,$\tPUNCT\n $in$\tADP\n $comparatione$\tNOUN\n $sui$\tPRON\n $ipsius$\tDET\n $,$\tPUNCT\n $secundum$\tADP\n
+quod\tPRON\n trisonum\tADJ\n factum\tVERB\n est\tVERB\n ,\tPUNCT\n cum\tSCONJ\n tanta\tDET\n timiditate\tNOUN\n cunctamur\tVERB\n librantes\tVERB\n quod\tPRON\n hanc\tDET\n vel\tCCONJ\n istam\tDET\n vel\tCCONJ\n illam\tDET\n partem\tNOUN\n in\tADP\n comparando\tVERB\n preponere\tVERB\n non\tPART\n audemus\tVERB\n ,\tPUNCT\n nisi\tSCONJ\n eo\tPRON\n quo\tPRON\n gramatice\tADV\n positores\tNOUN\n inveniuntur\tVERB\n accepisse\tVERB\n “\tPUNCT\n sic\tADV\n ”\tPUNCT\n adverbium\tNOUN\n affirmandi\tVERB\n :\tPUNCT\n quod\tPRON\n quandam\tDET\n anterioritatem\tNOUN\n erogare\tVERB\n videtur\tVERB\n Ytalis\tPROPN\n ,\tPUNCT\n qui\tPRON\n sì\tADV\n dicunt\tVERB\n .\tPUNCT\n Quelibet\tDET\n enim\tPART\n partium\tNOUN\n largo\tADJ\n testimonio\tNOUN\n se\tPRON\n tuetur\tVERB\n .\tPUNCT\n Tertia\tADJ\n quoque\tPART\n ,\tPUNCT\n que\tCCONJ\n Latinorum\tNOUN\n est\tAUX\n ,\tPUNCT\n se\tPRON\n duobus\tNUM\n privilegiis\tNOUN\n actestatur\tVERB\n
+$preesse$\tVERB\n primo\tADV\n quidem\tPART\n quod\tSCONJ\n qui\tDET\n dulcius\tADV\n subtiliusque\tADV\n subtilius\tADV\n que\tCCONJ\n poetati\tVERB\n vulgariter\tADV\n sunt\tAUX\n ,\tPUNCT\n hii\tDET\n familiares\tADJ\n et\tCCONJ\n domestici\tADJ\n sui\tDET\n sunt\tAUX\n ,\tPUNCT\n puta\tADP\n Cynus\tPROPN\n Pistoriensis\tADJ\n et\tCCONJ\n amicus\tNOUN\n eius\tPRON\n ;\tPUNCT\n secundo\tADV\n quia\tSCONJ\n magis\tADV\n videtur\tVERB\n initi\tVERB\n gramatice\tADJ\n que\tCCONJ\n comunis\tADJ\n est\tAUX\n ,\tPUNCT\n quod\tSCONJ\n rationabiliter\tADV\n inspicientibus\tVERB\n videtur\tVERB\n gravissimum\tADJ\n argumentum\tNOUN\n .\tPUNCT\n Nos\tPRON\n vero\tADV\n iudicium\tNOUN\n relinquentes\tVERB\n in\tADP\n hoc\tDET\n et\tCCONJ\n tractatum\tNOUN\n nostrum\tDET\n ad\tADP\n vulgare\tADJ\n latium\tNOUN\n retrahentes\tVERB\n ,\tPUNCT\n et\tCCONJ\n receptas\tVERB\n in\tADP\n se\tPRON\n variationes\tNOUN\n dicere\tVERB\n nec\tCCONJ\n$
+Split$ the$ sentence$ only$ at$ every$ whitespace.$ Do$ not$ split$ the$ idividual$ tokens$ further.$ Return$ the$ UPOS$ tag$ for$ the$ tokens$ of$ the$ sentence$ in$ between$ the$ two$ dollar$ signs$ $non$ $illas$ $invicem$ $comparare$ $conemur$ $.$ $Si$ $quis$ $autem$ $querat$ $de$ $linea$ $dividente$ $,$ $breviter$ $respondemus$ $esse$ $iugum$ $Apenini$ $,$ $quod$ $,$ $ceu$ $fistule$ $culmen$ $hinc$ $inde$ $ad$ $diversa$ $stillicidia$ $grundat$ $aquas$ $,$ $ad$ $alterna$ $hinc$ $inde$ $litora$ $per$ $ymbricia$ $longa$ $distillat$ $,$ $ut$ $Lucanus$ $in$ $secundo$ $describit$ $:$ $dextrum$ $quoque$ $latus$ $Tyrenum$ $mare$ $grundatorium$ $habet$ $,$ $levum$ $vero$ $in$ $Adriaticum$ $cadit$ $.$ $Et$ $dextri$ $regiones$ $$
+ADP PRON ADV VERB NOUN PUNCT SCONJ ADJ NOUN PUNCT VERB AUX NOUN PROPN PUNCT ADV ADV ADP NOUN NOUN NOUN ADV ADV ADP ADJ NOUN NOUN VERB NOUN PUNCT ADP ADJ ADV NOUN NOUN VERB PUNCT CCONJ VERB VERB AUX NOUN PUNCT CCONJ VERB ADJ NOUN NOUN VERB NOUN PUNCT CCONJ PROPN ADJ PUNCT NOUN NOUN ADJ NOUN PUNCT PUNCT CCONJ ADJ NOUN NOUN PUNCT ADV ADJ NOUN PUNCT ADJ NOUN PUNCT ADP PROPN NOUN PUNCT PUNCT ADJ NOUN NOUN NOUN PUNCT X
+sunt\tVERB\n Apulia\tPROPN\n ,\tPUNCT\n sed\tCCONJ\n non\tPART\n tota\tDET\n ,\tPUNCT\n Roma\tPROPN\n ,\tPUNCT\n Ducatus\tNOUN\n ,\tPUNCT\n Tuscia\tPROPN\n et\tCCONJ\n Ianuensis\tADJ\n Marchia\tNOUN\n ;\tPUNCT\n sinistri\tADJ\n autem\tPART\n pars\tNOUN\n Apulie\tPROPN\n ,\tPUNCT\n Marchia\tNOUN\n Anconitana\tADJ\n ,\tPUNCT\n Romandiola\tADJ\n ,\tPUNCT\n Lombardia\tPROPN\n ,\tPUNCT\n Marchia\tNOUN\n Trivisiana\tADJ\n cum\tADP\n Venetiis\tPROPN\n .\tPUNCT\n De\tADP\n quo\tPRON\n Latinorum\tNOUN\n neminem\tPRON\n nobiscum\tPRON\n nobis\tPRON\n cum\tADP\n dissentire\tVERB\n putamus\tVERB\n .\tPUNCT\n Quam\tDET\n multis\tADJ\n varietatibus\tNOUN\n latio\tNOUN\n dissonante\tVERB\n vulgari\tADJ\n ,\tPUNCT\n decentiorem\tADJ\n atque\tCCONJ\n illustrem\tADJ\n Ytalie\tPROPN\n venemur\tVERB\n loquelam\tNOUN\n ;\tPUNCT\n et\tCCONJ\n ut\tSCONJ\n nostre\tDET\n venationi\tNOUN\n pervium\tADJ\n callem\tNOUN\n habere\tVERB\n possimus\tVERB\n ,\tPUNCT\n
+$perplexos\tADJ\n frutices\tNOUN\n atque\tCCONJ\n sentes\tNOUN\n prius\tADV\n eiciamus\tVERB\n de\tADP\n silva\tNOUN\n .\tPUNCT\n Dicimus\tVERB\n igitur\tADV\n Romanorum\tNOUN\n non\tPART\n vulgare\tVERB\n ,\tPUNCT\n sed\tCCONJ\n potius\tNOUN\n tristiloquium\tNOUN\n ,\tPUNCT\n ytalorum\tADJ\n vulgarium\tADJ\n omnium\tDET\n esse\tAUX\n turpissimum\tADJ\n ;\tPUNCT\n nec\tCCONJ\n mirum\tADJ\n ,\tPUNCT\n cum\tSCONJ\n etiam\tADV\n morum\tNOUN\n habituumque\tNOUN\n habituum\tNOUN\n que\tCCONJ\n deformitate\tNOUN\n pre\tADP\n cunctis\tADJ\n videantur\tVERB\n fetere\tVERB\n .\tPUNCT\n Dicunt\tVERB\n enim\tPART\n :\tPUNCT\n Messure\tNOUN\n quinto\tADJ\n dici\tVERB\n Post\tADP\n hos\tPRON\n incolas\tNOUN\n Anconitane\tADJ\n Marchie\tNOUN\n decerpamus\tVERB\n ,\tPUNCT\n qui\tPRON\n Chignamente\tPROPN\n state\tVERB\n siate\tVERB\n locuntur\tVERB\n :\tPUNCT\n cum\tADP\n quibus\tPRON\n et\tCCONJ\n Spoletanos\tNOUN\n abicimus\tVERB\n .\tPUNCT\n Post\tADP\n$
+quos$\phantom{ }$PRON\n
+Mediolanenses$\phantom{ }$ADJ\n
+atque$\phantom{ }$CONJ\n
+Pergameos$\phantom{ }$NOUN\n
+eorumque$\phantom{ }$PRON\n
+eorum$\phantom{ }$PRON\n
+que$\phantom{ }$CONJ\n
+finitimos$\phantom{ }$ADJ\n
+eruncemus$\phantom{ }$VERB\n
+,$\phantom{ }$PUNCT\n
+in$\phantom{ }$ADP\n
+quorum$\phantom{ }$PRON\n
+etiam$\phantom{ }$ADV\n
+improperium$\phantom{ }$NOUN\n
+quendam$\phantom{ }$PRON\n
+cecini$$VERB\n
+se$$PRON\n
+recolimus$\phantom{ }$VERB\n
+Enter$\phantom{ }$PROPN\n
+l'$\phantom{ }$DET\n
+ora$\phantom{ }$NOUN\n
+del$\phantom{ }$ADP\n
+vesper$\phantom{ }$NOUN\n
+ciò$\phantom{ }$PRON\n
+fu$\phantom{ }$AUX\n
+del$\phantom{ }$ADP\n
+mes$\phantom{ }$NOUN\n
+d'$\phantom{ }$ADP\n
+ochiover$\phantom{ }$NOUN\n
+.$\phantom{ }$PUNCT\n
+Sardos$\phantom{ }$ADJ\n
+etiam$\phantom{ }$ADV\n
+,$\phantom{ }$PUNCT\n
+qui$\phantom{ }$PRON\n
+non$\phantom{ }$ADV\n
+Latii$\phantom{ }$ADJ\n
+sunt$\phantom{ }$AUX\n
+sed$\phantom{ }$CONJ\n
+Latiis$\phantom{ }$ADJ\n
+associandi$\phantom{ }$VERB\n
+videntur$\phantom{ }$VERB\n
+,$\phantom{ }$PUNCT\n
+eiciamus$\phantom{ }$VERB\n
+,$\phantom{ }$PUNCT\n
+quoniam$\phantom{ }$CONJ\n
+soli$\phantom{ }$ADJ\n
+sine$\phantom{ }$ADP\n
+proprio$\phantom{ }$ADJ\n
+vulgari$\phantom{ }$ADJ\n
+esse$\phantom{ }$AUX\n
+videntur$\phantom{ }$VERB\n
+,$\phantom{ }$PUNCT\n
+gramaticam$\phantom{ }$NOUN\n
+tanquam$\phantom{ }$ADV\n
+simie$\phantom{ }$NOUN\n
+homines$\phantom{ }$NOUN\n
+imitantes$\phantom{ }$VERB\n
+:$\phantom{ }$PUNCT\n
+nam$\phantom{ }$CONJ\n
+domus$\phantom{ }$NOUN\n
+nova$\phantom{ }$ADJ\n
+et$\phantom{ }$CONJ\n
+dominus$\phantom{ }$NOUN\n
+meus$\phantom{ }$DET\n
+locuntur$\phantom{ }$VERB\n
+.$\phantom{ }$PUNCT\n
+Exacerbatis$\phantom{ }$ADJ\n
+Splitting the given sentence at every whitespace and providing the corresponding UPOS tags for each token, we get:
+
+$quodam$ \tab PRON\n
+$modo$ \tab NOUN\n
+$vulgaribus$ \tab ADJ\n
+$ytalis$ \tab ADJ\n
+,$ \tab PUNCT\n
+$inter$ \tab ADP\n
+$ea$ \tab PRON\n
+$que$ \tab PRON\n
+$remanserunt$ \tab VERB\n
+$in$ \tab ADP\n
+$cribro$ \tab NOUN\n
+$comparationem$ \tab NOUN\n
+$facientes$ \tab VERB\n
+$honorabilius$ \tab ADJ\n
+$atque$ \tab CCONJ\n
+$honorificentius$ \tab ADJ\n
+$breviter$ \tab ADV\n
+$seligamus$ \tab VERB\n
+.$ \tab PUNCT\n
+$Et$ \tab CCONJ\n
+$primo$ \tab ADV\n
+$de$ \tab ADP\n
+$siciliano$ \tab ADJ\n
+$examinemus$ \tab VERB\n
+$ingenium$ \tab NOUN\n
+:$ \tab PUNCT\n
+$nam$ \tab PART\n
+$videtur$ \tab VERB\n
+$sicilianum$ \tab ADJ\n
+$vulgare$ \tab ADJ\n
+$sibi$ \tab PRON\n
+$famam$ \tab NOUN\n
+$pre$ \tab ADP\n
+$aliis$ \tab DET\n
+$asciscere$ \tab VERB\n
+$eo$ \tab PRON\n
+$quod$ \tab SCONJ\n
+$quicquid$ \tab PRON\n
+$poetantur$ \tab VERB\n
+$Ytali$ \tab ADJ\n
+$sicilianum$ \tab ADJ\n
+$vocatur$ \tab VERB\n
+,$ \tab PUNCT\n
+$et$ \tab CCONJ\n
+$eo$ \tab PRON\n
+$quod$ \tab SCONJ\n
+$perplures$ \tab ADJ\n
+$doctores$ \tab NOUN\n
+$indigenas$ \tab ADJ\n
+$invenimus$ \tab VERB\n
+$graviter$ \tab ADV\n
+$cecisisse$ \tab VERB\n
+$,$ \tab PUNCT\n
+$puta$ \tab ADV\n
+$in$ \tab ADP\n
+$cantionibus$ \tab NOUN\n
+$illis$ \tab DET\n
+$Ancor$ \tab ADV\n
+$che$ \tab SCONJ\n
+$l'$ \tab DET\n
+$aigua$ \tab NOUN\n
+$per$ \tab ADP\n
+$lo$ \tab DET\n
+$foco$ \tab NOUN\n
+$lassi$ \tab VERB\n
+,$ \tab PUNCT\n
+Split$ the$ sentence$ only$ at$ every$ whitespace.$ Do$ not$ split$ the$ idividual$ tokens$ further.$ Return$ the$ UPOS$ tag$ for$ the$ tokens$ of$ the$ sentence$ in$ between$ the$ two$ dollar$ signs$ $et$ Amor$ ,$ che$ lungiamente$ m'$ hai$ menato$ .$ Racha$ ,$ racha$ !$ Quid$ nunc$ personat$ tuba$ novissimi$ Frederici$ ,$ quid$ tintinabulum$ secundi$ Karoli$ ,$ quid$ cornua$ Iohannis$ et$ Azonis$ marchionum$ potentum$ ,$ quid$ aliorum$ magnatum$ tibie$ ,$ nisi$ “ Venite$ carnifices$ ,$ venite$ altriplices$ ,$ venite$ avaritie$ sectatores$ ”$ ?$ Sed$ prestat$ ad$ propositum$ repedare$ quam$ frustra$ loqui$ .$ Et$ dicimus$ quod$ ,$ si$ vulgare$ ADP DET NOUN ADV PUNCT PRON AUX VERB PUNCT INTJ PUNCT INTJ SCONJ VERB NOUN ADJ PUNCT NOUN ADJ NOUN NOUN NOUN NOUN NOUN PUNCT NOUN PUNCT ADJ NOUN ADJ NOUN PUNCT NOUN NOUN NOUN NOUN PUNCT ADV PUNCT NOUN VERB VERB NOUN PUNCT PART VERB VERB NOUN PUNCT CCONJ VERB VERB VERB NOUN PART NOUN PUNCT ADV VERB VERB CCONJ NOUN VERB PUNCT CCONJ VERB VERB NOUN VERB PUNCT CCONJ VERB ADP NOUN PUNCT AUX VERB VERB CCONJ NOUN VERB PUNCT CCONJ VERB VERB X PUNCT NOUN NOUN ADJ VERB ADP NOUN ADJ NOUN NOUN PUNCT CONJ AUX VERB SCONJ NOUN PUNCT VERB NOUN PRON SCONJ VERB ADJ NOUN ADP VERB VERB PUNCT VERB VERB NOUN SCONJ VERB ADV VERB PUNCT CCONJ VERB VERB NOUN PUNCT CCONJ VERB ADP NOUN ADJ NOUN NOUN ADV ADP VERB VERB NOUN PUNCT ADP SCONJ VERB VERB NOUN PUNCT VERB AUX VERB ADP NOUN PUNCT NOUN ADJ PRON VERB SCONJ NOUN NOUN VERB PUNCT CCONJ VERB VERB SCONJ VERB NOUN AUX VERB VERB NOUN ADJ VERB NOUN ADV PUNCT CCONJ VERB ADV VERB SCONJ VERB PUNCT CCONJ VERB VERB X VERB VERB NOUN NOUN ADJ NOUN PUNCT CCONJ VERB PUNCT PRON VERB PRON SCONJ PUNCT VERB PUNCT ADV VERB X PUNCT ADP ADJ NOUN PUNCT PROPN PROPN PROPN SCONJ PRON PUNCT AUX VERB CCONJ VERB VERB ADV ADJ NOUN PUNCT ADV VERB VERB NOUN PUNCT CCONJ VERB VERB VERB NOUN NOUN PUNCT NOUN PUNCT PUNCT PART X PUNCT PUNCT PART X SYM PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT CCONJ PUNCT AUX VERB ADP NOUN VERB VERB PUNCT ADP VERB PUNCT VERB PUNCT DET ADJ VERB X PUNCT VERB NOUN PRON SCONJ VERB PUNCT ADP ADJ NOUN PUNCT CCONJ VERB ADP NOUN ADJ NOUN NOUN CCONJ ADP VERB NOUN PUNCT ADV ADP VERB NOUN PUNCT ADJ ADP NOUN NOUN PUNCT CCONJ AUX VERB PUNCT VERB VERB NOUN X PUNCT CCONJ PUNCT AUX PUNCT NOUN NOUN ADJ PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT NOUN PUNCT VERB DET ADV DET PUNCT ADJ PUNCT PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT ADJ PUNCT NOUN PUNCT ADJ NOUN PUNCT PRON PUNCT NOUN PUNCT NOUN PUNCT CCONJ NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT ADJ NOUN PUNCT VERB PUNCT PUNCT PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT VERB PUNCT VERB PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT PRON PUNCT PUNCT NOUN PUNCT VERB NOUN PUNCT PUNCT VERB PUNCT PUNCT PRON PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT PUNCT PUNCT PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT PRON PUNCT VERB PUNCT PRON PUNCT NOUN PUNCT NOUN PUNCT PUNCT NOUN PUNCT NOUN PUNCT PRON PUNCT VERB PUNCT ADJ PUNCT ADJ NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN ADP VERB PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT VERB PUNCT NOUN PUNCT PUNCT NOUN PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT NOUN PUNCT VERB NOUN PUNCT NOUN PUNCT VERB PUNCT NOUN PUNCT NOUN PUNCT ADJ NOUN PUNCT NOUN PUNCT PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT ADJ NOUN PUNCT NOUN PUNCT PUNCT PUNCT PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT ADJ PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT PUNCT NOUN PUNCT VERB ADP PUNCT NOUN PUNCT NOUN PUNCT PRON PUNCT VERB NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT PRON PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT PUNCT VERB PUNCT VERB NOUN PUNCT NOUN PUNCT NOUN NOUN NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT VERB PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT VERB PUNCT DET PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT VERB PUNCT VERB PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT ADJ X NOUN X NOUN PUNCT VERB NOUN PUNCT NOUN ADJ VERB PUNCT PRON PUNCT ADP NOUN ADJ PROPN PUNCT ADP PUNCT PUNCT NOUN PUNCT PRON VERB VERB PUNCT CCONJ NOUN PUNCT PRON PUNCT NOUN PUNCT NOUN PUNCT PROPN ADP VERB PUNCT CCONJ NOUN PUNCT NOUN ADJ PUNCT AUX PUNCT NOUN PUNCT VERB ADJ PUNCT NOUN PUNCT NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ PUNCT ADJ NOUN PUNCT ADJ PUNCT PROPN PUNCT NOUN PUNCT NOUN PUNCT NOUN ADP NOUN ADP VERB NOUN PUNCT CCONJ NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN VERB NOUN PUNCT ADP DET NOUN PUNCT ADJ NOUN PUNCT VERB ADV VERB NOUN PUNCT CCONJ VERB VERB PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN ADJ NOUN PUNCT NOUN PUNCT VERB NOUN PUNCT VERB VERB PUNCT CCONJ NOUN PUNCT ADV PUNCT NOUN PUNCT ADJ ADJ PUNCT ADP DET NOUN PUNCT VERB ADJ ADJ NOUN ADJ VERB PUNCT ADJ ADJ PUNCT NOUN PUNCT ADP DET ADJ NOUN PUNCT CCONJ NOUN PUNCT ADP ADP NOUN PUNCT NOUN ADJ NOUN PUNCT ADJ NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT PROPN VERB NOUN PUNCT NUM NOUN PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT P
+sicilianum\tADJ\n accipere\tVERB\n volumus\tVERB\n secundum\tADP\n quod\tPRON\n prodit\tVERB\n a\tADP\n terrigenis\tADJ\n mediocribus\tADJ\n ,\tPUNCT\n ex\tADP\n ore\tNOUN\n quorum\tPRON\n iudicium\tNOUN\n eliciendum\tVERB\n videtur\tVERB\n ,\tPUNCT\n prelationis\tNOUN\n honore\tNOUN\n minime\tADV\n dignum\tADJ\n est\tAUX\n ,\tPUNCT\n quia\tSCONJ\n non\tPART\n sine\tADP\n quodam\tDET\n tempore\tNOUN\n profertur\tVERB\n ;\tPUNCT\n ut\tSCONJ\n puta\tADV\n ibi\tADV\n :\tPUNCT\n Tragemi\tPROPN\n d'\tADP\n este\tADV\n focora\tNOUN\n se\tSCONJ\n t'\tPRON\n este\tAUX\n a\tADP\n bolontate\tNOUN\n Si\tADV\n autem\tPART\n ipsum\tDET\n accipere\tVERB\n volumus\tVERB\n secundum\tADP\n quod\tSCONJ\n ab\tADP\n ore\tNOUN\n primorum\tADJ\n Siculorum\tADJ\n emanat\tVERB\n ,\tPUNCT\n ut\tSCONJ\n in\tADP\n preallegatis\tVERB\n cantionibus\tNOUN\n perpendi\tVERB\n potest\tVERB\n ,\tPUNCT\n nichil\tPRON\n differt\tVERB\n ab\tADP\n
+$illo PRON$ $quod PRON$ $laudabilissimum ADJ$ $est AUX$ $,$ $PUNCT$ $sic ADV$ $ut SCONJ$ $inferius ADV$ $ostendemus VERB$ $. PUNCT$ $Et CCONJ$ $in ADP$ $hoc PRON$ $non PART$ $solum ADV$ $plebeia ADJ$ $dementat VERB$ $intentio NOUN$ $,$ $sed CCONJ$ $famosos ADJ$ $quamplures ADJ$ $viros NOUN$ $hoc PRON$ $tenuisse VERB$ $comperimus VERB$ $puta X$ $:$ $PUNCT$ $Guittonem PROPN$ $Aretinum ADJ$ $,$ $qui PRON$ $nunquam ADV$ $se PRON$ $ad ADP$ $curiale ADJ$ $vulgare ADJ$ $direxit VERB$ $,$ $Bonagiuntam PROPN$ $Lucensem ADJ$ $,$ $Gallum PROPN$ $Pisanum ADJ$ $,$ $Minum PROPN$ $Mocatum PROPN$ $Senensem ADJ$ $,$ $Brunectum PROPN$ $Florentinum ADJ$ $,$ $quorum PRON$ $dicta NOUN$ $,$ $si SCONJ$ $rimari VERB$ $vacaverit VERB$ $,$ $non PART$ $curialia ADJ$ $sed CCONJ$ $municipalia ADJ$ $tantum ADV$ $invenientur VERB$ $. PUNCT$ $Locuntur VERB$
+$Florentini$ PROPN\n $et$ CCONJ\n $dicunt$ VERB\n $Manichiamo$ PROPN\n $introcque$ ADV\n $che$ PRON\n $noi$ PRON\n $non$ PART\n $facciamo$ VERB\n $altro$ DET\n .$Pisani$ NOUN\n $:$ PUNCT\n $Bene$ ADV\n $andonno$ PRON\n $li$ DET\n $fanti$ NOUN\n $de$ ADP\n $Fiorensa$ PROPN\n $per$ ADP\n $Pisa$ PROPN\n .$Lucenses$ NOUN\n $:$ PUNCT\n $Fo$ AUX\n $voto$ NOUN\n $a$ ADP\n $Dio$ PROPN\n $ke$ SCONJ\n $in$ ADP\n $grassarra$ NOUN\n $eie$ PRON\n $lo$ DET\n $comuno$ NOUN\n $de$ ADP\n $Lucca$ PROPN\n .$Senenses$ NOUN\n $:$ PUNCT\n $Onche$ ADV\n $renegata$ NOUN\n $avess'$ VERB\n $io$ PRON\n $Siena$ PROPN\n $Ch'$ SCONJ\n $ee$ PRON\n $chesto$ DET\n $Aretini$ NOUN\n $:$ PUNCT\n $Vuo'$ VERB\n $tu$ PRON\n $venire$ VERB\n $ovelle$ NOUN\n $De$ ADP\n $Perusio$ NOUN\n $,$ PUNCT\n $Urbe$ NOUN\n $Veteri$ ADJ\n $,$ PUNCT\n $Viterbio$ NOUN\n $,$ PUNCT\n $nec$ ADV\n $non$ PART\n $de$ ADP\n $Civitate$ NOUN\n $Castellana$ ADJ\n$
+propter\tADP\n affinitatem\tNOUN\n quam\tPRON\n habent\tVERB\n cum\tADP\n Romanis\tNOUN\n et\tCCONJ\n Spoletanis\tNOUN\n ,\tPUNCT\n nichil\tPRON\n tractare\tVERB\n intendimus\tVERB\n .\tPUNCT\n Sed\tCCONJ\n quanquam\tSCONJ\n fere\tADV\n omnes\tDET\n Tusci\tNOUN\n in\tADP\n suo\tDET\n turpiloquio\tNOUN\n sint\tAUX\n obtusi\tVERB\n ,\tPUNCT\n nonnullos\tPRON\n non\tPART\n nullos\tPRON\n vulgaris\tADJ\n excellentiam\tNOUN\n cognovisse\tVERB\n sentimus\tVERB\n ,\tPUNCT\n scilicet\tCCONJ\n Guidonem\tPROPN\n ,\tPUNCT\n Lapum\tPROPN\n et\tCCONJ\n unum\tDET\n alium\tDET\n ,\tPUNCT\n Florentinos\tNOUN\n ,\tPUNCT\n et\tCCONJ\n Cynum\tPROPN\n Pistoriensem\tADJ\n ,\tPUNCT\n quem\tPRON\n nunc\tADV\n indigne\tADV\n postponimus\tVERB\n ,\tPUNCT\n non\tPART\n indigne\tADV\n coacti\tVERB\n .\tPUNCT\n Itaque\tADV\n si\tSCONJ\n tuscanas\tADJ\n examinemus\tVERB\n loquelas\tNOUN\n ,\tPUNCT\n et\tCCONJ\n pensemus\tVERB\n qualiter\tSCONJ\n viri\tNOUN\n $\tPUNCT\n
+$prehonorati$ VERB\n
+$a$ ADP\n
+$propria$ ADJ\n
+$diverterunt$ VERB\n
+$,$ PUNCT\n
+$non$ ADV\n
+$restat$ VERB\n
+$in$ ADP\n
+$dubio$ NOUN\n
+$quin$ SCONJ\n
+$aliud$ DET\n
+$sit$ AUX\n
+$vulgare$ ADJ\n
+$quod$ PRON\n
+$querimus$ VERB\n
+$quam$ SCONJ\n
+$quod$ PRON\n
+$actingit$ VERB\n
+$populus$ NOUN\n
+$Tuscanorum$ ADJ\n
+$.$ PUNCT\n
+$Si$ SCONJ\n
+$quis$ PRON\n
+$autem$ PART\n
+$quod$ PRON\n
+$de$ ADP\n
+$Tuscis$ ADJ\n
+$asserimus$ VERB\n
+$,$ PUNCT\n
+$de$ ADP\n
+$Ianuensibus$ ADJ\n
+$asserendum$ VERB\n
+$non$ ADV\n
+$putet$ VERB\n
+$,$ PUNCT\n
+$hoc$ DET\n
+$solum$ ADV\n
+$in$ ADP\n
+$mente$ NOUN\n
+$premat$ VERB\n
+$,$ PUNCT\n
+$quod$ PRON\n
+$si$ SCONJ\n
+$per$ ADP\n
+$oblivionem$ NOUN\n
+$Ianuenses$ ADJ\n
+$ammicterent$ VERB\n
+$z$ NOUN\n
+$licteram$ NOUN\n
+$,$ PUNCT\n
+$vel$ CCONJ\n
+$mutire$ VERB\n
+$totaliter$ ADV\n
+$eos$ PRON\n
+$vel$ CCONJ\n
+$novam$ ADJ\n
+$reparare$ VERB\n
+$opporteret$ VERB\n
+$loquelam$ NOUN\n
+$.$ PUNCT\n
+$Est$ VERB\n
+$enim$ PART\n
+$z$ NOUN\n
+$maxima$ ADJ\n
+$pars$ NOUN\n
+$eorum$ PRON\n
+$.$ PUNCT\n
+$locutionis$ NOUN,$,$ PUNCT,$que$ CCONJ$,$ PUNCT$quidem$ ADV$,$ PUNCT$lictera$ NOUN$,$ PUNCT$non$ PART$,$ PUNCT$sine$ ADP$,$ PUNCT$multa$ DET$,$ PUNCT$rigitate$ NOUN$,$ PUNCT$profortur$ VERB$.$ PUNCT$Transeuntes$ VERB$,$ PUNCT$nunc$ ADV$,$ PUNCT$humeros$ NOUN$,$ PUNCT$Apenini$ NOUN$,$ PUNCT$frondiferos$ ADJ$,$ PUNCT$levam$ ADJ$,$ PUNCT$Ytaliam$ PROPN$,$ PUNCT$contatim$ ADV$,$ PUNCT$venemur$ VERB$,$ PUNCT$ceu$ SCONJ$,$ PUNCT$solemus$ VERB$,$ PUNCT$orientaliter$ ADV$,$ PUNCT$ineuntes$ VERB$.$ PUNCT$Romandiolam$ PROPN$,$ PUNCT$igitur$ ADV$,$ PUNCT$ingredientes$ VERB$,$ PUNCT$dicimus$ VERB$,$ PUNCT$nos$ PRON$,$ PUNCT$duo$ NUM$,$ PUNCT$in$ ADP$,$ PUNCT$Latio$ PROPN$,$ PUNCT$invenisse$ VERB$,$ PUNCT$vulgaria$ NOUN$,$ PUNCT$quibusdam$ DET$,$ PUNCT$convenientiis$ NOUN$,$ PUNCT$contrariis$ ADJ$,$ PUNCT$alternata$ VERB$.$ PUNCT$Horum$ DET$,$ PUNCT$aliquos$ PRON$,$ PUNCT$a$ ADP$,$ PUNCTproprio$ ADJ$,$ PUNCT$poetando$ NOUN$,$ PUNCT$divertisse$ VERB$,$ PUNCT$audivimus$ VERB$,$ PUNCT$,$ PUNCT$Thomam$ PROPN$,$ PUNCT$videlicet$ ADV$,$ PUNCT$et$ CCONJ$,$ PUNCT$Ugolinum$ PROPN$,$ PUNCT$Bucciolam$ PROPN$,$ PUNCT$,$ PUNCT$Faventinos$ NOUN$.$ PUNCT$Hoc$ DET$,$ PUNCT$omnes$ DET$,$ PUNCT$qui$ PRON$,$ PUNCT$maia$ NOUN$,$ PUNCT$dicunt$ VERB$,$ PUNCT$,$ PUNCT$Brixianos$ NOUN$,$ PUNCT$videlicet$ SCONJ$,$ PUNCT$.$ PUNCT$
+Split the sentence only at every whitespace. Do not split the idividual tokens further. Return the UPOS tag for the tokens of the sentence in between the two dollar signs $, Veronenses et Vigentinos , habet ; nec non Paduanos , turpiter sincopantes omnia in “ - tus ” participia et denominativa in “ - tas ” , ut mercò et bonté . Cum quibus et Trivisianos adducimus , qui more Brixianorum et finitimorum suorum u consonantem per f apocopando proferunt , puta nof pro “ novem ” et vif pro “ vivo ” : quod$ ADP CCONJ NOUN NOUN PUNCT VERB PUNCT ADV ADJ ADJ PUNCT ADV VERB AUX NOUN VERB NOUN CCONJ PROPN PUNCT AUX PROPN PUNCT ADJ ADJ PUNCT ADP NOUN CCONJ NOUN PUNCT PRON PRON CCONJ AUX ADJ VERB ADP NOUN PUNCT ADV PRON VERB NOUN PUNCT VERB ADJ PUNCT PRON DET NOUN ADP X NOUN ADP PUNCT PUNCT CCONJ SCOMP X NOUN PUNCT PUNCT PRON ADV ADP X ADJ PUNCT CCONJ NOUN ADJ PUNCT VERB ADJ VERB PUNCT PRON ADP PUNCT AUX ADJ PUNCT PROPN ADJ PUNCT PRON PRON NOUN ADV VERB ADP ADP ADP PUNCT PRON AUX ADP NOUN NOUN ADJ PUNCT CCONJ NOUN PUNCT PUNCT CCONJ DET NOUN ADP ADJ PUNCT NOUN VERB NOUN PUNCT VERB PUNCT PRON PRON NOUN VERB PUNCT PRON VERB AUX ADJ PUNCT PRON VERB ADP PUNCT ADJ ADP PRON DET NUM X PUNCT CCONJ ADV ADP PUNCT PROPN ADP PUNCT X NOUN ADP NUM PUNCT CCONJ NOUN PUNCT VERB PUNCT NOUN PUNCT NOUN PUNCT ADJ PUNCT PRON DET X NOUN ADP NOUN PUNCT VERB VERB ADP VERB ADJ NOUN PUNCT CCONJ PUNCT PRON VERB PUNCT VERB ADV VERB PUNCT ADP PRON DET NOUN ADJ PUNCT NUM PUNCT NOUN PUNCT ADJ AUX PUNCT ADP NOUN PUNCT NOUN PUNCT ADJ NOUN ADP PUNCT PUNCT ADV ADP ADJ NOUN ADP ADJ PUNCT CCONJ NOUN PUNCT ADP NOUN PUNCT NOUN PUNCT PROPN PUNCT NOUN PUNCT NOUN PUNCT VERB PUNCT ADP PRON AUX ADP VERB PUNCT ADV PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT CCONJ PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT P
+quidem\tPART\n barbarissimum\tADJ\n reprobamus\tVERB\n .\tPUNCT\n Quare\tADV\n omnibus\tDET\n presentis\tADJ\n capituli\tNOUN\n ad\tADP\n iudicium\tNOUN\n comparentibus\tVERB\n arbitramur\tVERB\n nec\tCCONJ\n romandiolum\tNOUN\n ,\tPUNCT\n nec\tCCONJ\n suum\tDET\n oppositum\tNOUN\n ut\tADV\n dictum\tVERB\n est\tAUX\n ,\tPUNCT\n nec\tCCONJ\n venetianum\tADJ\n esse\tAUX\n illud\tDET\n quod\tPRON\n querimus\tVERB\n vulgare\tADJ\n illustre\tADJ\n .\tPUNCT\n Illud\tDET\n autem\tPART\n quod\tPRON\n de\tADP\n ytalia\tADJ\n silva\tNOUN\n residet\tVERB\n percontari\tVERB\n conemur\tVERB\n expedientes\tVERB\n .\tPUNCT\n Dicimus\tVERB\n ergo\tADV\n quod\tSCONJ\n forte\tADV\n non\tPART\n male\tADV\n opinantur\tVERB\n qui\tPRON\n Bononienses\tNOUN\n asserunt\tVERB\n pulcriori\tADJ\n locutione\tNOUN\n loquentes\tVERB\n ,\tPUNCT\n cum\tSCONJ\n ab\tADP\n Ymolensibus\tPROPN\n ,\tPUNCT\n Ferrarensibus\tPROPN\n et\tCCONJ\n Mutinensibus\tADJ\n circunstantibus\tVERB\n aliquid\tPRON\n proprio\tADJ\n $\tPUNCT\n
+$vulgari ADJ\n asciscunt VERB\n , PUNCT\n sicut ADV\n facere VERB\n quoslibet DET\n a ADP\n finitimis ADJ\n suis DET\n conicimus VERB\n , PUNCT\n ut Sordellus PROPN\n de ADP\n Mantua PROPN\n sua DET\n ostendit VERB\n , PUNCT\n Cremone PROPN\n , PUNCT\n Brixie PROPN\n atque CCONJ\n Verone PROPN\n confini NOUN\n : PUNCT\n qui PRON\n , PUNCT\n tantus ADJ\n eloquentie NOUN\n vir NOUN\n existens VERB\n , PUNCT\n non PART\n solum ADV\n in ADP\n poetando NOUN\n sed CCONJ\n quomodocunque ADV\n loquendo VERB\n patrium ADJ\n vulgare NOUN\n deseruit VERB\n . PUNCT\n Si SCONJ\n ergo ADV\n Bononienses ADJ\n utrinque ADV\n accipiunt VERB\n , PUNCT\n ut SCONJ\n dictum VERB\n est AUX\n , PUNCT\n rationabile ADJ\n videtur VERB\n esse AUX\n quod PRON\n eorum PRON\n locutio NOUN\n per ADP\n commixtionem NOUN\n oppositorum VERB\n ut ADV\n dictum VERB\n est AUX\n ad ADP\n$
+$laudabilem\tADJ\n suavitatem\tNOUN\n remaneat\tVERB\n temperata\tVERB\n :\tPUNCT\n quod\tSCONJ\n procul\tADV\n dubio\tNOUN\n nostro\tDET\n iudicio\tNOUN\n sic\tADV\n esse\tAUX\n censemus\tVERB\n .\tPUNCT\n Itaque\tADV\n si\tSCONJ\n preponentes\tVERB\n eos\tPRON\n in\tADP\n vulgari\tADJ\n sermone\tNOUN\n sola\tADV\n municipalia\tADJ\n Latinorum\tNOUN\n vulgaria\tNOUN\n comparando\tVERB\n considerant\tVERB\n ,\tPUNCT\n allubescentes\tVERB\n concordamus\tVERB\n cum\tADP\n illis\tDET\n ;\tPUNCT\n si\tSCONJ\n vero\tADV\n simpliciter\tADV\n vulgare\tADJ\n bononiense\tADJ\n preferendum\tVERB\n existimant\tVERB\n ,\tPUNCT\n dissentientes\tVERB\n discordamus\tVERB\n ab\tADP\n eis\tPRON\n .\tPUNCT\n Maximus\tADJ\n Guido\tPROPN\n :\tPUNCT\n Madonna\tNOUN\n ,\tPUNCT\n 'l\tDET\n fino\tADV\n amore\tNOUN\n ch'\tSCONJ\n io\tPRON\n vi\tPRON\n porto\tVERB\n ;\tPUNCT\n Guido\tPROPN\n Ghisilerius\tPROPN\n :\tPUNCT\n Donna\tNOUN\n ,\tPUNCT\n lo\tDET\n fermo\tADV\n$\tPUNCT\n
+Split the sentence only at every whitespace. Do not split the idividual tokens further. Return the UPOS tag for the tokens of the sentence in between the two dollar signs $NOUN ADJ PUNCT ADJ NOUN PUNCT NOUN ADP NOUN AUX ADV NOUN PUNCT ADJ ADP NOUN ADJ NOUN PUNCT NOUN PUNCT ADJ ADP VERB ADV NOUN PUNCT NOUN PUNCT NOUN PUNCT ADJ ADJ NOUN PUNCT VERB PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT VERB ADJ ADJ NOUN PUNCT CONJ SCONJ NOUN SCONJ NOUN PUNCT ADJ NOUN PRON PUNCT NOUN PUNCT ADP DET ADP NOUN PUNCT CCONJ NOUN VERB PRON PUNCT PRON PUNCT AUX VERB ADV ADJ PUNCT NOUN PUNCT NOUN ADP VERB NOUN ADJ PUNCT DET PUNCT CCONJ SCONJ NOUN VERB ADJ NOUN PUNCT ADJ PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT VERB VERB ADP DET ADJ VERB ADJ ADJ ADP NOUN PUNCT VERB ADV DET NOUN PUNCT PRON ADJ VERB X ADJ VERB ADP DET NOUN X NOUN PUNCT NOUN ADV PUNCT VERB AUX ADV NUM PROPN PUNCT NOUN PUNCT VERB VERB ADV ADJ ADJ PUNCT NOUN ADP DET ADJ PUNCT ADV ADJ VERB PROPN ADP NOUN PUNCT CCONJ ADP CCONJ ADJ PUNCT NOUN NOUN PUNCT VERB PUNCT ADJ ADP DET ADP VERB PUNCT ADJ PUNCT PROPN ADJ VERB ADJ PUNCT NOUN PUNCT PUNCT ADV ADP ADJ PUNCT VERB PUNCT VERB PUNCT ADJ ADP DET NOUN PUNCT ADV PUNCT PROPN PUNCT VERB PUNCT ADV ADJ NOUN PUNCT NOUN NOUN ADP ADJ NOUN PUNCT ADJ CCONJ VERB ADJ ADJ NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT PUNCT PUNCT NOUN PUNCT NOUN PUNCT ADP DET ADP PRON VERB ADJ NOUN CCONJ VERB NOUN PUNCT ADJ ADP DET VERB NOUN ADP ADJ NOUN ADP VERB PUNCT CCONJ ADJ ADP DET VERB NOUN ADP VERB X PUNCT NOUN X VERB PUNCT ADP DET ADP PRON AUX VERB ADJ ADJ ADP DET VERB NOUN PUNCT CONJ SCONJ VERB X ADJ NOUN PUNCT ADJ ADP ADV ADJ PUNCT ADP NOUN PUNCT NOUN PUNCT CONJ SCONJ ADJ ADJ NOUN PUNCT NOUN PUNCT CONJ SCONJ ADJ ADJ NOUN PUNCT NOUN PUNCT ADV VERB X ADJ ADJ NOUN PUNCT VERB PUNCT ADV ADV NOUN PUNCT NOUN PUNCT VERB PUNCT VERB ADV NOUN X VERB ADJ PUNCT ADJ PUNCT NOUN PUNCT NOUN PUNCT ADJ NOUN PUNCT VERB PUNCT NOUN NOUN ADP NOUN ADJ PUNCT ADJ PUNCT NOUN NOUN PUNCT VERB VERB ADP DET NOUN PUNCT ADV PUNCT ADJ ADJ AUX NOUN PUNCT NOUN PUNCT NOUN PUNCT VERB PUNCT NOUN ADJ NOUN AUX VERB ADJ NOUN PUNCT ADJ PUNCT ADP DET ADP NOUN PUNCT ADV PUNCT ADJ ADJ CONJ ADJ PUNCT VERB PUNCT ADJ NOUN ADP NOUN PUNCT ADJ ADP DET ADJ PUNCT ADV PUNCT PROPN PUNCT ADV ADJ PUNCT VERB PUNCT NOUN NOUN PUNCT PRON ADV PUNCT X NOUN PUNCT ADV PUNCT ADJ PUNCT NOUN NOUN ADP ADJ NOUN PUNCT ADJ NOUN PATR PUNCT NOUN PUNCT NOUN PUNCT VERB VERB ADP DET ADP NOUN PUNCT NOUN VERB DET ADJ NOUN PUNCT VERB PUNCT PUNCT X PUNCT VERB VERB NOUN PUNCT ADP PRON AUX ADJ PUNCT DET PUNCT NOUN ADP NOUN VERB ADP NOUN PUNCT PUNCT ADJ NOUN PUNCT X PUNCT PUNCT PUNCT ADJ PUNCT NOUN PUNCT ADJ X VERB ADJ NOUN PUNCT ADJ X VERB PUNCT ADJ NOUN ADP AUX ADJ NOUN PUNCT VERB PUNCT NOUN PUNCT PROPN PUNCT NOUN PUNCT NOUN PUNCT ADJ NOUN ADP CONJ VERB VERB NOUN PUNCT VERB PUNCT NOUN PUNCT ADJ PUNCT ADJ PUNCT ADV PUNCT ADJ PUNCT AUX PUNCT VERB PUNCT VERB PUNCT ADJ PUNCT NOUN NUM PUNCT PUNCT NOUN PUNCT ADJ VERB NOUN ADV PUNCT DET NOUN PUNCT ADP ADP X NOUN X NOUN PUNCT NOUN PUNCT VERB PUNCT PRON ADJ NOUN PUNCT NOUN PUNCT ADJ NOUN PUNCT NOUN PUNCT PUNCT NOUN PUNCT PUNCT PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT VERB VERB ADJ NOUN PUNCT ADJ PUNCT ADJ NOUN PUNCT NOUN ADJ VERB ADJ NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT PUNCT ADV NOUN PUNCT NOUN ADP DET ADP NOUN PUNCT PUNCT VERB PUNCT ADJ ADJ NOUN PUNCT VERB ADJ NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT VERB VERB ADP ADP ADV ADJ PUNCT NOUN VERB VERB ADP NOUN PUNCT NOUN PUNCT PRON VERB ADJ PUNCT NOUN PUNCT ADJ NOUN PUNCT NOUN PUNCT NOUN PUNCT PUNCT PUNCT NOUN PUNCT PUNCT NOUN PUNCT NOUN PUNCT VERB ADV PUNCT CONJ ADV CCONJ NOUN PUNCT NUM ADJ NOUN PUNCT NOUN NOUN PUNCT VERB PUNCT NOUN ADP PROPN PUNCT PUNCT ADJ PUNCT NOUN PUNCT ADV ADP DET NOUN PUNCT NOUN NOUN NOUN NOUN NOUN NOUN NOUN ADP NOUN NOUN NOUN NOUN PUNCT ADJ NOUN NOUN PROPN PUNCT PROPN PUNCT PROPN ADP PROPN NOUN PROPN PROPN PROPN PROPN PUNCT ADV NOUN PUNCT ADP DET ADP NOUN PUNCT CONCAT NOUN ADJ PUNCT ADJ CCONJ ADJ PUNCT NOUN ADJ VERB NOUN PUNCT NOUN PUNCT NUM NOUN PUNCT ADJ PUNCT ADV ADJ VERB NOUN PUNCT NOUN PUNCT ADJ NOUN PUNCT NOUN PUNCT NUM ADP VERB ADJ NOUN PUNCT ADJ PUNCT ADJ VERB NOUN AUX VERB NOUN PUNCT ADJ ADJ PUNCT NOUN NOUN NOUN PUNCT ADJ PUNCT ADJ PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT PRON PUNCT NRL PUNCT ADJ NOUN NOUN PUNCT PRON VERB NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN ADP NOUN NOUN NOUN PUNCT VERB PUNCT PROPN PUNCT NOUN PUNCT NOUN PUNCT ADJ PUNCT VERB PUNCT ADJ NOUN PUNCT ADJ NOUN NOUN PUNCT ADV NOUN ADJ NOUN PUNCT NOUN PUNCT NOUN ADP NOUN ADJ ADJ NOUN PUNCT NOUN PUNCT NUM ADJ NOUN VERB ADP NOUN PUNCT ADJ ADJ NUM PUNCT ADJ NOUN PUNCT NOUN PUNCT NOUN PUNCT VERB PUNCT ADV ADJ PUNCT ADP NOUN PUNCT NOUN NOUN PUNCT CCONJ NOUN ADP DET VERB NOUN PUNCT NOUN PUNCT NOUN PUNCT VERB VERB ADP DET ADJ VERB ADV NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN X PROPN PUNCT ADJ PUNCT NOUN PUNCT NOUN PUNCT ADJ AUX NOUN PUNCT DET PUNCT NOUN PUNCT DET PUNCT NOUN PUNCT NOUN PUNCT ADJ NOUN PUNCT VERB PUNCT NOUN PUNCT DET PUNCT VERB PUNCT DET ADJ PUNCT NOUN PUNCT ADJ PUNCT NOUN ADP NOUN PUNCT ADJ VERB ADP NOUN PUNCT NOUN PUNCT ADJ NOUN PUNCT NOUN PUNCT VERB ADVDET ADP DET VERB ADP DET NOUN PUNCT ADJ NOUN X NUM VERB NOUN PUNCT ADJ ADJ ADP DET X VERB PUNCT AUX PUNCT ADJ ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT NOUN NOUN PUNCT NOUN PUNCT PUNCT NOUN PUNCT NOUN ADJ PUNCT ADJ NOUN PUNCT NOUN PUNCT ADJ NOUN ADP DET ADP PROPN ADJ ADJ PUNCT VERB AUX VERB NOUN PUNCT VERB PUNCT NOUN PUNCT NOUN PUNCT ADJ AUX VERB NOUN VERB PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT VERB PUNCT NOUN PUNCT ADJ PUNCT ADJ ADJ PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT ADJ NOUN PUNCT VERB PUNCT NOUN PUNCT NOUN PUNCT PUNCT ADV PUNCT NOUN ADP VERB NOUN PUNCT NOUN PUNCT VERB PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT VERB X PUNCT NOUN X NOUN PUNCT NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT NOUN PUNCT PUNCT NOUN PUNCT PUNCT NOUN ADP NOUN PUNCT ADJ AUX NOUN PUNCT ADJ PUNCT VERB NOUN PUNCT NOUN PUNCT PRON AUX VERB ADJ VERB AUX PUNCT ADP NOUN PUNCT NOUN PUNCT PRON PUNCT PRON AUX PUNCT ADV PUNCT ADP DET NOUN PUNCT ADV ADJ ADJ VERB PRON PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT ADJ PUNCT ADJ PUNCT X ADX NOUN PUNCT NOUN PUNCT VERB AUX VERB PUNCT ADJ PUNCT ADJ PUNCT ADJ PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT PUNCT PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT PUNCT PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT VERB ADV PUNCT PRON PUNCT PRON PUNCT NUM NOUN PUNCT NOUN PUNCT VERB PUNCT NOUN PUNCT ADJ ADP ADJ ADJ NOUN PUNCT ADJ NOUN PUNCT NOUN NOUN NOUN NOUN NOUN NOUN NOUN NOUN ADP NOUN NOUN NOUN NOUN PUNCT ADJ NOUN NOUN NOUN NOUN PUNCT ADJ NOUN NOUN NOUN NOUN PUNCT ADJ VERB X NOUN NOUN NOUN NOUN NOUN NOUN PUNCT ADJ NOUN NOUN NOUN NOUN NOUN NOUN NOUN NOUN NOUN NOUN NOUN NOUN NOUN VERB NOUN NOUN NOUN NOUN NOUN NOUN PUNCT ADJ ADJ PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT VERB PUNCT NOUN PUNCT PUNCT NOUN NOUN NOUN NOUN NOUN NOUN NOUN NOUN ADP NOUN ADJ PUNCT ADP DET NOUN PUNCT VERB NOUN PUNCT VERB PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT PROPN PART PUNCT PART PUNCT X PUNCT PART PUNCT PART PUNCT X PUNCT PART PUNCT PART PUNCT PART PUNCT PART PUNCT PART PUNCT PART PUNCT PART PUNCT PART PUNCT PART PUNCT PART PUNCT PART PUNCT PART PUNCT PART PUNCT PART PUNCT PART PUNCT PART PUNCT PART PUNCT NOUN PUNCT NOUN ADP ADJ PUNCT PART PUNCT PART PUNCT X PART NUM PUNCT VERB PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT VERB PUNCT NOUN PUNCT VERB NOUN PUNCT NOUN PUNCT VERB PUNCT VERB ADP DET X PUNCT VERB PUNCT NOUN PUNCT NOUN ADP ADJ PUNCT PART AUX PUNCT VERB PUNCT VERB PUNCT NOUN PUNCT NOUN PUNCT NOUN ADP NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT PROPN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN NOUN VERB COMMA ADV AUX ADP ADJ PUNCT DET PUNCT PROPN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT ADJ PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN NOUN VERB NOUN PUNCT NOUN PUNCT PUNCT PUNCT PUNCT ADJ ADJ NOUN PUNCT PRON PUNCT ADV PUNCT DET PUNCT DET PUNCT DET PUNCT PART PUNCT AUX PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NUM NOUN PUNCT PROPN PUNKT ADJ ADP ADP X NOUN X NOUN PUNCT X PUNCT NOUN PUNCT VERB PUNCT NOUN PUNCT ADJ PRON PUNCT NOUN PUNCT DET PUNCT NOUN PUNCT NOUN PUNCT X PUNCT X PUNCT ADJ ADJ PUNCT NOUN PUNCT X VERB DET NUM NOUN PUNCT PRON PUNCT VERB PUNCT PRON PUNCT ADJ NOUN PUNCT PRON PUNCT DET PUNCT AUX PUNCT PRON PUNCT ADJ ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN X ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ ADJ PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADV NOUN PUNCT ADP NOUN PRON PUNCT ADJ NOUN ADP VERB ADJ NOUN PUNCT ADP NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ ADJ X ADJ NOUN PUNCT ADJ NOUN PUNCT ADP NOUN ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT NOUN NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN NOUN PUNCT NOUN PUNCT NOUN NOUN PUNCT PRON PUNCT PRON VERB ADJ NOUN PUNCT NOUN PUNCT X NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ ADJ NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT ADJ ADJ VERB ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT
+Split|$|the$|sentence$|only$|at$|every$|whitespace.$|Do$|not$|split$|the$|idividual$|tokens$|further.$|Return$|the$|UPOS$|tag$|for$|the$|tokens$|of$|the$|sentence$|in$|between$|the$|two$|dollar$|signs$|$illustre$|venamur$|,$|quod$|venamur$|in$|illis$|inveniri$|non$|potest$|.$|Postquam$|venati$|saltus$|et$|pascua$|sumus$|Ytalie$|,$|nec$|pantheram$|quam$|sequimur$|adinvenimus$|,$|ut$|ipsam$|reperire$|possimus$|rationabilius$|investigemus$|de$|illa$|ut$|,$|solerti$|studio$|,$|redolentem$|ubique$|et$|necubi$|apparentem$|nostris$|penitus$|irretiamus$|tenticulis$|.$|Quapropter$|in$|actionibus$|nostris$|,$|quantumcunque$|dividantur$|in$|species$|,$|hoc$|signum$|inveniri$|oportet$|quo$|et$|ipse$|mensurentur$|$
+Per\tADP\n hoc\tDET\n quoque\tPART\n quod\tPRON\n illustre\tADJ\n dicimus\tVERB\n ,\tPUNCT\n intelligimus\tVERB\n quid\tPRON\n illuminans\tVERB\n et\tCCONJ\n illuminatum\tVERB\n prefulgens\tVERB\n :\tPUNCT\n et\tCCONJ\n hoc\tDET\n modo\tNOUN\n viros\tNOUN\n appellamus\tVERB\n illustres\tADJ\n ,\tPUNCT\n vel\tCCONJ\n quia\tSCONJ\n potestate\tNOUN\n illuminati\tVERB\n alios\tDET\n et\tCCONJ\n iustitia\tNOUN\n et\tCCONJ\n karitate\tNOUN\n illuminant\tVERB\n ,\tPUNCT\n vel\tCCONJ\n quia\tSCONJ\n excellenter\tADV\n magistrati\tVERB\n excellenter\tADV\n magistrent\tVERB\n ,\tPUNCT\n ut\tSCONJ\n Seneca\tNOUN\n et\tCCONJ\n Numa\tPROPN\n Pompilius\tPROPN\n .\tPUNCT\n Et\tCCONJ\n vulgare\tADJ\n de\tADP\n quo\tPRON\n loquimur\tVERB\n et\tCCONJ\n sublimatum\tVERB\n est\tAUX\n magistratu\tNOUN\n et\tCCONJ\n potestate\tNOUN\n ,\tPUNCT\n et\tCCONJ\n suos\tDET\n honore\tNOUN\n sublimat\tVERB\n et\tCCONJ\n gloria\tNOUN\n .\tPUNCT\n Magistratu\tNOUN\n $\tX\n
+$quidem PRON\n sublimatum ADJ\n videtur VERB\n , PUNCT\n cum SCONJ\n de ADP\n tot PRON\n rudibus ADJ\n Latinorum NOUN\n vocabulis NOUN\n , de ADP\n tot PRON\n perplexis ADJ\n constructionibus NOUN\n , de ADP\n tot PRON\n defectivis ADJ\n prolationibus NOUN\n , de ADP\n tot PRON\n rusticanis ADJ\n accentibus NOUN\n , tam ADV\n egregium ADJ\n , tam ADV\n extricatum VERB\n , tam ADV\n perfectum ADJ\n et CCONJ\n tam ADV\n urbanum ADJ\n videamus VERB\n electum VERB\n ut ADV\n Cynus PROPN\n Pistoriensis NOUN\n et CCONJ\n amicus NOUN\n eius PRON\n ostendunt VERB\n in ADP\n cantionibus NOUN\n suis ADJ\n . PUNCT\n Quod PRON\n autem ADV\n exaltatum VERB\n sit VERB\n potestate NOUN\n , videtur VERB\n . PUNCT\n Et CCONJ\n quid PRON\n maioris ADJ\n potestatis NOUN\n est VERB\n quam SCONJ\n quod PRON\n humana ADJ\n$
+corda\tNOUN\n versare\tVERB\n potest\tVERB\n ,\tPUNCT\n ita\tADV\n ut\tADV\n nolentem\tVERB\n volentem\tVERB\n et\tADV\n volentem\tVERB\n nolentem\tVERB\n faciat\tVERB\n ,\tPUNCT\n velut\tADV\n ipsum\tDET\n et\tCCONJ\n fecit\tVERB\n et\tCCONJ\n facit\tVERB\n ?\tPUNCT\n Quantum\tADV\n vero\tADV\n suos\tDET\n familiares\tADJ\n gloriosos\tADJ\n efficiat\tVERB\n ,\tPUNCT\n nos\tPRON\n ipsi\tDET\n novimus\tVERB\n ,\tPUNCT\n qui\tPRON\n huius\tDET\n dulcedine\tNOUN\n glorie\tNOUN\n nostrum\tDET\n exilium\tNOUN\n postergamus\tVERB\n .\tPUNCT\n Nonne\tPART\n Non\tADV\n ne\tADV\n cotidie\tADV\n vel\tCCONJ\n plantas\tNOUN\n inserit\tVERB\n vel\tCCONJ\n plantaria\tNOUN\n plantat\tVERB\n ?\tPUNCT\n Quare\tADV\n prorsus\tADV\n tanto\tADV\n decusari\tVERB\n vocabulo\tNOUN\n promeretur\tVERB\n .\tPUNCT\n Quia\tSCONJ\n vero\tADV\n aulicum\tADJ\n nominamus\tVERB\n illud\tDET\n causa\tNOUN\n est\tAUX\n quod\tPRON\n ,\tPUNCT\n $
+$si ADP\n aulam NOUN\n nos PRON\n Ytali PROPN\n haberemus VERB\n , PUNCT\n palatinum ADJ\n foret VERB\n . PUNCT\n Unde ADV\n cum SCONJ\n istud DET\n in ADP\n excellentissima ADJ\n Ytalorum ADJ\n curia NOUN\n sit VERB\n libratum VERB\n , PUNCT\n dici VERB\n curiale ADJ\n meretur VERB\n . PUNCT\n Ad ADP\n quod PRON\n facile ADV\n respondetur VERB\n . PUNCT\n Nam PART\n licet SCONJ\n curia NOUN\n , PUNCT\n secundum ADP\n quod PRON\n unita VERB\n accipitur VERB\n , PUNCT\n ut SCONJ\n curia NOUN\n regis NOUN\n Alamannie PROPN\n , PUNCT\n in ADP\n Ytalia PROPN\n non PART\n sit VERB\n , PUNCT\n membra NOUN\n tamen ADV\n eius PRON\n non PART\n desunt VERB\n ; PUNCT\n et CCONJ\n sicut SCONJ\n membra NOUN\n illius DET\n uno DET\n Principe NOUN\n uniuntur VERB\n , PUNCT\n sic ADV\n membra NOUN\n huius PRON\n gratioso ADJ\n lumine NOUN\n$ X\n
+$rationis$ PRON\n $unita$ VERB\n $sunt$ AUX\n .$ PUNCT\n $Et$ CCONJ\n $sicut$ SCONJ\n $illud$ DET\n $cremonense$ ADJ\n $ac$ CCONJ\n $illud$ DET\n $lombardum$ ADJ\n $et$ CCONJ\n $tertium$ ADJ\n $semilatium$ ADJ\n $dicitur$ VERB\n ,$ PUNCT\n $sic$ ADV\n $istud$ DET\n ,$ PUNCT\n $quod$ PRON\n $totius$ DET\n $ytalie$ PROPN\n $est$ AUX\n ,$ PUNCT\n $latium$ ADJ\n $vulgare$ ADJ\n $vocatur$ VERB\n .$ PUNCT\n $Hoc$ DET\n $enim$ PART\n $usi$ VERB\n $sunt$ AUX\n $doctores$ NOUN\n $illustres$ ADJ\n $qui$ PRON\n $lingua$ NOUN\n $vulgari$ ADJ\n $poetati$ VERB\n $sunt$ AUX\n $in$ ADP\n $ytalia$ PROPN\n ,$ PUNCT\n $ut$ SCONJ\n $siculi$ NOUN\n ,$ PUNCT\n $apuli$ NOUN\n ,$ PUNCT\n $tusci$ NOUN\n ,$ PUNCT\n $romandioli$ NOUN\n ,$ PUNCT\n $lombardi$ NOUN\n $et$ CCONJ\n $utriusque$ DET\n $marchie$ NOUN\n $viri$ NOUN\n .$ PUNCT\n $Et$ CCONJ\n $quia$ SCONJ\n $intentio$ NOUN\n $nostra$ DET\n ,$ PUNCT\n $ut$ SCONJ\n $polliciti$ VERB\n $sumus$ AUX\n $in$ ADP\n $$ X\n
+$principio$ ADV\n\n$huius$ DET\n\n$operis$ NOUN\n\n$,$ PUNCT\n\n$est$ AUX\n\n$doctrinam$ NOUN\n\n$de$ ADP\n\n$vulgari$ ADJ\n\n$eloquentia$ NOUN\n\n$tradere$ VERB\n\n$,$ PUNCT\n\n$ab$ ADP\n\n$ipso$ DET\n\n$tanquam$ SCONJ\n\n$ab$ ADP\n\n$excellentissimo$ ADJ\n\n$incipientes$ VERB\n\n$,$ PUNCT\n\n$quos$ PRON\n\n$putamus$ VERB\n\n$ipso$ DET\n\n$dignos$ ADJ\n\n$uti$ NOUN\n\n$,$ PUNCT\n\n$et$ CCONJ\n\n$propter$ ADP\n\n$quid$ PRON\n\n$,$ PUNCT\n\n$et$ CCONJ\n\n$quomodo$ ADV\n\n$,$ PUNCT\n\n$nec$ CCONJ\n\n$non$ PART\n\n$ubi$ ADV\n\n$,$ PUNCT\n\n$et$ CCONJ\n\n$quando$ ADV\n\n$,$ PUNCT\n\n$et$ CCONJ\n\n$ad$ ADP\n\n$quos$ PRON\n\n$ipsum$ DET\n\n$dirigendum$ VERB\n\n$sit$ AUX\n\n$,$ PUNCT\n\n$in$ ADP\n\n$inmediatis$ ADJ\n\n$libris$ NOUN\n\n$tractabimus$ VERB\n\n$.$ PUNCT\n\n$Quibus$ DET\n\n$illuminatis$ VERB\n\n$,$ PUNCT\n\n$inferiora$ ADJ\n\n$vulgaria$ ADJ\n\n$illuminare$ VERB\n\n$curabimus$ VERB\n\n$,$ PUNCT\n\n$gradatim$ ADV\n\n$descendentes$ VERB\n\n$ad$ ADP\n\n$illud$ DET\n\n$quod$ PRON\n\n$unius$ DET\n\n$solius$ DET\n\n$familie$ NOUN\n\n$.$ PUNCT
+$proprium$ $est$ $.$ $Et$ $superficietenus$ $videtur$ $quod$ $sic$ $,$ $quia$ $omnis$ $qui$ $versificatur$ $suos$ $versus$ $exornare$ $debet$ $in$ $quantum$ $potest$ $:$ $quare$ $,$ $cum$ $nullum$ $sit$ $tam$ $grandis$ $exornationis$ $quam$ $vulgare$ $illustre$ $,$ $videtur$ $quod$ $quisquis$ $versificator$ $debeat$ $ipsum$ $uti$ $.$ $Preterea$ $,$ $quod$ $optimum$ $est$ $in$ $genere$ $suo$ $,$ $si$ $suis$ $inferioribus$ $misceatur$ $,$ $non$ $solum$ $nil$ $derogare$ $videtur$ $eis$ $,$ $sed$ $ea$ $meliorare$ $videtur$ $.$
+quare ADV si SCONJ quis PRON versificator NOUN , PUNCT quanquam SCONJ rude ADJ versificetur VERB , VERB ipsum PRON sue DET ruditati NOUN admisceat VERB , VERB non PART solum ADV bene ADV facere VERB , VERB sed CCONJ ipsum PRON sic ADV facere VERB oportere VERB videtur VERB : VERB multo ADV magis ADV opus VERB est AUX adiutorio NOUN illis DET qui PRON pauca ADJ quam ADV qui PRON multa ADJ possunt VERB . VERB Exigit VERB ergo ADV istud PRON sibi PRON consimiles ADJ viros NOUN , NOUN quemadmodum ADV alii DET nostri DET mores NOUN et CCONJ habitus NOUN : NOUN exigit VERB enim ADV magnificentia NOUN magna ADJ potentes NOUN , NOUN purpura NOUN viros NOUN nobiles ADJ ; PUNCT sic ADV et CCONJ
+$hoc PRON$\n$excellentes VERB$\n$ingenio NOUN$\n$et CCONJ$\n$scientia NOUN$\n$querit VERB$\n$, PUNCT$\n$et CCONJ$\n$alios DET$\n$aspernatur VERB$\n$, PUNCT$\n$ut SCONJ$\n$per ADP$\n$inferiora ADJ$\n$patebit VERB$\n$. PUNCT$\n$Nam CONJ$\n$quicquid PRON$\n$nobis PRON$\n$convenit VERB$\n$, PUNCT$\n$vel CCONJ$\n$gratia NOUN$\n$generis NOUN$\n$, PUNCT$\n$vel CCONJ$\n$speciei NOUN$\n$, PUNCT$\n$vel CCONJ$\n$individui NOUN$\n$convenit VERB$\n$, PUNCT$\n$ut SCONJ$\n$sentire VERB$\n$, PUNCT$\n$ridere VERB$\n$, PUNCT$\n$militare VERB$\n$. PUNCT$\n$Sed CONJ$\n$hoc DET$\n$non PART$\n$convenit VERB$\n$nobis PRON$\n$gratia NOUN$\n$generis NOUN$\n$, PUNCT$\n$quia SCONJ$\n$etiam ADV$\n$brutis NOUN$\n$conveniret VERB$\n$; PUNCT$\n$nec CCONJ$\n$gratia NOUN$\n$speciei NOUN$\n$, PUNCT$\n$quia SCONJ$\n$cunctis DET$\n$hominibus NOUN$\n$esset AUX$\n$conveniens VERB$\n$, PUNCT$\n$de ADP$\n$quo PRON$\n$nulla DET$\n$questio NOUN$\n$PUNCT$\n$
+est AUX - Nemo PRON - enim PART - montaninis ADJ - rusticana NOUN - tractantibus VERB - hoc DET - dicet VERB - esse AUX - conveniens VERB - : PUNCT - convenit VERB - ergo ADV - individui ADJ - gratia NOUN - . PUNCT - Sed CCONJ - nichil PRON - individuo ADJ - convenit VERB - nisi SCONJ - per ADP - proprias ADJ - dignitates NOUN - , PUNCT - puta ADV - mercari VERB - , PUNCT - militare VERB - ac CCONJ - regere VERB - . PUNCT - Quare ADV - si SCONJ - convenientia NOUN - respiciunt VERB - dignitates NOUN - , PUNCT - hoc DET - est AUX - dignos ADJ - , PUNCT - et CCONJ - quidam PRON - digni ADJ - , PUNCT - quidam PRON - digniores ADJ - , PUNCT - quidam PRON - dignissimi ADJ - esse AUX - possunt VERB - , PUNCT - manifestum ADJ - est AUX - quod SCONJ - bona NOUN - dignis ADJ - , PUNCT - meliora ADJ - dignioribus ADJ - , PUNCT - optima ADJ - . PUNCT -
+Split the sentence only at every whitespace. Do not split the idividual tokens further. Return the UPOS tag for the tokens of the sentence in between the two dollar signs $dignissimis ADJ\n convenient PUNCT\n . PUNCT\n Et CCONJ\n cum SCONJ\n loquela NOUN\n non PART\n aliter ADV\n sit AUX\n necessarium ADJ\n instrumentum NOUN\n nostre DET\n conceptionis NOUN\n quam SCONJ\n equus NOUN\n militis NOUN\n , PUNCT\n et CCONJ\n optimis ADJ\n militibus NOUN\n optimi ADJ\n conveniant VERB\n equi NOUN\n , PUNCT\n ut SCONJ\n dictum VERB\n est AUX\n , PUNCT\n optimis ADJ\n conceptionibus NOUN\n optima ADJ\n loquela NOUN\n conveniet VERB\n . PUNCT\n Et CCONJ\n sic ADV\n non PART\n omnibus DET\n versificantibus VERB\n optima ADJ\n loquela NOUN\n conveniet VERB\n , PUNCT\n cum SCONJ\n plerique DET\n sine ADP\n scientia NOUN\n et CCONJ\n ingenio NOUN\n versificentur VERB\n , PUNCT\n et CCONJ\n per ADP\n consequens ADJ\n nec CCONJ\n optimum ADJ\n vulgare ADJ\n . PUNCT\n Quapropter ADV\n , PUNCT\n si SCONJ\n non PART\n omnibus DET\n competit VERB\n , PUNCT\n non PART\n$
+$omnes\tDET\n ipsum\tDET\n debent\tVERB\n uti\tVERB\n ,\tPUNCT\n quia\tSCONJ\n inconvenienter\tADV\n agere\tVERB\n nullus\tDET\n debet\tVERB\n .\tPUNCT\n Unde\tADV\n cum\tSCONJ\n sententia\tNOUN\n versificantium\tNOUN\n semper\tADV\n verbis\tNOUN\n discretive\tADV\n mixta\tVERB\n remaneat\tVERB\n ,\tPUNCT\n si\tSCONJ\n non\tPART\n fuerit\tAUX\n optima\tADJ\n ,\tPUNCT\n optimo\tADJ\n sociata\tVERB\n vulgari\tADJ\n non\tPART\n melior\tADJ\n sed\tCCONJ\n deterior\tADJ\n apparebit\tVERB\n ,\tPUNCT\n quemadmodum\tCCONJ\n turpis\tADJ\n mulier\tNOUN\n si\tSCONJ\n auro\tNOUN\n vel\tCCONJ\n serico\tADJ\n vestiatur\tVERB\n .\tPUNCT\n Postquam\tSCONJ\n non\tPART\n omnes\tDET\n versificantes\tVERB\n sed\tCCONJ\n tantum\tADV\n excellentissimos\tADJ\n illustre\tADJ\n uti\tVERB\n vulgare\tADJ\n debere\tVERB\n astruximus\tVERB\n ,\tPUNCT\n consequens\tVERB\n est\tAUX\n astruere\tVERB\n utrum\tSCONJ\n omnia\tDET\n ipso\tDET\n tractanda\tVERB\n sint\tAUX\n aut\tCCONJ\n$\tPUNCT\n
+non ADV\n ; PUNCT\n et CCONJ\n si SCONJ\n non PART\n omnia PRON\n , PUNCT\n que CCONJ\n ipso PRON\n digna ADJ\n sunt AUX\n segregatim ADV\n ostendere VERB\n . PUNCT\n Circa ADP\n quod PRON\n primo ADV\n reperiendum VERB\n est AUX\n id PRON\n quod PRON\n intelligimus VERB\n per ADP\n illud DET\n quod PRON\n dicimus VERB\n dignum ADJ\n . Est AUX\n etenim ADV\n dignitas NOUN\n meritorum VERB\n effectus NOUN\n sive CCONJ\n terminus NOUN\n ; PUNCT\n ut SCONJ\n , PUNCT\n cum SCONJ\n quis PRON\n bene ADV\n meruit VERB\n , PUNCT\n ad ADP\n boni ADJ\n dignitatem NOUN\n profectum NOUN\n esse AUX\n dicimus VERB\n , PUNCT\n cum SCONJ\n male ADV\n vero ADV\n , PUNCT\n ad ADP\n mali ADJ\n : PUNCT\n puta SCONJ\n bene ADV\n militantem VERB\n ad ADP\n victorie NOUN\n dignitatem NOUN\n , PUNCT\n bene ADV\n autem PART\n
+$regentem$ AUX\n
+$ad$ ADP\n
+$regni$ NOUN\n
+$,$ PUNCT\n
+$nec$ CCONJ\n
+$non$ PART\n
+$mendacem$ NOUN\n
+$ad$ ADP\n
+$ruboris$ NOUN\n
+$dignitatem$ NOUN\n
+$,$ PUNCT\n
+$et$ CCONJ\n
+$latronem$ NOUN\n
+$ad$ ADP\n
+$eam$ PRON\n
+$que$ CCONJ\n
+$est$ AUX\n
+$mortis$ NOUN\n
+$.$ PUNCT\n
+$Sed$ ADV\n
+$cum$ ADP\n
+$in$ ADP\n
+$bene$ ADV\n
+$merentibus$ VERB\n
+$fiant$ VERB\n
+$comparationes$ NOUN\n
+$,$ PUNCT\n
+$et$ CCONJ\n
+$in$ ADP\n
+$aliis$ DET\n
+$etiam$ ADV\n
+$,$ PUNCT\n
+$ut$ SCONJ\n
+$quidam$ DET\n
+$bene$ ADV\n
+$quidam$ DET\n
+$melius$ ADJ\n
+$quidam$ DET\n
+$optime$ ADJ\n
+$,$ PUNCT\n
+$quidam$ DET\n
+$male$ ADV\n
+$quidam$ DET\n
+$peius$ ADV\n
+$quidam$ DET\n
+$pessime$ ADV\n
+$mereantur$ VERB\n
+$,$ PUNCT\n
+$et$ CCONJ\n
+$huiusmodi$ ADV\n
+$comparationes$ NOUN\n
+$non$ PART\n
+$fiant$ VERB\n
+$nisi$ SCONJ\n
+$per$ ADP\n
+$respectum$ NOUN\n
+$ad$ ADP\n
+$terminum$ NOUN\n
+$meritorum$ NOUN\n
+$quem$ PRON\n
+$dignitatem$ NOUN\n
+$dicimus$ VERB\n
+$,$ PUNCT\n
+$ut$ SCONJ\n
+$dictum$ VERB\n
+$est$ AUX\n
+Split the sentence only at every whitespace. Do not split the idividual tokens further. Return the UPOS tag for the tokens of the sentence in between the two dollar signs $, manifestum est ut dignitates inter se comparentur secundum magis et minus , ut quedam magne , quedam maiores , quedam maxime sint ; et per consequens aliquid dignum , aliquid dignius , aliquid dignissimum esse constat . Et cum comparatio dignitatum non fiat circa idem obiectum , sed circa diversa , ut dignius dicamus quod maioribus , dignissimum quod maximis dignum est ( quia nichil$ ADJ AUX NOUN ADV PART VERB VERB ADJ CCONJ NOUN CCONJ ADV ADJ CCONJ NOUN PUNCT ADV CCONJ VERB DET PRON ADJ ADJ PUNCT CCONJ SCONJ DET ADJ ADJ ADJ NOUN PUNCT CCONJ VERB ADJ ADJ ADJ AUX VERB PUNCT CCONJ NOUN NOUN PUNCT CCONJ NOUN PUNCT CCONJ NOUN ADJ PUNCT CCONJ PART VERB DET NOUN ADJ PUNCT CCONJ ADJ PUNCT UNSPECIFIED PUNCT NOUN PUNCT CCONJ NOUN PUNCT VERB PUNCT NOUN ADJ NOUN PUNCT VERB PUNCT NOUN ADJ PUNCT VERB PUNCT NOUN ADJ ADJ PUNCT CCONJ ADJ PUNCT CCONJ ADJ ADJ ADJ NOUN ADJ PUNCT INTJ ADV NOUN NOUN VERB ADP NOUN VERB VERB PUNCT CCONJ INTJ NOUN PUNCT CCONJ NOUN PUNCT CCONJ NOUN PUNCT CCONJ NOUN ADJ PUNCT CCONJ NOUN PUNCT ADJ PUNCT SCONJ PRON PRON PUNCT ADV NOUN ADJ NOUN ADJ AUX VERB PUNCT ADP NOUN NOUN PUNCT CCONJ x
+Split=$eodem\tPRON\n dignius\tADJ\n esse\tAUX\n potest\tVERB\n )\tPUNCT\n ,\tPUNCT\n manifestum\tADJ\n est\tAUX\n quod\tSCONJ\n optima\tADJ\n optimis\tADJ\n secundum\tADP\n rerum\tNOUN\n exigentiam\tNOUN\n digna\tADJ\n sunt\tAUX\n .\tPUNCT\n Nam\tPART\n secundum\tADP\n quod\tPRON\n vegetabile\tNOUN\n quid\tPRON\n est\tAUX\n ,\tPUNCT\n utile\tADJ\n querit\tVERB\n ,\tPUNCT\n in\tADP\n quo\tPRON\n cum\tADP\n plantis\tNOUN\n comunicat\tVERB\n ;\tPUNCT\n secundum\tADP\n quod\tPRON\n animale\tNOUN\n ,\tPUNCT\n delectabile\tADJ\n ,\tPUNCT\n in\tADP\n quo\tPRON\n cum\tADP\n brutis\tADJ\n ;\tPUNCT\n secundum\tADP\n quod\tPRON\n rationale\tADJ\n ,\tPUNCT\n honestum\tADJ\n querit\tVERB\n ,\tPUNCT\n in\tADP\n quo\tPRON\n solus\tDET\n est\tAUX\n ,\tPUNCT\n vel\tCCONJ\n angelice\tADJ\n sociatur\tVERB\n nature\tNOUN\n .\tPUNCT\n Propter\tADP\n hec\tDET\n tria\tNUM\n quicquid\tPRON\n agimus\tVERB\n
+$agere\tVERB\n videmur\tVERB\n ;\tPUNCT\n et\tCCONJ\n quia\tSCONJ\n in\tADP\n quolibet\tDET\n istorum\tDET\n quedam\tDET\n sunt\tAUX\n maiora\tADJ\n quedam\tDET\n maxima\tADJ\n ,\tPUNCT\n secundum\tADP\n quod\tSCONJ\n talia\tDET\n ,\tPUNCT\n que\tPRON\n maxima\tADJ\n sunt\tAUX\n maxime\tADV\n pertractanda\tVERB\n videntur\tVERB\n ,\tPUNCT\n et\tCCONJ\n per\tADP\n consequens\tVERB\n maximo\tADJ\n vulgari\tADJ\n .\tPUNCT\n Et\tCCONJ\n primo\tADV\n in\tADP\n eo\tPRON\n quod\tPRON\n est\tAUX\n utile\tADJ\n :\tPUNCT\n in\tADP\n quo\tPRON\n ,\tPUNCT\n si\tSCONJ\n callide\tADV\n consideremus\tVERB\n intentum\tNOUN\n omnium\tDET\n querentium\tVERB\n utilitatem\tNOUN\n ,\tPUNCT\n nil\tPRON\n aliud\tDET\n quam\tSCONJ\n salutem\tNOUN\n inveniemus\tVERB\n .\tPUNCT\n Secundo\tADV\n in\tADP\n eo\tPRON\n quod\tPRON\n est\tAUX\n delectabile\tADJ\n :\tPUNCT\n in\tADP\n quo\tPRON\n dicimus\tVERB\n$
+$illud\ X$\ $esse\ AUX$\ $maxime\ ADV$\ $delectabile\ ADJ$\ $quod\ PRON$\ $per\ ADP$\ $pretiosissimum\ ADJ$\ $obiectum\ NOUN$\ $appetitus\ NOUN$\ $delectat\ VERB$\ $:\ PUNCT$\ $hoc\ DET$\ $autem\ PART$\ $venus\ NOUN$\ $est\ AUX$\ $.\ PUNCT$\ $Tertio\ ADV$\ $in\ ADP$\ $eo\ PRON$\ $quod\ SCONJ$\ $est\ AUX$\ $honestum\ ADJ$\ $:\ PUNCT$\ $in\ ADP$\ $quo\ PRON$\ $nemo\ PRON$\ $dubitat\ VERB$\ $esse\ AUX$\ $virtutem\ NOUN$\ $.\ PUNCT$\ $Bertramus\ PROPN$\ $etenim\ ADV$\ $ait\ VERB$\ $Non\ PART$\ $posc\ AUX$\ $mudar\ VERB$\ $c'\ X$\ $un\ DET$\ $cantar\ NOUN$\ $non\ PART$\ $exparia\ VERB$\ $;\ PUNCT$\ $Arnaldus\ PROPN$\ $:\ PUNCT$\ $L'\ DET$\ $aura\ NOUN$\ $amara\ ADJ$\ $fa\ VERB$\ $·\ PUNCT$\ $l\ DET$\ $bruol\ NOUN$\ $brancuz\ ADJ$\ $clarzir\ VERB$\ $;\ PUNCT$\ $Gerardus\ PROPN$\ $:\ PUNCT$\ $Per\ ADP$\ $solaz\ NOUN$\ $reveilar\ VERB$\ $che\ SCONJ$\ $s'\ X$\ $es\ AUX$\ $trop\ ADV$\ $endormiz\ VERB$\ $;\ PUNCT$\ $Cynus\ PROPN$\ $.\ PUNCT$\
+Digno\tADJ\n sono\tAUX\n eo\tPRON\n di\tADP\n morte\tNOUN\n ;\tPUNCT\n amicus\tNOUN\n eius\tPRON\n :\tPUNCT\n Doglia\tNOUN\n mi\tPRON\n reca\tVERB\n ne\tPRON\n lo\tDET\n core\tNOUN\n ardire\tNOUN\n .\tPUNCT\n Hiis\tDET\n proinde\tADV\n visis\tNOUN\n ,\tPUNCT\n que\tCCONJ\n canenda\tVERB\n sint\tAUX\n vulgari\tADJ\n altissimo\tADJ\n innotescunt\tVERB\n .\tPUNCT\n Volentes\tVERB\n igitur\tADV\n modum\tNOUN\n tradere\tVERB\n quo\tPRON\n ligari\tVERB\n hec\tDET\n digna\tADJ\n existant\tVERB\n ,\tPUNCT\n primo\tADV\n dicimus\tVERB\n esse\tAUX\n ad\tADP\n memoriam\tNOUN\n reducendum\tVERB\n quod\tSCONJ\n vulgariter\tADV\n poetantes\tVERB\n sua\tDET\n poemata\tNOUN\n multimode\tADV\n protulerunt\tVERB\n ,\tPUNCT\n quidam\tDET\n per\tADP\n cantiones\tNOUN\n ,\tPUNCT\n quidam\tDET\n per\tADP\n ballatas\tNOUN\n ,\tPUNCT\n quidam\tDET\n per\tADP\n sonitus\tNOUN\n ,\tPUNCT\n quidam\tDET\n$\tPUNCT\n
+Split the sentence only at every whitespace. Do not split the idividual tokens further. Return the UPOS tag for the tokens of the sentence in between the two dollar signs $per alios inlegitimos et inregulares modos , ut inferius ostendetur . Preterea : que nobilissima sunt carissime conservantur ; sed inter ea que cantata sunt , cantiones carissime conservantur , ut constat visitantibus libros : ergo cantiones nobilissime sunt , et per consequens modus earum nobilissimus est . Ad hoc : in artificiatis illud est nobilissimum quod totam comprehendit artem ; cum igitur ea que cantantur$
+$artificiata\tNOUN$\n $existant\tVERB$\n $,\tPUNCT$\n $et\tCCONJ$\n $in\tADP$\n $solis\tADJ$\n $cantionibus\tNOUN$\n $ars\tNOUN$\n $tota\tDET$\n $comprehendatur\tVERB$\n $,\tPUNCT$\n $cantiones\tNOUN$\n $nobilissime\tADJ$\n $sunt\tAUX$\n $,\tPUNCT$\n $et\tCCONJ$\n $sic\tADV$\n $modus\tNOUN$\n $earum\tPRON$\n $nobilissimus\tADJ$\n $aliorum\tDET$\n $.\tPUNCT$\n $Quod\tPRON$\n $autem\tPART$\n $tota\tDET$\n $comprehendatur\tVERB$\n $in\tADP$\n $cantionibus\tNOUN$\n $ars\tNOUN$\n $cantandi\tVERB$\n $poetice\tADV$\n $,\tPUNCT$\n $in\tADP$\n $hoc\tDET$\n $palatur\tVERB$\n $,\tPUNCT$\n $quod\tSCONJ$\n $quicquid\tPRON$\n $artis\tNOUN$\n $reperitur\tVERB$\n $in\tADP$\n $omnibus\tDET$\n $aliis\tDET$\n $et\tCCONJ$\n $in\tADP$\n $cantionibus\tNOUN$\n $reperitur\tVERB$\n $,\tPUNCT$\n $sed\tCCONJ$\n $non\tPART$\n $convertitur\tVERB$\n $hoc\tDET$\n $.\tPUNCT$\n $Quare\tADV$\n $ad\tADP$\n $propositum\tVERB$\n $patet\tVERB$\n $quod\tSCONJ$\n $ea\tPRON$\n $que\tPRON$\n $digna\tVERB$\n $sunt\tAUX$\n $vulgari\tADJ$\n $altissimo\tADJ$\n $in\tADP$\n $cantionibus\tNOUN$\n $.\tPUNCT$\n
+Split the sentence only at every whitespace. Do not split the idividual tokens further. Return the UPOS tag for the tokens of the sentence in between the two dollar signs $tractanda sunt . Revisentes igitur ea que dicta sunt , recolimus nos eos qui vulgariter versificantur plerunque vocasse poetas : quod procul dubio rationabiliter eructare presumpsimus , quia prorsus poete sunt , si poesim recte consideremus : que nichil aliud est quam fictio rethorica musicaque musica que poita . Differunt tamen a magnis poetis , hoc est regularibus , quia magni sermone et arte regulari poetati$ NOUN AUX PUNCT SPACE VERB ADV PUNCT VERB PRON DET VERB PRON PRON VERB AUX PROPN ADV PUNCT VERB PRON VERB SCONJ PRON VERB AUX AUX ADV ADV VERB VERB NOUN SCONJ NOUN NOUN CCONJ NOUN NOUN PUNCT PRON ADV ADV PUNCT NOUN NOUN VERB VERB NOUN PUNCT ADJ NOUN NOUN NOUN PUNCT NOUN PRON ADV ADJ NOUN PUNCT CCONJ ADJ NOUN CCONJ ADJ PUNCT ADV ADJ NOUN CCONJ ADJ NOUN PUNCT PRON NOUN NOUN ADP ADJ PUNCT CCONJ ADJ NOUN CCONJ ADJ PUNCT ADV ADV PUNCT PRON NOUN ADJ NOUN PUNCT CCONJ ADJ NOUN NOUN ADJ PUNCT PRON ADJ NOUN ADJ NOUN NOUN NOUN PUNCT ADJ VERB NOUN CONJ ADV NOUN VERB NOUN PUNCT ADV PUNCT ADV PUNCT AUX ADJ NOUN CONJ NOUN PUNCT CCONJ ADJ NOUN NOUN NOUN PUNCT PRON PRON PUNCT VERB NOUN ADJ ADJ VERB PUNCT PRON NOUN ADJ ADJ VERB PUNCT PUNCT NOUN ADV NOUN NOUN NOUN PUNCT ADJ ADJ ADJ PUNCT AUX NOUN ADJ PUNCT PUNCT CCONJ ADJ NOUN VERB PUNCT PRON VERB NOUN ADJ NOUN PUNCT PUNCT ADJ NOUN ADJ NOUN VERB PUNCT PRON NOUN ADJ NOUN NOUN PUNCT ADJ NOUN PUNCT ADP ADJ NOUN NOUN PUNCT PUNCT NOUN NOUN PUNCT ADV PUNCT NOUN PUNCT PUNCT NOUN NOUN PUNCT PUNCT NOUN SPACE ADV PUNCT AUX DET ADJ NOUN CCONJ NOUN AUX VERB NOUN PUNCT PRON PUNCT PUNCT PUNCT PUNCT ADV ADV PUNCT NOUN SPACE ADJ NOUN CCONJ NOUN PUNCT CCONJ NOUN PUNCT CCONJ ADJ NOUN CCONJ ADJ NOUN PUNCT PRON NOUN NOUN SPACE ADJ NOUN ADJ PUNCT CCONJ NOUN PUNCT CCONJ ADJ NOUN CCONJ ADJ NOUN PUNCT NOUN PUNCT CCONJ NOUN PUNCT CCONJ ADJ NOUN CCONJ ADJ NOUN ADJ PUNCT ADJ NOUN NOUN ADJ PUNCT VERB NOUN NOUN PUNCT PUNCT CCONJ NOUN PUNCT AUX ADV NOUN NOUN PUNCT CCONJ ADJ NOUN PUNCT PRON ADJ NOUN PUNCT CCONJ ADJ NOUN PUNCT CCONJ NOUN PUNCT CCONJ ADJ NOUN PUNCT CCONJ NOUN PUNCT CCONJ ADJ NOUN NOUN NOUN PUNCT ADV NOUN PUNCT CCONJ ADJ NOUN PUNCT PRON ADJ NOUN NOUN NOUN PUNCT AUX ADJ NOUN NOUN PUNCT CCONJ ADJ NOUN NOUN NOUN PUNCT AUX ADJ NOUN NOUN PUNCT PUNCT CCONJ ADJ PROPN PUNCT PRON VERB ADJ PUNCT PRON ADJ NOUN CCONJ NOUN PUNCT CCONJ ADJ PROPN PUNCT CCONJ ADJ PROPN ADJ PUNCT CCONJ ADJ PROPN ADJ NOUN PUNCT ADV VERB SCONJ ADJ NOUN PUNCT PUNCT ADV NOUN NOUN ADJ NOUN PUNCT PUNCT NOUN PUNCT INTJ PUNCT ADP ADJ PUNCT ADJ PUNCT ADJ NOUN PUNCT AUX VERB ADJ NOUN PUNCT ADJ PUNCT PUNCT ADV PUNCT ADV PUNCT ADV PUNCT AUX AUX ADJ PUNCT ADJ PUNCT CCONJ ADJ ADJ ADJ ADJ NOUN PUNCT NOUN PUNCT ADJ PUNCT CCONJ AUX ADJ PUNCT PUNCT ADJ NOUN PUNCT ADV AUX NOUN VERB PUNCT ADP NOUN NOUN NOUN PUNCT ADJ PUNCT ADV VERB NOUN NOUN PUNCT CCONJ ADP ADJ ADJ PUNCT ADJ PUNCT ADJ ADJ PUNCT CCONJ NOUN ADJ PUNCT PRON VERB AUX VERB PUNCT NOUN NOUN PUNCT PUNCT ADV ADJ NOUN PUNCT NOUN PUNCT CCONJ NOUN PRON VERB PUNCT CCONJ VERB DET AUX PUNCT NOUN NOUN NOUN NOUN PUNCT ADJ NOUN ADJ PUNCT CCONJ ADJ NOUN PUNCT CCONJ ADJ NOUN VERB NOUN PUNCT ADJ NOUN NOUN PUNCT PUNCT PRON AUX VERB PUNCT PRON PUNCT ADJ PUNCT PUNCT NOUN PUNCT ADV ADJ PUNCT ADJ PUNCT AUX AUX VERB NOUN NUM ADJ VERB NOUN VERB PUNCT ADJ PUNCT PRON NOUN PUNCT ADV VERB NOUN ADJ NOUN PUNCT ADV PUNCT ADJ ADJ PUNCT ADV PUNCT PUNCT PUNCT PUNCT CCONJ ADJ NOUN PUNCT PUNCT PUNCT NOUN DET NOUN PUNCT CCONJ NOUN NOUN PUNCT PUNCT DET VERB VERB ADJ PUNCT PUNCT PUNCT PUNCT NOUN DET NOUN PUNCT CCONJ DET PUNCT VERB PUNCT PUNCT VERB NOUN ADJ NOUN NOUN NOUN PUNCT PRON NOUN ADJ NOUN NOUN PUNCT ADJ DET ADJ PUNCT PUNCT NOUN NOUN CONJ NOUN ADV PUNCT ADJ NOUN PUNCT ADJ NOUN ADJ PUNCT PUNCT PRON NOUN NOUN NOUN PUNCT PUNCT NOUN NOUN PUNCT ADJ NOUN VERB PUNCT PRON NOUN ADJ NOUN NOUN PUNCT PUNCT NOUN NOUN PUNCT ADV PUNCT AUX PUNCT ADJ NOUN NOUN PUNCT CCONJ ADJ NOUN VERB PUNCT PUNCT PRON ADJ ADJ NOUN PUNCT ADJ PUNCT ADV NOUN NOUN PUNCT ADV AUX NOUN NOUN PUNCT NOUN NOUN NOUN PUNCT ADJ VERB PUNCT PRON PUNCT SPACE NOUN NOUN NOUN VERB PUNCT NOUN NOUN PUNCT ADJ NOUN ADJ PUNCT NOUN NOUN PUNCT ADJ NOUN PUNCT PUNCT PUNCT PUNCT NOUN PUNCT PUNCT ADJ NOUN NOUN NOUN PUNCT NOUN NOUN PUNCT PRON NOUN NOUN PUNCT PRON NOUN PUNCT PUNCT NOUN PUNCT PUNCT NOUN PUNCT PUNCT NOUN NOUN PUNCT AUX NOUN NOUN PUNCT NOUN PUNCT PUNCT AUX PUNCT ADJ NOUN PUNCT ADV PUNCT PUNCT AUX NOUN NOUN PUNCT NOUN PUNCT PUNCT VERB NOUN PUNCT OPTION_SPACE PUNCT VERB NOUN PUNCT PUNCT PUNCT NOUN PUNCT ADV NOUN NOUN PUNCT ADP DET NOUN PUNCT NOUN PUNCT PUNCT NOUN PUNCT PUNCT NOUN PUNCT NOUN PUNCT DET NOUN PUNCT AUX PUNCT PRON PROPN NOUN PUNCT PRON VERB PUNCT ADV NOUN NOUN PUNCT NOUN PUNCT PRON NOUN ADJ NOUN PUNCT ADJ NOUN ADJ PUNCT PUNCT ADJ VERB NOUN ADJ NOUN PUNCT NOUN PUNCT NOUN PUNCT VERB NOUN NOUN PUNCT NOUN PUNCT PUNCT NOUN PUNCT X PUNCT VERB PUNCT PUNCT
+sunt$ AUX\n ,$ PUNCT\n hii$ PRON\n vero$ ADV\n casu$ NOUN\n ,$ PUNCT\n ut$ SCONJ\n dictum$ VERB\n est$ AUX\n .$ PUNCT\n Idcirco$ ADV\n accidit$ VERB\n ut$ SCONJ\n ,$ PUNCT\n quantum$ ADV\n illos$ DET\n proximius$ ADV\n imitemur$ VERB\n ,$ PUNCT\n tantum$ ADV\n rectius$ ADV\n poetemur$ VERB\n .$ PUNCT\n Unde$ ADV\n nos$ PRON\n doctrine$ ADJ\n operi$ NOUN\n intendentes$ VERB\n doctrinatas$ ADJ\n eorum$ PRON\n poetrias$ NOUN\n emulari$ VERB\n oportet$ VERB\n .\n Ante$ ADP\n omnia$ DET\n ergo$ ADV\n dicimus$ VERB\n unumquenque$ DET\n debere$ VERB\n materie$ NOUN\n pondus$ NOUN\n propriis$ ADJ\n humeris$ NOUN\n coequare$ VERB\n ,$ PUNCT\n ne$ ADV\n forte$ ADV\n humerorum$ NOUN\n nimio$ ADJ\n gravata$ VERB\n virtute$ NOUN\n in$ ADP\n cenum$ NOUN\n cespitare$ VERB\n necesse$ ADJ\n sit$ AUX\n :$ PUNCT\n hoc$ DET\n est$ AUX\n quod$ PRON\n Magister$ PROPN\n noster$ DET\n Oratius$ ADJ\n precipit$ VERB\n cum$ SCONJ\n
+in\tADP\n principio\tNOUN\n Poetrie\tNOUN\n «\tPUNCT\n Sumite\tVERB\n materiam\tNOUN\n »\tPUNCT\n dicit\tVERB\n .\tPUNCT\n Si\tSCONJ\n tragice\tADJ\n canenda\tVERB\n videntur\tVERB\n ,\tPUNCT\n tunc\tADV\n assumendum\tVERB\n est\tAUX\n vulgare\tADJ\n illustre\tADJ\n ,\tPUNCT\n et\tCCONJ\n per\tADP\n consequens\tVERB\n cantionem\tNOUN\n ligare\tVERB\n .\tPUNCT\n Si\tSCONJ\n vero\tADV\n comice\tADJ\n ,\tPUNCT\n tunc\tADV\n quandoque\tADV\n mediocre\tADJ\n quandoque\tADV\n humile\tADJ\n vulgare\tADJ\n sumatur\tVERB\n :\tPUNCT\n et\tCCONJ\n huius\tDET\n discretionem\tNOUN\n in\tADP\n quarto\tADJ\n huius\tDET\n reservamus\tVERB\n ostendere\tVERB\n .\tPUNCT\n Si\tSCONJ\n autem\tPART\n elegiace\tADJ\n ,\tPUNCT\n solum\tADV\n humile\tADJ\n oportet\tVERB\n nos\tPRON\n sumere\tVERB\n .\tPUNCT\n Quare\tADV\n ,\tPUNCT\n si\tSCONJ\n bene\tADV\n recolimus\tVERB\n summa\tADJ\n summis\tADJ\n esse\tAUX\n digna\tADJ\n$\tPUNCT\n
+$iam ADV\n fuisse VERB\n probatum VERB\n , PUNCT\n et CCONJ\n iste DET\n quem PRON\n tragicum ADJ\n appellamus VERB\n summus ADJ\n videtur VERB\n esse AUX\n stilorum NOUN\n , PUNCT\n illa DET\n que PRON\n summe ADV\n canenda VERB\n distinximus VERB\n isto DET\n solo DET\n sunt AUX\n stilo NOUN\n canenda VERB\n videlicet ADV\n salus NOUN\n , PUNCT\n amor NOUN\n et CCONJ\n virtus NOUN\n et CCONJ\n que PRON\n propter ADP\n ea PRON\n concipimus VERB\n , PUNCT\n dum SCONJ\n nullo DET\n accidente NOUN\n vilescant VERB\n . PUNCT\n Sed CONJ\n cautionem NOUN\n atque CCONJ\n discretionem NOUN\n hanc DET\n accipere VERB\n , PUNCT\n sicut ADV\n decet VERB\n , PUNCT\n hic DET\n opus NOUN\n et CCONJ\n labor NOUN\n est VERB\n , PUNCT\n quoniam SCONJ\n nunquam ADV\n sine ADP\n strenuitate NOUN\n ingenii NOUN\n et CCONJ\n artis NOUN\n assiduitate NOUN\n scientiarumque NOUN\n $ PUNCT\n
+$scientiarum\tNOUN\n que\tCCONJ\n habitu\tNOUN\n fieri\tVERB\n potest\tVERB\n .\tPUNCT\n Et\tCONJ\n hii\tDET\n sunt\tAUX\n quos\tPRON\n Poeta\tNOUN\n Eneidorum\tNOUN\n sexto\tADJ\n Dei\tNOUN\n dilectos\tVERB\n et\tCCONJ\n ab\tADP\n ardente\tVERB\n virtute\tNOUN\n sublimatos\tVERB\n ad\tADP\n ethera\tNOUN\n deorumque\tNOUN\n deorum\tNOUN\n que\tCCONJ\n filios\tNOUN\n vocat\tVERB\n ,\tPUNCT\n quanquam\tCCONJ\n figurate\tADV\n loquatur\tVERB\n .\tPUNCT\n Et\tCCONJ\n ideo\tADV\n confutetur\tVERB\n illorum\tDET\n stultitia\tNOUN\n qui\tPRON\n ,\tPUNCT\n arte\tNOUN\n scientiaque\tNOUN\n scientia\tNOUN\n que\tCCONJ\n immunes\tADJ\n ,\tPUNCT\n de\tADP\n solo\tADJ\n ingenio\tNOUN\n confidentes\tVERB\n ,\tPUNCT\n ad\tADP\n summa\tADJ\n summe\tADV\n canenda\tVERB\n prorumpunt\tVERB\n ;\tPUNCT\n et\tCCONJ\n a\tADP\n tanta\tDET\n presumptuositate\tNOUN\n desistant\tVERB\n ,\tPUNCT\n et\tCCONJ\n si\tSCONJ\n anseres\tNOUN\n natura\tNOUN\n$
+vel CONJ\n
+desidia NOUN\n
+sunt VERB\n
+, PUNCT\n
+nolint VERB\n
+astripetam NOUN\n
+aquilam NOUN\n
+imitari VERB\n
+. PUNCT\n
+Quorum PRON\n
+omnium DET\n
+endecasillabum NOUN\n
+videtur VERB\n
+esse AUX\n
+superbius ADJ\n
+, PUNCT\n
+tam ADV\n
+temporis NOUN\n
+occupatione NOUN\n
+quam SCONJ\n
+capacitate NOUN\n
+sententie NOUN\n
+, PUNCT\n
+constructionis NOUN\n
+et CCONJ\n
+vocabulorum NOUN\n
+; PUNCT\n
+quorum PRON\n
+omnium DET\n
+specimen NOUN\n
+magis ADV\n
+multiplicatur VERB\n
+in ADP\n
+illo DET\n
+, PUNCT\n
+ut SCONJ\n
+manifeste ADV\n
+apparet VERB\n
+: PUNCT\n
+nam PART\n
+ubicunque ADV\n
+ponderosa ADJ\n
+multiplicantur VERB\n
+, PUNCT\n
+multiplicatur VERB\n
+et CCONJ\n
+pondus NOUN\n
+. PUNCT\n
+Sed CCONJ\n
+hoc PRON\n
+ulterius ADV\n
+elucidandum VERB\n
+remaneat VERB\n
+. PUNCT\n
+Et CCONJ\n
+sic ADV\n
+, PUNCT\n
+recolligentes VERB\n
+predicta ADJ\n
+, PUNCT\n
+endecasillabum NOUN\n
+videtur VERB\n
+esse AUX\n
+superbissimum ADJ\n
+carmen NOUN\n
+: PUNCT\n
+et\tCCONJ\n hoc\tDET\n est\tAUX\n quod\tPRON\n querebamus\tVERB\n .\tPUNCT\n Quia\tSCONJ\n circa\tADP\n vulgare\tADJ\n illustre\tADJ\n nostra\tDET\n versatur\tVERB\n intentio\tNOUN\n ,\tPUNCT\n quod\tPRON\n nobilissimum\tADJ\n est\tAUX\n aliorum\tDET\n ,\tPUNCT\n et\tCCONJ\n ea\tPRON\n que\tPRON\n digna\tADJ\n sunt\tAUX\n illo\tDET\n cantari\tVERB\n discrevimus\tVERB\n ,\tPUNCT\n que\tPRON\n tria\tNUM\n nobilissima\tADJ\n sunt\tAUX\n ,\tPUNCT\n ut\tSCONJ\n superius\tNOUN\n est\tAUX\n astructum\tVERB\n ,\tPUNCT\n et\tCCONJ\n modum\tNOUN\n cantionarium\tNOUN\n selegimus\tVERB\n illis\tDET\n ,\tPUNCT\n tanquam\tSCONJ\n aliorum\tDET\n modorum\tNOUN\n summum\tADJ\n ,\tPUNCT\n et\tCCONJ\n ,\tPUNCT\n ut\tSCONJ\n ipsum\tDET\n perfectius\tADV\n edocere\tVERB\n possimus\tVERB\n ,\tPUNCT\n quedam\tDET\n iam\tADV\n preparavimus\tVERB\n ,\tPUNCT\n stilum\tNOUN\n videlicet\tADV\n atque\tCCONJ\n carmen\tNOUN\n ,\tPUNCT\n $
+$nunc\tADV\n de\tADP\n constructione\tNOUN\n agamus\tVERB\n .\tPUNCT\n Est\tAUX\n enim\tPART\n sciendum\tVERB\n quod\tSCONJ\n constructionem\tNOUN\n vocamus\tVERB\n regulatam\tVERB\n compaginem\tNOUN\n dictionum\tNOUN\n ,\tPUNCT\n ut\tSCONJ\n “\tPUNCT\n Aristotiles\tPROPN\n phylosophatus\tVERB\n est\tAUX\n tempore\tNOUN\n Alexandri\tPROPN\n ”\tPUNCT\n .\tPUNCT\n Circa\tADP\n hanc\tDET\n quidem\tPART\n prius\tADV\n considerandum\tVERB\n est\tAUX\n quod\tSCONJ\n constructionum\tNOUN\n alia\tDET\n congrua\tADJ\n est\tAUX\n ,\tPUNCT\n alia\tDET\n vero\tADV\n incongrua\tADJ\n .\tPUNCT\n Pudeat\tVERB\n ergo\tADV\n ,\tPUNCT\n pudeat\tVERB\n ydiotas\tNOUN\n tantum\tADV\n audere\tVERB\n deinceps\tADV\n ut\tSCONJ\n ad\tADP\n cantiones\tNOUN\n prorumpant\tVERB\n :\tPUNCT\n quos\tPRON\n non\tPART\n aliter\tADV\n deridemus\tVERB\n quam\tSCONJ\n cecum\tADJ\n de\tADP\n coloribus\tNOUN\n distinguentem\tVERB\n .\tPUNCT\n Est\tAUX\n ut\tSCONJ\n videtur\tVERB\n$
+$congrua\tADJ\n quam\tADV\n sectamur\tVERB\n .\tPUNCT\n Sed\tCONJ\n non\tPART\n minoris\tADJ\n difficultatis\tNOUN\n accedit\tVERB\n discretio\tNOUN\n priusquam\tADP\n quam\tSCONJ\n querimus\tVERB\n actingamus\tVERB\n ,\tPUNCT\n videlicet\tCONJ\n urbanitate\tNOUN\n plenissimam\tADJ\n .\tPUNCT\n Hunc\tDET\n gradum\tNOUN\n constructionis\tNOUN\n excellentissimum\tADJ\n nominamus\tVERB\n ,\tPUNCT\n et\tCCONJ\n hic\tADV\n est\tAUX\n quem\tPRON\n querimus\tVERB\n cum\tADP\n suprema\tADJ\n venemur\tVERB\n ,\tPUNCT\n ut\tSCONJ\n dictum\tVERB\n est\tAUX\n .\tPUNCT\n Hoc\tDET\n solum\tADV\n illustres\tADJ\n cantiones\tNOUN\n inveniuntur\tVERB\n contexte\tVERB\n ,\tPUNCT\n ut\tSCONJ\n Gerardus\tPROPN\n :\tPUNCT\n Si\tSCONJ\n per\tADP\n mos\tNOUN\n Sobretos\tPROPN\n non\tPART\n fos\tAUX\n ;\tPUNCT\n Folquetus\tPROPN\n de\tADP\n Marsilia\tPROPN\n :\tPUNCT\n Tan\tADV\n m'\tPRON\n abellis\tVERB\n l'\tDET\n amoros\tADJ\n pensamen\tNOUN\n ;\tPUNCT\n$\tPUNCT\n
+Tegno$ VERB\n
+$de ADP\n folle ADJ\n empresa NOUN\n a ADP\n lo DET\n ver ADJ\n dire NOUN\n ; PUNCT\n Guido PROPN\n Cavalcantis PROPN\n : PUNCT\n Poi CCONJ\n che SCONJ\n di ADP\n doglia NOUN\n cor NOUN\n conven VERB\n ch' SCONJ\n io PRON\n porti VERB\n ; PUNCT\n Cynus NOUN\n de ADP\n Pistorio PROPN\n : PUNCT\n Avegna NOUN\n che SCONJ\n io PRON\n aggia AUX\n più ADV\n per ADP\n tempo NOUN\n ; PUNCT\n amicus NOUN\n eius PRON\n : PUNCT\n Amor NOUN\n che SCONJ\n ne PRON\n la DET\n mente NOUN\n mi PRON\n ragiona VERB\n . PUNCT\n Nec CCONJ\n mireris VERB\n , PUNCT\n lector NOUN\n , PUNCT\n de ADP\n tot DET\n reductis NOUN\n autoribus NOUN\n ad ADP\n memoriam NOUN\n : PUNCT\n non PART\n enim PART\n hanc DET\n quam PRON\n suppremam ADJ\n vocamus VERB\n constructionem NOUN\n nisi SCONJ\n per ADP\n huiusmodi DET\n$
+exempla\tNOUN\n possumus\tVERB\n indicare\tVERB\n .\tPUNCT\n Et\tCCONJ\n fortassis\tADV\n utilissimum\tADJ\n foret\tAUX\n ad\tADP\n illam\tDET\n habituandam\tVERB\n regulatos\tVERB\n vidisse\tVERB\n poetas\tNOUN\n ,\tPUNCT\n Virgilium\tPROPN\n videlicet\tADV\n ,\tPUNCT\n Ovidium\tPROPN\n Metamorfoseos\tNOUN\n ,\tPUNCT\n Statium\tPROPN\n atque\tCCONJ\n Lucanum\tPROPN\n ,\tPUNCT\n nec\tCCONJ\n non\tPART\n alios\tDET\n qui\tPRON\n nisi\tSCONJ\n sunt\tAUX\n altissimas\tADJ\n prosas\tNOUN\n ,\tPUNCT\n ut\tSCONJ\n Titum\tPROPN\n Livium\tPROPN\n ,\tPUNCT\n Plinium\tPROPN\n ,\tPUNCT\n Frontinum\tPROPN\n ,\tPUNCT\n Paulum\tPROPN\n Orosium\tPROPN\n et\tCCONJ\n multos\tDET\n alios\tDET\n quos\tPRON\n amica\tADJ\n sollicitudo\tNOUN\n nos\tPRON\n visitare\tVERB\n invitat\tVERB\n .\tPUNCT\n Subsistant\tVERB\n igitur\tADV\n ignorantie\tNOUN\n sectatores\tNOUN\n Guictonem\tPROPN\n Aretinum\tADJ\n et\tCCONJ\n quosdam\tDET\n alios\tDET\n extollentes\tVERB\n ,\tPUNCT\n nunquam\tADV\n
+Split the sentence only at every whitespace. Do not split the idividual tokens further. Return the UPOS tag for the tokens of the sentence in between the two dollar signs $in vocabulis atque constructione plebescere desuetos . Testamur proinde incipientes non minimum opus esse rationis discretionem vocabulorum habere , quoniam perplures eorum maneries inveniri posse videmus . Nam vocabulorum quedam puerilia , quedam muliebria , quedam virilia ; et horum quedam silvestria , quedam urbana ; et eorum que urbana vocamus , quedam pexa et lubrica , quedam yrsuta et reburra sentimus . Intuearis ergo ,$ in ADP\n vocabulis NOUN\n atque CCONJ\n constructione NOUN\n plebescere VERB\n desuetos ADJ\n . PUNCT\n Testamur VERB\n proinde ADV\n incipientes VERB\n non ADV\n minimum ADJ\n opus NOUN\n esse AUX\n rationis NOUN\n discretionem NOUN\n vocabulorum NOUN\n habere VERB\n , PUNCT\n quoniam SCONJ\n perplures ADJ\n eorum PRON\n maneries NOUN\n inveniri VERB\n posse VERB\n videmus VERB\n . PUNCT\n Nam PART\n vocabulorum NOUN\n quedam DET\n puerilia ADJ\n , PUNCT\n quedam DET\n muliebria ADJ\n , PUNCT\n quedam DET\n virilia ADJ\n ; PUNCT\n et CCONJ\n horum PRON\n quedam DET\n silvestria ADJ\n , PUNCT\n quedam DET\n urbana ADJ\n ; PUNCT\n et CCONJ\n eorum PRON\n que CCONJ\n urbana ADJ\n vocamus VERB\n , PUNCT\n quedam DET\n pexa ADJ\n et CCONJ\n lubrica ADJ\n , PUNCT\n quedam DET\n yrsuta ADJ\n et CCONJ\n reburra ADJ\n sentimus VERB\n . PUNCT\n Intuearis VERB\n ergo ADV\n , PUNCT\n
+$lector\ ADJ\n ,\ PUNCT\n actente\ VERB\n quantum\ ADV\n ad\ ADP\n exaceranda\ VERB\n egregia\ ADJ\n verba\ NOUN\n te\ PRON\n cribrare\ VERB\n oportet\ VERB\n :\ PUNCT\n nam\ PART\n si\ SCONJ\n vulgare\ ADJ\n illustre\ ADJ\n consideres\ VERB\n ,\ PUNCT\n quo\ PRON\n tragici\ ADJ\n debent\ VERB\n uti\ SCONJ\n poete\ NOUN\n vulgares\ ADJ\n ,\ PUNCT\n ut\ SCONJ\n superius\ ADV\n dictum\ VERB\n est\ AUX\n ,\ PUNCT\n quos\ PRON\n informare\ VERB\n intendimus\ VERB\n ,\ PUNCT\n sola\ ADJ\n vocabula\ NOUN\n nobilissima\ ADJ\n in\ ADP\n cribro\ NOUN\n tuo\ PRON\n residere\ VERB\n curabis\ VERB\n .\ PUNCT\n Sola\ ADJ\n etenim\ ADV\n pexa\ ADJ\n yrsutaque\ ADJ\n yrsuta\ ADJ\n que\ CONJ\n urbana\ ADJ\n tibi\ PRON\n restare\ VERB\n videbis\ VERB\n ,\ PUNCT\n que\ SCONJ\n nobilissima\ ADJ\n sunt\ AUX\n et\ CCONJ\n membra\ NOUN\n vulgaris\ ADJ\n illustris\ ADJ\n .\ PUNCT\n Et\ CONJ\n pexa\ ADJ\n vocamus\ VERB\n illa\ PRON\n $\n
+$que CCONJ\n , PUNCT\n trisillaba ADJ\n vel CCONJ\n vicinissima ADJ\n trisillabitati NOUN\n , PUNCT\n sine ADP\n aspiratione NOUN\n , NOUN\n sine ADP\n accentu NOUN\n acuto ADJ\n vel CCONJ\n circumflexo ADJ\n , PUNCT\n sine ADP\n z NOUN\n vel CCONJ\n x NOUN\n duplicibus ADJ\n , PUNCT\n sine ADP\n duarum NUM\n liquidarum ADJ\n geminatione NOUN\n vel CCONJ\n positione NOUN\n inmediate ADJ\n post ADP\n mutam ADJ\n , PUNCT\n dolata VERB\n quasi ADV\n , PUNCT\n loquentem VERB\n cum ADP\n quadam DET\n suavitate NOUN\n relinquunt VERB\n : PUNCT\n ut CCONJ\n amore NOUN\n , PUNCT\n donna NOUN\n , PUNCT\n disio NOUN\n , PUNCT\n virtute NOUN\n , PUNCT\n donare VERB\n , PUNCT\n letitia NOUN\n , PUNCT\n salute NOUN\n , PUNCT\n securtate NOUN\n , PUNCT\n defesa VERB\n . PUNCT\n Et CCONJ\n necessaria ADJ\n quidem PART\n appellamus VERB\n que CCONJ\n campsare VERB\n
+non\tADV\n possumus\tVERB\n ,\tPUNCT\n ut\tADV\n quedam\tDET\n monosillaba\tADJ\n ,\tPUNCT\n ut\tCCONJ\n sì\tADV\n ,\tPUNCT\n no\tADV\n ,\tPUNCT\n me\tPRON\n ,\tPUNCT\n te\tPRON\n ,\tPUNCT\n se\tPRON\n ,\tPUNCT\n a\tADP\n ,\tPUNCT\n e\tCONJ\n ,\tPUNCT\n i\tNOUN\n ,\tPUNCT\n o\tX\n ,\tPUNCT\n u'\tNOUN\n ,\tPUNCT\n interiectiones\tNOUN\n et\tCCONJ\n alia\tDET\n multa\tDET\n .\tPUNCT\n Posset\tVERB\n adhuc\tADV\n inveniri\tVERB\n plurium\tDET\n sillabarum\tNOUN\n vocabulum\tNOUN\n sive\tCCONJ\n verbum\tNOUN\n ,\tPUNCT\n sed\tCCONJ\n quia\tSCONJ\n capacitatem\tNOUN\n omnium\tDET\n nostrorum\tDET\n carminum\tNOUN\n superexcedit\tVERB\n ,\tPUNCT\n rationi\tNOUN\n presenti\tADJ\n non\tPART\n videtur\tVERB\n obnoxium\tADJ\n ,\tPUNCT\n sicut\tSCONJ\n est\tAUX\n illud\tDET\n honorificabilitudinitate\tNOUN\n ,\tPUNCT\n quod\tPRON\n duodena\tADJ\n perficitur\tVERB\n sillaba\tNOUN\n in\tADP\n
+$vulgari$\tADJ\n $et$\tCCONJ\n $in$\tADP\n $gramatica$\tNOUN\n $tredena$\tADJ\n $perficitur$\tVERB\n $in$\tADP\n $duobus$\tNUM\n $obliquis$\tADJ\n $.$\tPUNCT\n $Quomodo$\tADV\n $autem$\tPART\n $pexis$\tNOUN\n $yrsuta$\tADJ\n $huiusmodi$\tADV\n $sint$\tAUX\n $armonizanda$\tVERB\n $per$\tADP\n $metra$\tNOUN\n $,$\tPUNCT\n $inferius$\tADV\n $instruendum$\tVERB\n $relinquimus$\tVERB\n $.$\tPUNCT\n $Et$\tCCONJ\n $que$\tCCONJ\n $iam$\tADV\n $dicta$\tVERB\n $sunt$\tAUX\n $de$\tADP\n $fastigiositate$\tNOUN\n $vocabulorum$\tNOUN\n $ingenue$\tADV\n $discretioni$\tNOUN\n $sufficiant$\tVERB\n $.$\tPUNCT\n $Preparatis$\tVERB\n $fustibus$\tNOUN\n $torquibusque$\tNOUN\n $torquibus$\tNOUN\n $que$\tCCONJ\n $ad$\tADP\n $fascem$\tNOUN\n $,$\tPUNCT\n $nunc$\tADV\n $fasciandi$\tVERB\n $tempus$\tNOUN\n $incumbit$\tVERB\n $.$\tPUNCT\n $Sed$\tCCONJ\n $quia$\tSCONJ\n $cuiuslibet$\tDET\n $operis$\tNOUN\n $cognitio$\tNOUN\n $precedere$\tVERB\n $debet$\tVERB\n $operationem$\tNOUN\n $,$\tPUNCT\n $velut$\tSCONJ\n $signum$\tNOUN\n $ante$\tADP\n $ammissionem$\tNOUN\n $sagipte$\tNOUN\n $vel$\tCCONJ\n $iaculi$\tNOUN\n $, $\tPUNCT\n
+Split the sentence only at every whitespace. Do not split the idividual tokens further. Return the UPOS tag for the tokens of the sentence in between the two dollar signs $primo et principaliter qui sit iste fascis quem fasciare intendimus videamus . Fascis iste igitur , si bene comminiscimur omnia prelibata , cantio est . Quapropter quid sit cantio videamus , et quid intelligimus cum dicimus cantionem . Est enim cantio , secundum verum nominis significatum , ipse canendi actus vel passio , sicut lectio passio vel actus legendi . Sed divaricemus quod dictum est ,$
+utrum PRON\n
+videlicet SCONJ\n
+hec DET\n
+sit AUX\n
+cantio NOUN\n
+prout SCONJ\n
+est AUX\n
+actus NOUN\n
+, PUNCT\n
+vel CCONJ\n
+prout SCONJ\n
+est AUX\n
+passio NOUN\n
+. PUNCT\n
+Et CCONJ\n
+quia SCONJ\n
+prius ADV\n
+agitur VERB\n
+ipsa DET\n
+quam SCONJ\n
+agat VERB\n
+, PUNCT\n
+magis ADV\n
+, PUNCT\n
+immo ADV\n
+prorsus ADV\n
+denominari VERB\n
+videtur VERB\n
+ab ADP\n
+eo PRON\n
+quod PRON\n
+agitur VERB\n
+, PUNCT\n
+et CCONJ\n
+est AUX\n
+actio NOUN\n
+aliquius DET\n
+, PUNCT\n
+quam SCONJ\n
+ab ADP\n
+eo PRON\n
+quod PRON\n
+agit VERB\n
+in ADP\n
+alios DET\n
+. PUNCT\n
+Sed CCONJ\n
+quia SCONJ\n
+sola DET\n
+vulgaria ADJ\n
+ventilamus VERB\n
+, PUNCT\n
+regulata NOUN\n
+linquentes VERB\n
+, PUNCT\n
+dicimus VERB\n
+vulgarium ADJ\n
+poematum NOUN\n
+unum DET\n
+esse AUX\n
+suppremum ADJ\n
+, PUNCT\n
+quod PRON\n
+per ADP\n
+superexcellentiam NOUN\n
+cantionem NOUN\n
+\n\n
+Split the sentence only at every whitespace. Do not split the idividual tokens further. Return the UPOS tag for the tokens of the sentence in between the two dollar signs $vocamus : quod autem suppremum quid sit cantio , in tertio huius libri capitulo est probatum . Quod autem dicimus “ tragica coniugatio ” est quia , cum comice fiat hec coniugatio , cantilenam vocamus per diminutionem : de qua in quarto huius tractare intendimus . Satis etiam patere videtur quid intelligimus cum cantionem vocamus , et per consequens quid sit ille fascis quem ligare molimur$
+Quia$ SCONJ$
+,$ PUNCT$
+ut$ SCONJ$
+dictum$ VERB$
+est$ AUX$
+,$ PUNCT$
+cantio$ NOUN$
+est$ AUX$
+coniugatio$ NOUN$
+stantiarum$ NOUN$
+,$ PUNCT$
+ignorato$ VERB$
+quid$ PRON$
+sit$ AUX$
+stantia$ NOUN$
+necesse$ ADJ$
+est$ AUX$
+cantionem$ NOUN$
+ignorare$ VERB$
+:$ PUNCT$
+nam$ PART$
+ex$ ADP$
+diffinientium$ VERB$
+cognitione$ NOUN$
+diffiniti$ VERB$
+resultat$ VERB$
+cognitio$ NOUN$
+;$ PUNCT$
+et$ CCONJ$
+ideo$ ADV$
+consequenter$ ADV$
+de$ ADP$
+stantia$ NOUN$
+est$ AUX$
+agendum$ VERB$
+,$ PUNCT$
+ut$ SCONJ$
+scilicet$ ADV$
+investigemus$ VERB$
+quid$ PRON$
+ipsa$ DET$
+sit$ AUX$
+et$ CCONJ$
+quid$ PRON$
+per$ ADP$
+eam$ PRON$
+intelligere$ VERB$
+volumus$ VERB$
+.$ PUNCT$
+Et$ CCONJ$
+circa$ ADP$
+hoc$ DET$
+sciendum$ VERB$
+est$ AUX$
+quod$ SCONJ$
+hoc$ DET$
+vocabulum$ NOUN$
+per$ ADP$
+solius$ DET$
+artis$ NOUN$
+respectum$ NOUN$
+inventum$ VERB$
+est$ AUX$
+,$ PUNCT$
+videlicet$ ADV$
+$ PUNCT$
+
+ut PART\n
+in SCONJ\n
+quo PRON\n
+tota DET\n
+cantionis NOUN\n
+ars NOUN\n
+esset AUX\n
+contenta ADJ\n
+, PUNCT\n
+illud DET\n
+diceretur VERB\n
+stantia ADJ\n
+, PUNCT\n
+hoc DET\n
+est AUX\n
+mansio NOUN\n
+capax ADJ\n
+sive CCONJ\n
+receptaculum NOUN\n
+totius DET\n
+artis NOUN\n
+. PUNCT\n
+Per ADP\n
+quod PRON\n
+patet VERB\n
+quod SCONJ\n
+ipsa DET\n
+de ADP\n
+qua PRON\n
+loquimur VERB\n
+erit AUX\n
+congremiatio NOUN\n
+sive CCONJ\n
+compages NOUN\n
+omnium DET\n
+eorum PRON\n
+que PRON\n
+cantio NOUN\n
+sumit VERB\n
+ab ADP\n
+arte NOUN\n
+: PUNCT\n
+quibus PRON\n
+divaricatis VERB\n
+, PUNCT\n
+quam PRON\n
+querimus VERB\n
+descriptio NOUN\n
+innotescet VERB\n
+. PUNCT\n
+Si SCONJ\n
+quid PRON\n
+autem PART\n
+rithimi NOUN\n
+servare VERB\n
+interest VERB\n
+huius DET\n
+quod PRON\n
+est AUX\n
+ars NOUN\n
+, PUNCT\n
+illud DET\n
+comprehenditur VERB\n
+ibi ADV\n
+cum SCONJ\n
+dicimus VERB\n
+
+partium\tNOUN\n habitudinem\tNOUN\n ”\tPUNCT\n .\tPUNCT\n Scientes\tVERB\n quia\tSCONJ\n rationale\tADJ\n animal\tNOUN\n homo\tNOUN\n est\tAUX\n et\tCCONJ\n quia\tSCONJ\n sensibilis\tADJ\n anima\tNOUN\n et\tCCONJ\n corpus\tNOUN\n est\tAUX\n animal\tNOUN\n ,\tPUNCT\n et\tCCONJ\n ignorantes\tVERB\n de\tADP\n hac\tDET\n anima\tNOUN\n quid\tPRON\n ea\tPRON\n sit\tAUX\n ,\tPUNCT\n vel\tCCONJ\n de\tADP\n ipso\tDET\n corpore\tNOUN\n ,\tPUNCT\n perfectam\tADJ\n hominis\tNOUN\n cognitionem\tNOUN\n habere\tVERB\n non\tPART\n possumus\tVERB\n :\tPUNCT\n quia\tSCONJ\n cognitionis\tNOUN\n perfectio\tNOUN\n uniuscuiusque\tDET\n terminatur\tVERB\n ad\tADP\n ultima\tADJ\n elementa\tNOUN\n ,\tPUNCT\n sicut\tSCONJ\n Magister\tNOUN\n Sapientum\tNOUN\n in\tADP\n principio\tNOUN\n Physicorum\tNOUN\n testatur\tVERB\n .\tPUNCT\n Si\tSCONJ\n repetitio\tNOUN\n fiat\tVERB\n post\tADP\n diesim\tNOUN\n ,\tPUNCT\n tunc\tADV\n dicimus\tVERB\n$
+Split the sentence only at every whitespace. Do not split the idividual tokens further. Return the UPOS tag for the tokens of the sentence in between the two dollar signs $stantiam habere versus . Si ante non fiat repetitio , stantiam dicimus habere frontem . Vide ergo , lector , quanta licentia data sit cantiones poetantibus , et considera cuius rei causa tam largum arbitrium usus sibi asciverit ; et si recto calle ratio te duxerit , videbis autoritatis dignitate sola quod dicimus esse concessum . Satis hinc innotescere potest quomodo cantionis ars circa cantus divisionem$ ADJ NOUN VERB NOUN PUNCT ADV ADV VERB NOUN PUNCT NOUN VERB VERB NOUN PUNCT NOUN VERB VERB NOUN PUNCT VERB VERB NOUN NOUN VERB NOUN PUNCT CCONJ VERB NOUN ADJ ADJ NOUN VERB NOUN PUNCT CCONJ VERB VERB NOUN PUNCT CCONJ ADV ADJ NOUN NOUN NOUN VERB VERB PUNCT CCONJ INTJ NOUN NOUN VERB VERB ADV NOUN VERB VERB ADV PUNCT CCONJ PRON NOUN VERB AUX NOUN PUNCT VERB ADJ VERB NUM NOUN NOUN PUNCT CCONJ NOUN VERB AUX NOUN ADJ VERB NOUN VERB PUNCT ADV ADJ NOUN PUNCT CCONJ AUX NOUN ADJ NOUN NOUN NOUN VERB AUX PRON VERB PUNCT ADV ADJ NOUN VERB VERB NOUN NOUN PUNCT ADV ADV VERB VERB NOUN VERB NOUN VERB PUNCT VERB NOUN VERB NOUN PUNCT NOUN NOUN VERB VERB NOUN NOUN PUNCT ADJ ADV VERB VERB NOUN NOUN PUNCT NOUN NOUN VERB AUX NOUN NOUN PUNCT NOUN NOUN VERB PUNCT NOUN VERB VERB NOUN NOUN PUNCT PUNCT ADV ADV PUNCT PROPN NOUN NOUN VERB ADP NOUN NOUN PUNCT PUNCT ADV ADJ PUNCT PUNCT PUNCT VERB VERB PUNCT ADV ADP NOUN NOUN NOUN VERB NOUN PUNCT ADJ ADV VERB VERB NOUN VERB VERB NOUN ADJ NOUN PUNCT PUNCT ADV ADV PUNCT NOUN VERB NOUN ADP NOUN NOUN NOUN VERB PUNCT VERB PUNCT ADV ADJ PUNCT PUNCT PUNCT PUNCT NOUN NOUN VERB VERB NOUN NOUN PUNCT PUNCT ADJ VERB VERB NOUN VERB NOUN ADJ NOUN ADJ VERB VERB PUNCT NUM ADP VERB VERB PUNCT VERB NOUN NOUN PUNCT VERB PUNCT NOUN PUNCT PUNCT ADJ ADV VERB NOUN VERB PUNCT VERB PUNCT NOUN NOUN PUNCT PROPN ADJ NOUN ADP NOUN NOUN VERB VERB PUNCT PUNCT NOUN PUNCT PUNCT ADV ADJ PUNCT PUNCT VERB VERB PUNCT ADJ NOUN PUNCT PUNCT PUNCT AUX PRON PUNCT NOUN PUNCT NOUN PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT VERB PUNCT PUNCT NOUN PUNCT PUNCT ADJ NOUN PUNCT PUNCT ADV ADV PUNCT ADJ NOUN VERB PUNCT PUNCT PUNCT PUNCT PUNCT AUX VERB PUNCT VERB VERB NOUN ADP NOUN NOUN VERB DET PUNCT VERB PUNCT NOUN NOUN NOUN NOUN VERB VERB NOUN VERB ADJ VERB NOUN PUNCT VERB ADJ NOUN PUNCT CCONJ NOUN NOUN PUNCT PUNCT NOUN PUNCT PUNCT PUNCT PUNCT ADJ NOUN NOUN NOUN VERB PUNCT NOUN ADJ NOUN PUNCT PUNCT PUNCT VERB PUNCT PUNCT ADJ PUNCT PUNCT CCONJ NOUN ADJ PUNCT PUNCT CCONJ NOUN PUNCT CCONJ PUNCT NOUN PUNCT ADJ NOUN PUNCT PUNCT ADJ NOUN NOUN NOUN VERB PUNCT NOUN NOUN NOUN PUNCT ADJ NOUN PUNCT CCONJ ADJ NOUN PUNCT VERB PUNCT PUNCT ADJ NOUN PUNCT ADJ VERB VERB NOUN PUNCT NOUN NOUN PUNCT NOUN PUNCT NOUN VERB PUNCT NOUN VERB ADJ PUNCT VERB VERB VERB NOUN PUNCT NOUN NOUN PUNCT PUNCT ADV PUNCT ADJ PUNCT NOUN NOUN PUNCT NOUN NOUN NOUN VERB NOUN PUNCT PUNCT VERB ADJ NOUN PUNCT ADP NOUN PUNCT NOUN NOUN PUNCT VERB NOUN NOUN VERB ADP NOUN NOUN VERB PUNCT PUNCT NOUN NOUN PUNCT ADV ADJ NOUN ADP NOUN PUNCT NOUN PUNCT AUX VERB PUNCT VERB VERB PUNCT PUNCT NOUN ADJ PUNCT NOUN NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN VERB AUX NOUN PUNCT NOUN ADJ NOUN NOUN VERB PUNCT CCONJ PUNCT NOUN PUNCT ADJ NOUN PUNCT VERB PUNCT CCONJ PRON PUNCT PUNCT VERB VERB NOUN PUNCT NOUN NOUN ADJ NOUN PUNCT ADJ PUNCT NOUN ADJ VERB ADV NOUN ADJ NOUN ADJ VERB PUNCT ADV PUNCT ADJ NOUN VERB ADJ ADJ NOUN VERB PUNCT PUNCT NOUN PUNCT PUNCT PUNCT NOUN VERB NOUN NOUN ADJ PUNCT ADJ NOUN PUNCT CCONJ ADV ADJ NOUN NOUN PUNCT PUNCT VERB NOUN VERB NOUN PUNCT VERB NOUN NOUN NOUN PUNCT CCONJ ADJ NOUN ADJ NOUN PUNCT CCONJ PRON VERB VERB ADJ PUNCT ADV ADJ NOUN NOUN PUNCT VERB PUNCT ADJ VERB PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT PUNCT YYSTACK
+$consistat$\tVERB\n $;$\tPUNCT\n $et$\tCCONJ\n $ideo$\tADV\n $ad$\tADP\n $habitudinem$\tNOUN\n $procedamus$\tVERB\n .$\tPUNCT\n $Videtur$\tVERB\n $nobis$\tPRON\n $hec$\tDET\n $quam$\tSCONJ\n $habitudinem$\tNOUN\n $dicimus$\tVERB\n $maxima$\tADJ\n $pars$\tNOUN\n $eius$\tPRON\n $quod$\tPRON\n $artis$\tNOUN\n $est$\tAUX\n .$\tPUNCT\n $Incipientes$\tVERB\n $igitur$\tADV\n $dicimus$\tVERB\n $quod$\tSCONJ\n $frons$\tNOUN\n $cum$\tADP\n $versibus$\tNOUN\n $,$\tPUNCT\n $pedes$\tNOUN\n $cum$\tADP\n $cauda$\tNOUN\n $vel$\tCCONJ\n $sirmate$\tNOUN\n $,$\tPUNCT\n $nec$\tCCONJ\n $non$\tPART\n $pedes$\tNOUN\n $cum$\tADP\n $versibus$\tNOUN\n $,$\tPUNCT\n $in$\tADP\n $stantia$\tNOUN\n $se$\tPRON\n $diversimode$\tADV\n $habere$\tVERB\n $possunt$\tVERB\n .$\tPUNCT\n $Quandoque$\tADV\n $in$\tADP\n $carminibus$\tNOUN\n $excedere$\tVERB\n $et$\tCCONJ\n $in$\tADP\n $sillabis$\tNOUN\n $superari$\tVERB\n $potest$\tVERB\n ,$COMMASEP\n $ut$\tSCONJ\n $si$\tSCONJ\n $frons$\tNOUN\n $esset$\tAUX\n $pentametra$\tNOUN\n $et$\tCCONJ\n $quilibet$\tDET\n $versus$\tNOUN\n $.$\tPUNCT\n
+esset\tVERB\n dimeter\tADJ\n ,\tPUNCT\n et\tCCONJ\n metra\tADJ\n frontis\tNOUN\n eptasillaba\tADJ\n et\tCCONJ\n versus\tNOUN\n endecasillaba\tADJ\n essent\tAUX\n .\tPUNCT\n Quandoque\tADV\n versus\tNOUN\n frontem\tNOUN\n superant\tVERB\n sillabis\tNOUN\n et\tCCONJ\n carminibus\tNOUN\n ,\tPUNCT\n ut\tSCONJ\n in\tADP\n illa\tDET\n quam\tPRON\n dicimus\tVERB\n Traggemi\tDET\n de\tADP\n la\tDET\n mente\tNOUN\n amor\tNOUN\n la\tDET\n stiva\tNOUN\n :\tPUNCT\n fuit\tAUX\n hec\tDET\n tetrametra\tADJ\n frons\tNOUN\n ,\tPUNCT\n tribus\tNOUN\n endecasillabis\tADJ\n et\tCCONJ\n uno\tDET\n eptasillabo\tADJ\n contexta\tVERB\n ;\tPUNCT\n non\tPART\n etenim\tCCONJ\n potuit\tVERB\n in\tADP\n pedes\tNOUN\n dividi\tVERB\n ,\tPUNCT\n cum\tSCONJ\n equalitas\tNOUN\n carminum\tNOUN\n et\tCCONJ\n sillabarum\tNOUN\n requiratur\tVERB\n in\tADP\n pedibus\tNOUN\n inter\tADP\n se\tPRON\n ,\tPUNCT\n et\tCCONJ\n etiam\tADV\n in\tADP\n$\tX\n
+versibus\tNOUN\n inter\tADP\n se\tPRON\n .\tPUNCT\n Quandoque\tADV\n vero\tADV\n pedes\tNOUN\n caudam\tNOUN\n superant\tVERB\n carminibus\tNOUN\n et\tCCONJ\n sillabis\tNOUN\n ,\tPUNCT\n ut\tSCONJ\n in\tADP\n illa\tDET\n quam\tPRON\n diximus\tVERB\n Amor\tPROPN\n ,\tPUNCT\n che\tPRON\n movi\tVERB\n tua\tDET\n virtù\tNOUN\n da\tADP\n cielo\tNOUN\n .\tPUNCT\n Et\tCCONJ\n quemadmodum\tSCONJ\n diximus\tVERB\n frontem\tNOUN\n posse\tVERB\n superare\tVERB\n carminibus\tNOUN\n ,\tPUNCT\n sillabis\tNOUN\n superatam\tVERB\n ,\tPUNCT\n et\tCCONJ\n e\tCCONJ\n converso\tNOUN\n sic\tADV\n de\tADP\n sirmate\tNOUN\n dicimus\tVERB\n .\tPUNCT\n Pedes\tNOUN\n quoque\tADV\n versus\tNOUN\n in\tADP\n numero\tNOUN\n superant\tVERB\n et\tCCONJ\n superantur\tVERB\n ab\tADP\n hiis\tDET\n :\tPUNCT\n possunt\tVERB\n enim\tPART\n esse\tAUX\n in\tADP\n stantia\tNOUN\n tres\tNUM\n pedes\tNOUN\n et\tCCONJ\n duo\tNUM\n $\tPUNCT\n
+$versus$\t ADJ\n $,$\t PUNCT\n $et$\t CCONJ\n $tres$\t NUM\n $versus$\t NOUN\n $et$\t CCONJ\n $duo$\t NUM\n $pedes$\t NOUN\n $;$\t PUNCT\n $nec$\t CCONJ\n $hoc$\t DET\n $numero$\t NOUN\n $limitamur$\t VERB\n $,$\t PUNCT\n $quin$\t SCONJ\n $liceat$\t VERB\n $plures$\t DET\n $et$\t CCONJ\n $pedes$\t NOUN\n $et$\t CCONJ\n $versus$\t NOUN\n $simul$\t ADV\n $contexere$\t VERB\n $.$\t PUNCT\n $Et$\t CCONJ\n $quemadmodum$\t SCONJ\n $de$\t ADP\n $victoria$\t NOUN\n $carminum$\t NOUN\n $et$\t CCONJ\n $sillabarum$\t NOUN\n $diximus$\t VERB\n $inter$\t ADP\n $alia$\t DET\n $,$\t PUNCT\n $nunc$\t ADV\n $etiam$\t ADV\n $inter$\t ADP\n $pedes$\t NOUN\n $et$\t CCONJ\n $versus$\t NOUN\n $dicimus$\t VERB\n $:$\t PUNCT\n $nam$\t PART\n $eodem$\t DET\n $modo$\t NOUN\n $vinci$\t VERB\n $et$\t CCONJ\n $vincere$\t VERB\n $possunt$\t VERB\n $.$\t PUNCT\n $Nec$\t CCONJ\n $etiam$\t ADV\n $pretermictendum$\t VERB\n $est$\t AUX\n $quin$\t SCONJ\n $iterum$\t ADV\n $asseramus$\t VERB\n $pedes$\t NOUN\n $ab$\t ADP\n $invicem$\t ADV\n $necessario$\t ADV\n $carminum$\t NOUN\n $et$\t CCONJ\n $sillabarum$\t NOUN\n $equalitatem$\t NOUN\n $.$\t PUNCT\n
+$et\tccnj$\n $habitudinem\t\text{noun}$\n $accipere\tverb$\n $,\t\punct$\n $quia\t\scnj$\n $non\t\part$\n $aliter\t\adv$\n $cantus\t\noun$\n $repetitio\t\noun$\n $fieri\tverb$\n $posset\tverb$\n $.\t\punct$\n $Quedam\t\det$\n $est\t\verb$\n $in\t\adp$\n $qua\t\prn$\n $tantum\t\adv$\n $eptasillabum\t\noun$\n $intexitur\tverb$\n $unum\t\det$\n $:\t\punct$\n $et\t\ccnj$\n $hoc\t\det$\n $esse\t\verb$\n $non\t\part$\n $potest\tverb$\n $nisi\t\scnj$\n $ubi\t\adv$\n $frons\t\noun$\n $est\t\verb$\n $vel\t\ccnj$\n $cauda\t\noun$\n $,\t\punct$\n $quoniam\t\scnj$\n $,\t\punct$\n $ut\t\adv$\n $dictum\tverb$\n $est\t\verb$\n $,\t\punct$\n $in\t\adp$\n $pedibus\t\noun$\n $atque\t\ccnj$\n $versibus\t\noun$\n $actenditur\tverb$\n $equalitas\t\noun$\n $carminum\t\noun$\n $et\t\ccnj$\n $sillabarum\t\noun$\n $.\t\punct$\n $Verumtamen\t\adv$\n $Verum\t\noun$\n $tamen\t\adv$\n $quosdam\t\det$\n $ab\t\adp$\n $eptasillabo\t\noun$\n $tragice\t\adj$\n $principiasse\tverb$\n $invenimus\tverb$\n $,\t\punct$\n $videlicet\t\ccnj$\n $Guidonem\t\noun$\n $Guinizelli\t\noun$\n $,\t\punct$\n $Guidonem\t\noun$\n $de\t\adp$\n $Ghisileriis\t\noun$\n $.\t\punct$\n
+$et\tCCONJ\n Fabrutium\tPROPN\n Bononienses\tADJ\n :\tPUNCT\n Di\tADP\n fermo\tADJ\n sofferire\tVERB\n ,\tPUNCT\n et\tCCONJ\n Donna\tPROPN\n ,\tPUNCT\n lo\tDET\n fermo\tADJ\n core\tNOUN\n ,\tPUNCT\n et\tCCONJ\n Lo\tDET\n meo\tDET\n lontano\tADJ\n gire\tVERB\n ;\tPUNCT\n et\tCCONJ\n quosdam\tDET\n alios\tDET\n .\tPUNCT\n Minime\tADV\n autem\tPART\n trisillabum\tADJ\n in\tADP\n tragico\tADJ\n videtur\tVERB\n esse\tAUX\n sumendum\tVERB\n per\tADP\n se\tPRON\n subsistens\tADJ\n :\tPUNCT\n et\tCCONJ\n dico\tVERB\n “\tPUNCT\n per\tADP\n se\tPRON\n subsistens\tADJ\n ”\tPUNCT\n quia\tSCONJ\n per\tADP\n quandam\tDET\n rithimorum\tNOUN\n repercussionem\tNOUN\n frequenter\tADV\n videtur\tVERB\n assumptum\tVERB\n ,\tPUNCT\n sicut\tSCONJ\n inveniri\tVERB\n potest\tVERB\n in\tADP\n illa\tDET\n Guidonis\tPROPN\n Florentini\tADJ\n Donna\tPROPN\n me\tPRON\n prega\tVERB\n ,\tPUNCT\n et\tCCONJ\n in\tADP\n$
+$illa$ PRON\n $quam$ PRON\n $diximus$ VERB\n $Poscia$ ADV\n $ch'$ SCONJ\n $Amor$ NOUN\n $del$ ADP\n $tutto$ ADV\n $m'$ PRON\n $ha$ AUX\n $lasciato$ VERB\n .$ PUNCT\n $Nec$ CCONJ\n $per$ ADP\n $se$ PRON\n $ibi$ ADV\n $carmen$ NOUN\n $est$ AUX\n $omnino$ ADV\n ,$ PUNCT\n $sed$ CCONJ\n $pars$ NOUN\n $endecasillabi$ NOUN\n $tantum$ ADV\n $ad$ ADP\n $rithimum$ NOUN\n $precedentis$ VERB\n $carminis$ NOUN\n $velut$ ADV\n $econ$ NOUN\n $respondens$ VERB\n .$ PUNCT\n $Et$ CCONJ\n $quemadmodum$ ADV\n $de$ ADP\n $pedibus$ NOUN\n ,$ PUNCT\n $dicimus$ VERB\n $et$ CCONJ\n $de$ ADP\n $versibus$ NOUN\n : PUNCT\n $in$ ADP\n $nullo$ DET\n $enim$ PART\n $pedes$ NOUN\n $et$ CCONJ\n $versus$ NOUN\n $differre$ VERB\n $videmus$ VERB\n $nisi$ SCONJ\n $in$ ADP\n $situ$ NOUN\n ,$ PUNCT\n $quia$ SCONJ\n $hii$ DET\n $ante$ ADP\n $hii$ DET\n $,$ PUNCT\n $post$ ADP\n $diesim$ ADJ\n $stantie$ VERB\n $nominantur$ VERB\n .$ PUNCT\n $Et$ CCONJ\n $etiam$ ADV\n
+quemadmodum\tADV\n de\tADP\n trimetro\tNOUN\n pede\tNOUN\n ,\tPUNCT\n et\tCCONJ\n de\tADP\n omnibus\tDET\n aliis\tDET\n servandum\tVERB\n esse\tAUX\n asserimus\tVERB\n ;\tPUNCT\n et\tCCONJ\n sicut\tSCONJ\n de\tADP\n uno\tDET\n eptasillabo\tNOUN\n ,\tPUNCT\n sic\tADV\n de\tADP\n pluribus\tDET\n et\tCCONJ\n de\tADP\n pentasillabo\tNOUN\n et\tCCONJ\n omni\tDET\n alio\tDET\n dicimus\tVERB\n .\tPUNCT\n Satis\tADV\n hinc\tADV\n ,\tPUNCT\n lector\tNOUN\n ,\tPUNCT\n elicere\tVERB\n sufficienter\tADV\n potes\tVERB\n qualiter\tSCONJ\n tibi\tPRON\n carminum\tNOUN\n habituanda\tVERB\n sit\tAUX\n stantia\tADJ\n habitudinemque\tNOUN\n habitudinem\tNOUN\n que\tPRON\n circa\tADP\n carmina\tNOUN\n considerandam\tVERB\n videre\tVERB\n .\tPUNCT\n Rithimorum\tNOUN\n quoque\tPART\n relationi\tNOUN\n vacemus\tVERB\n ,\tPUNCT\n nichil\tPRON\n de\tADP\n rithimo\tNOUN\n secundum\tADP\n se\tPRON\n modo\tNOUN\n tractantes\tVERB\n :\tPUNCT\n proprium\tADJ\n $\tPUNCT\n
+$enim$\tPART\n
+$eorum$\tADJ\n
+$tractatum$\tNOUN\n
+$in$\tADP\n
+$posterum$\tADJ\n
+$prorogamus$\tVERB\n
+$,$\tPUNCT\n
+$cum$\tSCONJ\n
+$de$\tADP\n
+$mediocri$\tADJ\n
+$poemate$\tNOUN\n
+$intendemus$\tVERB\n
+$.$\tPUNCT\n
+$Aliud$\tDET\n
+$est$\tAUX\n
+$stantia$\tNOUN\n
+$cuius$\tPRON\n
+$omnia$\tDET\n
+$carmina$\tNOUN\n
+$eundem$\tDET\n
+$rithimum$\tNOUN\n
+$reddunt$\tVERB\n
+$,$\tPUNCT\n
+$in$\tADP\n
+$qua$\tPRON\n
+$superfluum$\tADJ\n
+$esse$\tAUX\n
+$constat$\tVERB\n
+$habitudinem$\tNOUN\n
+$querere$\tVERB\n
+$.$\tPUNCT\n
+$Sunt$\tVERB\n
+$etenim$\tPART\n
+$quidam$\tDET\n
+$qui$\tPRON\n
+$non$\tPART\n
+$omnes$\tDET\n
+$quandoque$\tADV\n
+$desinentias$\tNOUN\n
+$carminum$\tNOUN\n
+$rithimantur$\tVERB\n
+$in$\tADP\n
+$eadem$\tDET\n
+$stantia$\tNOUN\n
+$,$\tPUNCT\n
+$sed$\tADV\n
+$easdem$\tDET\n
+$repetunt$\tVERB\n
+$sive$\tCCONJ\n
+$rithimantur$\tVERB\n
+$in$\tADP\n
+$aliis$\tDET\n
+$,$\tPUNCT\n
+$sicut$\tSCONJ\n
+$fuit$\tAUX\n
+$Gottus$\tPROPN\n
+$Mantuanus$\tPROPN\n
+$,$\tPUNCT\n
+$qui$\tPRON\n
+$suas$\tDET\n
+$multas$\tADJ\n
+$et$\tCCONJ\n
+$bonas$\tADJ\n
+$cantiones$\tNOUN\n
+$nobis$\tPRON\n
+$oretenus$\tADV\n
+$.$\tPUNCT\n
+$intimavit\tVERB\n :\tPUNCT\n hic\tADV\n semper\tADV\n in\tADP\n stantia\tADJ\n unum\tDET\n carmen\tNOUN\n incomitatum\tADJ\n texebat\tVERB\n ,\tPUNCT\n quod\tPRON\n clavem\tNOUN\n vocabat\tVERB\n ;\tPUNCT\n et\tCCONJ\n sicut\tSCONJ\n de\tADP\n uno\tDET\n licet\tVERB\n ,\tPUNCT\n licet\tVERB\n etiam\tADV\n de\tADP\n duobus\tNUM\n ,\tPUNCT\n et\tCCONJ\n forte\tADV\n de\tADP\n pluribus\tDET\n .\tPUNCT\n Quidam\tDET\n alii\tDET\n sunt\tAUX\n ,\tPUNCT\n et\tCCONJ\n fere\tNOUN\n omnes\tDET\n ,\tPUNCT\n cantionum\tNOUN\n inventores\tNOUN\n qui\tPRON\n nullum\tDET\n in\tADP\n stantia\tVERB\n carmen\tNOUN\n incomitatum\tADJ\n relinquunt\tVERB\n quin\tADV\n sibi\tPRON\n rithimi\tNOUN\n concrepantiam\tNOUN\n reddant\tVERB\n ,\tPUNCT\n vel\tCCONJ\n unius\tDET\n vel\tCCONJ\n plurium\tDET\n .\tPUNCT\n Et\tCCONJ\n quidam\tDET\n diversos\tADJ\n faciunt\tVERB\n esse\tAUX\n rithimos\tNOUN\n eorum\tPRON\n$\tPUNCT\n
+$que\tCCONJ\n post\tADP\n diesim\tADJ\n carmina\tNOUN\n sunt\tAUX\n a\tADP\n rithimis\tNOUN\n eorum\tPRON\n que\tCCONJ\n sunt\tAUX\n ante\tADP\n ;\tPUNCT\n quidam\tPRON\n vero\tADV\n non\tPART\n sic\tADV\n ,\tPUNCT\n sed\tCCONJ\n desinentias\tNOUN\n anterioris\tADJ\n stantie\tVERB\n inter\tADP\n postera\tADJ\n carmina\tNOUN\n referentes\tVERB\n intexunt\tVERB\n .\tPUNCT\n De\tADP\n rithimorum\tNOUN\n quoque\tADV\n habitudine\tNOUN\n ,\tPUNCT\n prout\tSCONJ\n sunt\tAUX\n in\tADP\n fronte\tNOUN\n vel\tCCONJ\n in\tADP\n cauda\tNOUN\n videtur\tVERB\n omnis\tDET\n optata\tVERB\n licentia\tNOUN\n concedenda\tVERB\n ;\tPUNCT\n pulcerrime\tADV\n tamen\tADV\n se\tPRON\n habent\tVERB\n ultimorum\tADJ\n carminum\tNOUN\n desinentie\tNOUN\n si\tSCONJ\n cum\tADP\n rithimo\tNOUN\n in\tADP\n silentium\tNOUN\n cadant\tVERB\n .\tPUNCT\n Et\tCCONJ\n si\tSCONJ\n in\tADP\n altero\tADJ\n pedum\tNOUN\n exsortem\tADJ\n rithimi\tNOUN\n$
+$desinentiam\tNOUN\n esse\tAUX\n contingat\tVERB\n ,\tPUNCT\n omnimode\tADV\n in\tADP\n altero\tDET\n sibi\tPRON\n instauratio\tNOUN\n fiat\tVERB\n .\tPUNCT\n Si\tSCONJ\n vero\tADV\n quelibet\tDET\n desinentia\tNOUN\n in\tADP\n altero\tDET\n pede\tNOUN\n rithimi\tNOUN\n consortium\tNOUN\n habeat\tVERB\n ,\tPUNCT\n in\tADP\n altero\tDET\n prout\tADV\n libet\tVERB\n referre\tVERB\n vel\tCCONJ\n innovare\tVERB\n desinentias\tNOUN\n licet\tVERB\n ,\tPUNCT\n vel\tCCONJ\n totaliter\tADV\n vel\tCCONJ\n in\tADP\n parte\tNOUN\n ,\tPUNCT\n dumtaxat\tPART\n precedentium\tADJ\n ordo\tNOUN\n servetur\tVERB\n in\tADP\n totum\tDET\n :\tPUNCT\n puta\tCCONJ\n ,\tPUNCT\n si\tSCONJ\n extreme\tADJ\n desinentie\tNOUN\n trimetri\tADJ\n ,\tPUNCT\n hoc\tDET\n est\tAUX\n prima\tADJ\n et\tCCONJ\n ultima\tADJ\n ,\tPUNCT\n concrepabunt\tVERB\n in\tADP\n primo\tADJ\n pede\tNOUN\n ,\tPUNCT\n sic\tCCONJ\n secundi\tADJ\n extremas\tADJ\n$\tPUNCT\n
+$desinentias\tNOUN\n convenit\tVERB\n concrepare\tVERB\n ;\tPUNCT\n et\tCCONJ\n qualem\tPRON\n se\tPRON\n in\tADP\n primo\tADJ\n media\tADJ\n videt\tVERB\n ,\tPUNCT\n comitatam\tVERB\n quidem\tPART\n vel\tCCONJ\n incomitatam\tADJ\n ,\tPUNCT\n talis\tDET\n in\tADP\n secundo\tADJ\n resurgat\tVERB\n :\tPUNCT\n et\tCCONJ\n sic\tADV\n de\tADP\n aliis\tDET\n pedibus\tNOUN\n est\tAUX\n servandum\tVERB\n .\tPUNCT\n Tria\tNUM\n ergo\tADV\n sunt\tAUX\n que\tPRON\n circa\tADP\n rithimorum\tNOUN\n positionem\tNOUN\n potiri\tVERB\n dedecet\tVERB\n aulice\tADJ\n poetantem\tVERB\n :\tPUNCT\n nimia\tADJ\n scilicet\tCCONJ\n eiusdem\tDET\n rithimi\tNOUN\n repercussio\tNOUN\n ,\tPUNCT\n nisi\tSCONJ\n forte\tADV\n novum\tADJ\n aliquid\tPRON\n atque\tCCONJ\n intentatum\tVERB\n artis\tNOUN\n hoc\tDET\n sibi\tPRON\n preroget\tVERB\n -\tPUNCT\n ut\tSCONJ\n nascentis\tVERB\n militie\tNOUN\n dies\tNOUN\n ,\tPUNCT\n qui\tPRON\n cum\tADP\n$
+nulla\tDET\n prerogativa\tNOUN\n suam\tDET\n indignatur\tVERB\n preterire\tVERB\n dietam\tVERB\n :\tPUNCT\n hoc\tDET\n etenim\tCONJ\n nos\tPRON\n facere\tVERB\n nisi\tCONJ\n sumus\tVERB\n ibi\tADV\n :\tPUNCT\n Amor\tNOUN\n ,\tPUNCT\n tu\tPRON\n vedi\tVERB\n ben\tADV\n che\tCONJ\n questa\tDET\n donna\tNOUN\n ;\tPUNCT\n secundum\tADP\n vero\tADV\n est\tVERB\n ipsa\tDET\n inutilis\tADJ\n equivocatio\tNOUN\n ,\tPUNCT\n que\tPRON\n semper\tADV\n sententie\tNOUN\n quicquam\tPRON\n derogare\tVERB\n videtur\tVERB\n ;\tPUNCT\n et\tCONJ\n tertium\tADJ\n est\tVERB\n rithimorum\tNOUN\n asperitas\tNOUN\n ,\tPUNCT\n nisi\tCONJ\n forte\tADV\n sit\tVERB\n lenitati\tNOUN\n permixta\tVERB\n :\tPUNCT\n nam\tCONJ\n lenium\tNOUN\n asperorumque\tADJ\n asperorum\tADJ\n que\tCONJ\n rithimorum\tNOUN\n mixtura\tNOUN\n ipsa\tDET\n tragedia\tNOUN\n nitescit\tVERB\n .\tPUNCT\n Et\tCONJ\n hec\tDET\n de\tADP\n arte\tNOUN\n ,\tPUNCT\n $\tPUNCT\n
