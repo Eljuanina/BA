@@ -36,43 +36,31 @@ B -- Comparison with test data solution --> D
 
 ## Folder Structure
 
-- **full_text_xml** 
-This folder contains two files. One contains all the Latin parts of the editions and the other all the Latin parts of the transcribed Bullinger letters. They were collected with the help of the file **extract_text.py**, which is located in the parent directory. This script accesses a folder with all Bullinger data that I was allowed to use from the GitHub repository of the [Bullinger Digital Project](https://github.com/bullinger-digital/bullinger-korpus).  This data is not included in this repository as it is not my data. 
+- **full_text_xml:** <br>This folder contains two files. One contains all the Latin parts of the editions and the other all the Latin parts of the transcribed Bullinger letters. They were collected with the help of the file **extract_text.py**, which is located in the parent directory. This script accesses a folder with all Bullinger data that I was allowed to use from the GitHub repository of the [Bullinger Digital Project](https://github.com/bullinger-digital/bullinger-korpus).  This data is not included in this repository as it is not my data. 
 
-- **samples**
-This folder contains the Bullinger sample data in xml format as well as a script for converting xml to txt. These examples were extracted from the parent directory using the **sample_editions.py** and **sample_transcriptions.py** scripts. The txt files of the data are also located in this folder. The **tokenizer.ipynb** script was used to tokenize the samples and save them in a txt file. 
+- **samples:**<br>This folder contains the Bullinger sample data in xml format as well as a script for converting xml to txt. These examples were extracted from the parent directory using the **sample_editions.py** and **sample_transcriptions.py** scripts. The txt files of the data are also located in this folder. The **tokenizer.ipynb** script was used to tokenize the samples and save them in a txt file. 
 
-- **Goldstandard**
-This folder contains different versions of the gold standard (annotated by different people) and a script **compare_gs.ipynb** that compares the gold standard versions using IAA and compares the files tagged by the different taggers with the gold standard I created. This was done using accuracy. The confusion matrices are also created in this script. 
+- **Goldstandard:**<br>This folder contains different versions of the gold standard (annotated by different people) and a script **compare_gs.ipynb** that compares the gold standard versions using IAA and compares the files tagged by the different taggers with the gold standard I created. This was done using accuracy. The confusion matrices are also created in this script. 
 
-- **random-training-data-other-taggers**
-This folder is intended for the tree database data. The **all_training_data.ipynb** script was used to create the different training splits for fine-tuning. The **compare_tagger_test.ipynb** script was used to compare the files tagged by the trained taggers with the reference test sets. This folder also contains all tagged versions of the test sets and the training splits for fine-tuning. 
+- **random-training-data-other-taggers:**<br>This folder is intended for the tree database data. The **all_training_data.ipynb** script was used to create the different training splits for fine-tuning. The **compare_tagger_test.ipynb** script was used to compare the files tagged by the trained taggers with the reference test sets. This folder also contains all tagged versions of the test sets and the training splits for fine-tuning. 
 
--  **cltk**
-This folder contains the code that is used to perform POS tagging with CLTK. I have used a virtual environment to be able to use Python version 3.9.7. To create this, use the command ```python3.9 -m venv cltk_env``` in the command line while being in the parent director. To activate the virtual environment, navigate to the parent directory and then enter the following command in your command line: 
+-  **cltk:**<br>This folder contains the code that is used to perform POS tagging with CLTK. I have used a virtual environment to be able to use Python version 3.9.7. To create this, use the command ```python3.9 -m venv cltk_env``` in the command line while being in the parent director. To activate the virtual environment, navigate to the parent directory and then enter the following command in your command line: 
 ```python source cltk_env/bin/activate``` and to deactivate it again, enter ```deactivate```. 
 
-- **latincy**
-The script in **latincy_different_test_sets.ipynb** was used to apply the LatinCy POS tagger to the test data, and the script **latincy_tokenized.ipynb** was used to apply POS tagging to the Bullinger samples in their tokenized version. 
+- **latincy:**<br>The script in **latincy_different_test_sets.ipynb** was used to apply the LatinCy POS tagger to the test data, and the script **latincy_tokenized.ipynb** was used to apply POS tagging to the Bullinger samples in their tokenized version. 
 
-- **RDRPOSTagger**
-The R script **RDRPOSTagger_tokenized.R** was used to apply the RDRPOSTagger to the Bullinger data using the language model **Latin-ITTB**. The script **RDRPOSTagger_different_test_sets.R** was used to tag the test sets of the treebanks. 
+- **RDRPOSTagger:**<br>The R script **RDRPOSTagger_tokenized.R** was used to apply the RDRPOSTagger to the Bullinger data using the language model **Latin-ITTB**. The script **RDRPOSTagger_different_test_sets.R** was used to tag the test sets of the treebanks. 
 
-- **RDRPOSTagger-master**
-There is also the RDRPOSTagger-master folder. This contains files that are required for the use of RDRPOSTagger. I have not added anything there.  
+- **RDRPOSTagger-master:**<br>There is also the RDRPOSTagger-master folder. This contains files that are required for the use of RDRPOSTagger. I have not added anything there.  
 
-- **RNNTagger**
-This folder contains the parameter files for Latin. For tagging a file, for example the file tokenized.txt,  go to the RNNTagger directory and enter the following command in the command line tool: ```cmd/rnn-tagger-latin.sh ../samples/tokenized.txt > Tagger_tokenized.txt```. 
+- **RNNTagger:**<br>This folder contains the parameter files for Latin. For tagging a file, for example the file tokenized.txt,  go to the RNNTagger directory and enter the following command in the command line tool: ```cmd/rnn-tagger-latin.sh ../samples/tokenized.txt > Tagger_tokenized.txt```. 
 
-- **TreeTagger**
-    This folder contains the parameter files as well as a script **TreeTagger_to_upos.ipynb** to convert the output of the TreeTagger to UPOS format. To apply the TreeTagger to data, you must first be in the parent directory and then enter the following command in the command line tool to tag the file tokenized.txt: 
+- **TreeTagger:** <br>This folder contains the parameter files as well as a script **TreeTagger_to_upos.ipynb** to convert the output of the TreeTagger to UPOS format. To apply the TreeTagger to data, you must first be in the parent directory and then enter the following command in the command line tool to tag the file tokenized.txt: 
     ```cat samples/tokenized.txt | TreeTagger/cmd/tree-tagger-latin> TreeTagger/TreeTagger_tokenized.txt```
 
-- **UDPipe**
-This folder contains a script called **UDpipe_tokenized.R** which was used to tag the Bullinger data. The script **UDpipe_different_test_sets.R** was used to apply POS tagging to the treebank data. The parameter file **latin-proiel-ud-2.5-191206.udpipe** was used for both. 
+- **UDPipe:**<br>This folder contains a script called **UDpipe_tokenized.R** which was used to tag the Bullinger data. The script **UDpipe_different_test_sets.R** was used to apply POS tagging to the treebank data. The parameter file **latin-proiel-ud-2.5-191206.udpipe** was used for both. 
 
-- **GPT**
-This folder contains the **gpt-api. py** file to apply POS tagging to the Bullinger data using the GPT API, the **Fine-TunedGPT3.5Turbo.ipynb** script used to fine-tune the models, and the **test_set_models.py** script used to tag the treebank data.
+- **GPT:**<br>This folder contains the **gpt-api. py** file to apply POS tagging to the Bullinger data using the GPT API, the **Fine-TunedGPT3.5Turbo.ipynb** script used to fine-tune the models, and the **test_set_models.py** script used to tag the treebank data.
 
 ## Usage of scripts
 | File | Stored in | Content |
